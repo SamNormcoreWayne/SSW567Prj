@@ -1,0 +1,103 @@
+0|FAM|Y|@F1@
+1|HUSB|Y|John Baccus
+1|WIFE|Y|Amanda Calvo
+1|CHIL|Y|Betty Baccus
+2|AGE|Y|25
+1|CHIL|Y|Earl Baccus
+2|AGE|Y|18
+1|CHIL|Y|Cecile Baccus
+2|AGE|Y|10
+1|CHIL|Y|Melissa Baccus
+2|AGE|Y|20
+1|CHIL|Y|Emory Baccus
+2|AGE|Y|16
+1|INCOME|Y|33600
+0|FAM|Y|@F2@
+1|HUSB|Y|Ernest Brown
+1|WIFE|Y|Catherine Lindenbaum
+1|CHIL|Y|Chad Brown
+2|AGE|Y|21
+1|INCOME|Y|39900
+0|FAM|Y|@F3@
+1|HUSB|Y|Leroy Jackson
+1|WIFE|Y|Misty Young
+1|CHIL|Y|Michelle Jackson
+2|AGE|Y|15
+1|CHIL|Y|Bruce Jackson
+2|AGE|Y|24
+1|CHIL|Y|Alex Jackson
+2|AGE|Y|2
+1|INCOME|Y|68100
+0|FAM|Y|@F4@
+1|HUSB|Y|Charles Cook
+1|CHIL|Y|Charley Cook
+2|AGE|Y|21
+1|CHIL|Y|Elizabeth Cook
+2|AGE|Y|3
+1|CHIL|Y|Arlene Cook
+2|AGE|Y|9
+1|CHIL|Y|Timothy Cook
+2|AGE|Y|9
+1|INCOME|Y|58700
+0|FAM|Y|@F5@
+1|HUSB|Y|Scott Barton
+1|CHIL|Y|Lester Barton
+2|AGE|Y|25
+1|CHIL|Y|Donald Barton
+2|AGE|Y|11
+1|CHIL|Y|Blake Barton
+2|AGE|Y|4
+1|CHIL|Y|Ellen Barton
+2|AGE|Y|15
+1|INCOME|Y|55500
+0|FAM|Y|@F6@
+1|HUSB|Y|Hiram Harvey
+1|CHIL|Y|Kathryn Harvey
+2|AGE|Y|7
+1|CHIL|Y|Oliver Harvey
+2|AGE|Y|9
+1|INCOME|Y|21200
+0|FAM|Y|@F7@
+1|HUSB|Y|Terrence Drury
+1|CHIL|Y|Frank Drury
+2|AGE|Y|23
+1|CHIL|Y|Earl Drury
+2|AGE|Y|6
+1|CHIL|Y|Christopher Drury
+2|AGE|Y|20
+1|CHIL|Y|Terrie Drury
+2|AGE|Y|19
+1|INCOME|Y|64700
+0|FAM|Y|@F8@
+1|WIFE|Y|Norma Gass
+1|CHIL|Y|Elsie Loesch
+2|AGE|Y|6
+1|CHIL|Y|Rita Loesch
+2|AGE|Y|5
+1|CHIL|Y|Robert Loesch
+2|AGE|Y|10
+1|CHIL|Y|Mary Loesch
+2|AGE|Y|11
+1|CHIL|Y|Christie Loesch
+2|AGE|Y|2
+1|INCOME|Y|67600
+0|FAM|Y|@F9@
+1|WIFE|Y|Maryanne Harris
+1|CHIL|Y|Arthur Richardson
+2|AGE|Y|6
+1|CHIL|Y|Kenneth Richardson
+2|AGE|Y|25
+1|CHIL|Y|Robert Richardson
+2|AGE|Y|10
+1|CHIL|Y|Fran Richardson
+2|AGE|Y|3
+1|CHIL|Y|Alice Richardson
+2|AGE|Y|23
+1|INCOME|Y|43100
+0|FAM|Y|@F10@
+1|WIFE|Y|Elizabeth Covington
+1|CHIL|Y|Francis Rempel
+2|AGE|Y|4
+1|CHIL|Y|April Rempel
+2|AGE|Y|17
+1|INCOME|Y|60900
