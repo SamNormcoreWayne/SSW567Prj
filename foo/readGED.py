@@ -13,8 +13,12 @@ def readGED(dir, filename):
             if line == '\n':
                 break
             if line.startwith("0|FAM|Y"):
+
+                # Prevent yield before reading the first family
                 if 'income' in dic:
                     yield dic
+
+
                 hus_name = 'N/A'
                 wife_name = 'N/A'
                 child = dict()
@@ -23,6 +27,7 @@ def readGED(dir, filename):
                 income = "N/A"
                 tmp = line.split('|')
                 fam_ID = tmp.pop()
+
             if line.startwith("1|HUSB|Y|"):
                 hus_name = line.split('|').pop()
             if line.startwith("1|WIFE|Y|"):

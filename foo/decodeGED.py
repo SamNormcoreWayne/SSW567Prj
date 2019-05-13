@@ -42,8 +42,8 @@ def decodeGED(dir, filename):
     fp2.close()
 
 def main():
-    dir = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+    dir = os.getcwd()
     decodeGED(os.path.join(dir, "docs"), "sample")
-
+    
 if __name__ == "__main__":
     main()
