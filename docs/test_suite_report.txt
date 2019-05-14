@@ -1,0 +1,25 @@
++-------+----------------+----------------------+-------------------------------------------------------------------------------------------------------------------------------------+--------+
+|   ID  |    Hus Name    |      Wife Name       |                                                              Child(ren)                                                             | Income |
++-------+----------------+----------------------+-------------------------------------------------------------------------------------------------------------------------------------+--------+
+|  @F1@ |  John Baccus   |     Amanda Calvo     |           {'Betty Baccus': '25', 'Earl Baccus': '18', 'Cecile Baccus': '10', 'Melissa Baccus': '20', 'Emory Baccus': '16'}          | 33600  |
+|  @F2@ |  Ernest Brown  | Catherine Lindenbaum |                                                         {'Chad Brown': '21'}                                                        | 39900  |
+|  @F3@ | Leroy Jackson  |     Misty Young      |                                {'Michelle Jackson': '15', 'Bruce Jackson': '24', 'Alex Jackson': '2'}                               | 68100  |
+|  @F4@ |  Charles Cook  |         N/A          |                        {'Charley Cook': '21', 'Elizabeth Cook': '3', 'Arlene Cook': '9', 'Timothy Cook': '9'}                       | 58700  |
+|  @F5@ |  Scott Barton  |         N/A          |                      {'Lester Barton': '25', 'Donald Barton': '11', 'Blake Barton': '4', 'Ellen Barton': '15'}                      | 55500  |
+|  @F6@ |  Hiram Harvey  |         N/A          |                                            {'Kathryn Harvey': '7', 'Oliver Harvey': '9'}                                            | 21200  |
+|  @F7@ | Terrence Drury |         N/A          |                      {'Frank Drury': '23', 'Earl Drury': '6', 'Christopher Drury': '20', 'Terrie Drury': '19'}                      | 64700  |
+|  @F8@ |      N/A       |      Norma Gass      |            {'Elsie Loesch': '6', 'Rita Loesch': '5', 'Robert Loesch': '10', 'Mary Loesch': '11', 'Christie Loesch': '2'}            | 67600  |
+|  @F9@ |      N/A       |   Maryanne Harris    | {'Arthur Richardson': '6', 'Kenneth Richardson': '25', 'Robert Richardson': '10', 'Fran Richardson': '3', 'Alice Richardson': '23'} | 43100  |
+| @F10@ |      N/A       | Elizabeth Covington  |                                            {'Francis Rempel': '4', 'April Rempel': '17'}                                            | 60900  |
++-------+----------------+----------------------+-------------------------------------------------------------------------------------------------------------------------------------+--------+
+test_input_family (test_us01.TestUS01) ... ok
+test_output_family (test_us02.TestUS02) ... ok
+test_us03 (test_us03.TestUS03) ... ok
+test_us04 (test_us04.TestUS04) ... ok
+test_us05 (test_us05.TestUS05) ... ok
+test_us06 (test_us06.TestUS06) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.067s
+
+OK
