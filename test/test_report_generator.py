@@ -7,8 +7,9 @@ if __name__ == "__main__":
     discover = unittest.defaultTestLoader.discover(test_dir, 'test_*.py')
     docs_dir = os.path.join(os.getcwd(), "docs")
     report_path = os.path.join(docs_dir, 'test_suite_report.txt')
-    a = Repository(filename='sample', dir=os.path.join(docs_dir, 'docs'))
+    a = Repository(filename='sample', dir=os.path.join(docs_dir))
     with open(report_path, 'w') as report:
         report.write(a.output_family())
+        report.write('\n')
         runner = unittest.TextTestRunner(stream=report, verbosity=2)
         runner.run(discover)

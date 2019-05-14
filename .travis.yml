@@ -13,3 +13,4 @@ script:
   - python -m unittest test/test_us04.py
   - python -m unittest test/test_us05.py
   - python -m unittest test/test_us06.py
+  - python -m test.test_report_generator
