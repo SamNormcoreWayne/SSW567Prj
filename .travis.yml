@@ -6,4 +6,6 @@ sudo: true
 install:
   - pip install PrettyTable
 script:
-python3 -m unittest discover
+  - python foo/decodeGED.py
+  - python main.py
+
