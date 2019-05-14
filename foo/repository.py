@@ -55,7 +55,8 @@ class Repository():
                 result[fam.fam_ID] = fam.income
         
         if not result:
-            print('\n', "US03---> Not family with more than $30,000 income has been found in this file")
+            print('\n')
+            return ("US03---> Not family with more than $30,000 income has been found in this file")
         
         else:
             field_name = ['ID', 'Income']
@@ -63,7 +64,7 @@ class Repository():
             for ID, income in result.items():
                 table.add_row([ID, income])
 
-            print('\n', 'Families with income more than $30,000')
+            return('\n', 'Families with income more than $30,000. \n', table)
             print(table)
 
     #us_04 Fewer than 10 kids
