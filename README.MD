@@ -13,3 +13,8 @@ docs/ contains source data files and documentations
 ```
 test/ contains test cases
 ```
+
+Make sure you are in the root directory of the project and run
+``` shell
+python main.py
+```

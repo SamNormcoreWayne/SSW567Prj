@@ -6,5 +6,5 @@ sudo: true
 install:
   - pip install PrettyTable
 script:
-  - python decodeGED.py
+  - python foo/decodeGED.py
   - python main.py
