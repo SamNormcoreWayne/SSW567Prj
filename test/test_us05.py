@@ -4,7 +4,7 @@ from foo.repository import Repository
 
 dir = os.path.join(os.getcwd(), "docs")
 filename_1 = "sample"
-filename_2 = "test_no_younger_than_5.ged"
+filename_2 = "test_no_younger_than_5"
 
 class TestUS05(unittest.TestCase):
     ''' Test Case 05: To test children younger than 5'''

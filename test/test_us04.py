@@ -4,7 +4,7 @@ from foo.repository import Repository
 
 dir = os.path.join(os.getcwd(), "docs")
 filename_1 = "sample"
-filename_2 = "test_no_4_child.ged"
+filename_2 = "test_no_4_child"
 
 class TestUS04(unittest.TestCase):
     ''' Test Case US04: To test child more than 4'''
