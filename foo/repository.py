@@ -28,7 +28,7 @@ class Repository():
         filename = self.filename
         decodeGED(path, filename)
         fam_lst = list(readGED(path, filename))
-        print(fam_lst)
+        #print(fam_lst)
         for fam_dic in fam_lst:
             new_family = Family(fam_dic['fam_ID'], fam_dic['HUSB'], fam_dic["WIFE"], fam_dic["CHIL"], fam_dic["INCOME"])
             self.Family[fam_dic['fam_ID']] = new_family
@@ -42,7 +42,7 @@ class Repository():
         for family in self.Family.values():
             table.add_row([family.fam_ID, family.hus, family.wife, family.child, family.income])
 
-        print("Families")
+        #print("Families")
         print(table.get_string(sortby='ID'))
         return table.get_string()
 
