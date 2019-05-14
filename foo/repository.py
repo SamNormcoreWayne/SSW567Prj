@@ -44,7 +44,7 @@ class Repository():
 
         print("Families")
         print(table.get_string(sortby='ID'))
-        return table
+        return table.get_string
 
     
     #us_03 Income more than $30,000
