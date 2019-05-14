@@ -6,7 +6,6 @@ sudo: true
 install:
   - pip install PrettyTable
 script:
-  - cd test
-  - python -m unittest test_us01.py
-  - python -m unittest test_us02.py
-  - python -m unittest test_us03.py
+  - python -m unittest test/test_us01.py
+  - python -m unittest test/test_us02.py
+  - python -m unittest test/test_us03.py

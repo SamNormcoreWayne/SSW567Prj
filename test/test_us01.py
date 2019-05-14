@@ -9,6 +9,6 @@ filename = "sample"
 class TestUS01(unittest.TestCase):
     def test_input_family(self):
         repo = Repository(filename, dir)
-        self.assertEqual(len(repo.Family.keys()), True)
+        self.assertNotEqual(len(repo.Family.keys()), 0)
         with self.assertRaises(FileNotFoundError):
-            repo_error = Repository("nothing", dir)
+            Repository("nothing", dir)
