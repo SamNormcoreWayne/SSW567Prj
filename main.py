@@ -1,3 +1,4 @@
+import os
 from foo.repository import Repository
 
 ''' Class Repository
@@ -6,7 +7,10 @@ from foo.repository import Repository
 '''
 
 def main():
-    pass
+    dir = os.path.join(os.getcwd(), "docs")
+    filename = "sample"
+    repo = Repository(filename, dir)
+    repo.output_family()
 
 if __name__ == "__main__":
     main()

@@ -24,13 +24,14 @@ class Repository():
         path = self.working_path
         filename = self.filename
         fam_lst = list(readGED(path, filename))
+        print(fam_lst)
         for fam_dic in fam_lst:
             new_family = Family(fam_dic['fam_ID'], fam_dic['HUSB'], fam_dic["WIFE"], fam_dic["CHIL"], fam_dic["INCOME"])
             self.Family[fam_dic['fam_ID']] = new_family
 
     def output_family(self):
-        field_name = ["ID", "Hus Name", "Wife Name", "Child(ren)", "Income"]
-        table = PrettyTable(filed_names=field_name)
+        field_name = ['ID', 'Hus Name', 'Wife Name', 'Child(ren)', 'Income']
+        table = PrettyTable(field_names=field_name)
         for family in self.Family.values():
             table.add_row([family.fam_ID, family.hus, family.wife, family.child, family.income])
         
