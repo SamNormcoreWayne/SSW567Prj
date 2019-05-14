@@ -10,4 +10,4 @@ repo = Repository(filename, dir)
 class TestUS02(unittest.TestCase):
     ''' Test Case 02: To test family detials output'''
     def test_output_family(self):
-        self.assertEqual(len(repo.output_family()), True)
+        self.assertNotEqual(len(repo.output_family()), 0)
