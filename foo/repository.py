@@ -4,6 +4,9 @@ from collections import defaultdict
 from foo.readGED import readGED
 from foo.family import Family
 from foo.decodeGED import decodeGED
+from time import time
+from functools import wraps
+
 
 ''' Class Family
     Attributes: (fam_ID, hus, wife, child, income)
@@ -14,6 +17,18 @@ from foo.decodeGED import decodeGED
     Parameters: (dir, filename)
     Return: generator(dict("fam_ID", "HUSB", "WIFE", "CHIL", "INCOME"))
 '''
+
+def timing(f):
+    @wraps(f)
+    def wrapper(*args, **kwargs):
+        start = time()
+        result = f(*args, **kwargs)
+        end = time()
+        print ('Elapsed time: {}'.format(end-start))
+        return result
+    return wrapper
+
+
 
 class Repository():
     def __init__(self, filename, dir=os.getcwd()):
@@ -121,6 +136,7 @@ class Repository():
 
     
     #us_06 Check benefit eligibility
+    @timing
     def check_benefit_eligibility(self):
         """Check for each family's benefit eligibility"""
         result = dict()
