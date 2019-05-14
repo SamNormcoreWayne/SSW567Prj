@@ -35,11 +35,14 @@ class Repository():
     def output_family(self):
         field_name = ['ID', 'Hus Name', 'Wife Name', 'Child(ren)', 'Income']
         table = PrettyTable(field_names=field_name)
+        if list(self.Family.values()) == []:
+            return False
         for family in self.Family.values():
             table.add_row([family.fam_ID, family.hus, family.wife, family.child, family.income])
 
         print("Families")
         print(table.get_string(sortby='ID'))
+        return table
 
     
     #us_03 Income more than $30,000
@@ -151,6 +154,3 @@ class Repository():
 
         print('\n', 'Benefit eligibility summary')
         print(table)
-        
-        
-
