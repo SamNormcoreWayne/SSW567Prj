@@ -7,6 +7,7 @@ filename = "sample"
 
 
 class TestUS01(unittest.TestCase):
+    ''' Test Case 01: To test read ged files'''
     def test_input_family(self):
         repo = Repository(filename, dir)
         self.assertNotEqual(len(repo.Family.keys()), 0)

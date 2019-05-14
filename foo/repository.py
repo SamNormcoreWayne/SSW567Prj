@@ -1,8 +1,9 @@
 import os
 from prettytable import PrettyTable
+from collections import defaultdict
 from foo.readGED import readGED
 from foo.family import Family
-from collections import defaultdict
+from foo.decodeGED import decodeGED
 
 ''' Class Family
     Attributes: (fam_ID, hus, wife, child, income)
@@ -25,6 +26,7 @@ class Repository():
     def input_family(self):
         path = self.working_path
         filename = self.filename
+        decodeGED(path, filename)
         fam_lst = list(readGED(path, filename))
         print(fam_lst)
         for fam_dic in fam_lst:
@@ -56,16 +58,16 @@ class Repository():
         
         if not result:
             print('\n')
-            return ("US03---> Not family with more than $30,000 income has been found in this file")
+            return "US03---> Not family with more than $30,000 income has been found in this file"
         
         else:
             field_name = ['ID', 'Income']
             table = PrettyTable(field_names = field_name)
             for ID, income in result.items():
                 table.add_row([ID, income])
-
-            return('\n', 'Families with income more than $30,000. \n', table)
+            print('\n', 'Families with income more than $30,000. \n')
             print(table)
+            return True
 
     #us_04 Fewer than 10 kids
     def fewer_than_10_kids(self):
@@ -77,7 +79,8 @@ class Repository():
                 result[fam.fam_ID] = [i for i in fam.child.keys()]
         
         if not result:
-            print('\n', "US04---> Not family with more than 10 kids has been found in this file")
+            print('\n')
+            return "US04---> Not family with more than 10 kids has been found in this file"
 
         else:
             field_name = ['ID', 'Number of kids', 'Names']
@@ -87,6 +90,7 @@ class Repository():
 
             print('\n', 'Families with more than 10 kids')
             print(table)
+            return True
 
 
     #us_05 Younger than 5
@@ -100,7 +104,8 @@ class Repository():
                     result[fam.fam_ID][kid] = age
         
         if not result:
-            print('\n', "US05---> Not family with kids younger than 5 years old has been found in this file")
+            print('\n')
+            return "US05---> Not family with kids younger than 5 years old has been found in this file"
 
         else:
             field_name = ['ID', 'Names', 'Age']
@@ -112,6 +117,7 @@ class Repository():
 
             print('\n', 'Families with kids younger than 5 years old')
             print(table)
+            return True
 
     
     #us_06 Check benefit eligibility
@@ -155,3 +161,4 @@ class Repository():
 
         print('\n', 'Benefit eligibility summary')
         print(table)
+        return table.get_string()
