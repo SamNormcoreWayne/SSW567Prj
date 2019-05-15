@@ -1,0 +1,9714 @@
+0|FAM|Y|@F1@
+1|HUSB|Y|Christopher Garcia
+1|WIFE|Y|Nellie Thompson
+1|CHIL|Y|Andrea Garcia
+2|AGE|Y|13
+1|CHIL|Y|Dominick Garcia
+2|AGE|Y|12
+1|CHIL|Y|Walter Garcia
+2|AGE|Y|6
+1|INCOME|Y|31500
+0|FAM|Y|@F2@
+1|HUSB|Y|Albert Barton
+1|WIFE|Y|Amie Yarberry
+1|CHIL|Y|Jeremy Barton
+2|AGE|Y|5
+1|CHIL|Y|Thomas Barton
+2|AGE|Y|5
+1|CHIL|Y|Robert Barton
+2|AGE|Y|3
+1|CHIL|Y|Elizabeth Barton
+2|AGE|Y|17
+1|INCOME|Y|62900
+0|FAM|Y|@F3@
+1|HUSB|Y|Richard Rogers
+1|WIFE|Y|Gayle White
+1|CHIL|Y|Robert Rogers
+2|AGE|Y|10
+1|INCOME|Y|54500
+0|FAM|Y|@F4@
+1|HUSB|Y|Carl Hernandez
+1|WIFE|Y|Amber Walker
+1|CHIL|Y|Dan Hernandez
+2|AGE|Y|14
+1|CHIL|Y|Maria Hernandez
+2|AGE|Y|25
+1|CHIL|Y|Gerald Hernandez
+2|AGE|Y|21
+1|INCOME|Y|57000
+0|FAM|Y|@F5@
+1|HUSB|Y|Lazaro Stock
+1|WIFE|Y|Natalie Wilkinson
+1|CHIL|Y|Stanley Stock
+2|AGE|Y|23
+1|CHIL|Y|Maria Stock
+2|AGE|Y|19
+1|INCOME|Y|69900
+0|FAM|Y|@F6@
+1|HUSB|Y|Sebastian Jennings
+1|WIFE|Y|Barbara Guzman
+1|CHIL|Y|Joyce Jennings
+2|AGE|Y|3
+1|CHIL|Y|Eve Jennings
+2|AGE|Y|21
+1|CHIL|Y|Tara Jennings
+2|AGE|Y|7
+1|INCOME|Y|50800
+0|FAM|Y|@F7@
+1|HUSB|Y|Justin Panter
+1|WIFE|Y|Janice Marshall
+1|CHIL|Y|Stanley Panter
+2|AGE|Y|17
+1|INCOME|Y|58800
+0|FAM|Y|@F8@
+1|HUSB|Y|Andrew Wells
+1|WIFE|Y|Matilda Reeves
+1|CHIL|Y|Wanda Wells
+2|AGE|Y|4
+1|CHIL|Y|Diane Wells
+2|AGE|Y|12
+1|CHIL|Y|Shirley Wells
+2|AGE|Y|10
+1|CHIL|Y|Robert Wells
+2|AGE|Y|8
+1|INCOME|Y|58000
+0|FAM|Y|@F9@
+1|HUSB|Y|Raymond Santos
+1|WIFE|Y|Sylvia Oconnell
+1|CHIL|Y|William Santos
+2|AGE|Y|6
+1|CHIL|Y|Megan Santos
+2|AGE|Y|11
+1|INCOME|Y|44100
+0|FAM|Y|@F10@
+1|HUSB|Y|Louis Bailey
+1|WIFE|Y|Carolyn Nicholas
+1|CHIL|Y|Michael Bailey
+2|AGE|Y|13
+1|CHIL|Y|Daryl Bailey
+2|AGE|Y|18
+1|CHIL|Y|Joseph Bailey
+2|AGE|Y|24
+1|CHIL|Y|Thomas Bailey
+2|AGE|Y|1
+1|CHIL|Y|Christine Bailey
+2|AGE|Y|17
+1|INCOME|Y|50900
+0|FAM|Y|@F11@
+1|HUSB|Y|Brian Martin
+1|WIFE|Y|Caroline Ames
+1|CHIL|Y|Loren Martin
+2|AGE|Y|14
+1|CHIL|Y|Kimberly Martin
+2|AGE|Y|8
+1|CHIL|Y|Ronald Martin
+2|AGE|Y|8
+1|INCOME|Y|40100
+0|FAM|Y|@F12@
+1|HUSB|Y|Frank Ford
+1|WIFE|Y|Mary Anderson
+1|CHIL|Y|Kevin Ford
+2|AGE|Y|16
+1|CHIL|Y|David Ford
+2|AGE|Y|1
+1|CHIL|Y|Gwendolyn Ford
+2|AGE|Y|3
+1|CHIL|Y|June Ford
+2|AGE|Y|2
+1|INCOME|Y|36400
+0|FAM|Y|@F13@
+1|HUSB|Y|William Jageman
+1|WIFE|Y|Margaret Dunlap
+1|CHIL|Y|Jody Jageman
+2|AGE|Y|16
+1|INCOME|Y|32400
+0|FAM|Y|@F14@
+1|HUSB|Y|Hubert Connors
+1|WIFE|Y|Helen Burnstein
+1|CHIL|Y|Mimi Connors
+2|AGE|Y|14
+1|CHIL|Y|April Connors
+2|AGE|Y|10
+1|CHIL|Y|Joey Connors
+2|AGE|Y|15
+1|CHIL|Y|Tracy Connors
+2|AGE|Y|7
+1|CHIL|Y|Larisa Connors
+2|AGE|Y|16
+1|INCOME|Y|67700
+0|FAM|Y|@F15@
+1|HUSB|Y|Randall Marcus
+1|WIFE|Y|Beatrice Fisher
+1|CHIL|Y|Sommer Marcus
+2|AGE|Y|20
+1|CHIL|Y|Dorothy Marcus
+2|AGE|Y|14
+1|CHIL|Y|Sheena Marcus
+2|AGE|Y|1
+1|CHIL|Y|Karl Marcus
+2|AGE|Y|2
+1|INCOME|Y|63100
+0|FAM|Y|@F16@
+1|HUSB|Y|David Autry
+1|WIFE|Y|Janice Tubbs
+1|CHIL|Y|Kristopher Autry
+2|AGE|Y|5
+1|CHIL|Y|Jorge Autry
+2|AGE|Y|22
+1|CHIL|Y|Judith Autry
+2|AGE|Y|5
+1|CHIL|Y|Edith Autry
+2|AGE|Y|7
+1|INCOME|Y|44500
+0|FAM|Y|@F17@
+1|HUSB|Y|Lester Boling
+1|WIFE|Y|Brenda Hernandez
+1|CHIL|Y|Harry Boling
+2|AGE|Y|6
+1|CHIL|Y|Walter Boling
+2|AGE|Y|22
+1|INCOME|Y|33500
+0|FAM|Y|@F18@
+1|HUSB|Y|Christopher Morris
+1|WIFE|Y|Christina Martinez
+1|CHIL|Y|Tyler Morris
+2|AGE|Y|25
+1|INCOME|Y|48700
+0|FAM|Y|@F19@
+1|HUSB|Y|Lynn Simmons
+1|WIFE|Y|Harriet Malveaux
+1|CHIL|Y|Dennis Simmons
+2|AGE|Y|17
+1|CHIL|Y|Christopher Simmons
+2|AGE|Y|4
+1|CHIL|Y|Terry Simmons
+2|AGE|Y|21
+1|CHIL|Y|Mary Simmons
+2|AGE|Y|19
+1|CHIL|Y|James Simmons
+2|AGE|Y|1
+1|INCOME|Y|25100
+0|FAM|Y|@F20@
+1|HUSB|Y|Everett Rawson
+1|WIFE|Y|Stacy Delgadillo
+1|CHIL|Y|Amber Rawson
+2|AGE|Y|14
+1|CHIL|Y|Scott Rawson
+2|AGE|Y|10
+1|CHIL|Y|Robert Rawson
+2|AGE|Y|6
+1|INCOME|Y|43200
+0|FAM|Y|@F21@
+1|HUSB|Y|Kevin Longshore
+1|WIFE|Y|Chandra Cuevas
+1|CHIL|Y|Ronnie Longshore
+2|AGE|Y|24
+1|INCOME|Y|64800
+0|FAM|Y|@F22@
+1|HUSB|Y|Mark Andrews
+1|WIFE|Y|Lacie Brown
+1|CHIL|Y|Frances Andrews
+2|AGE|Y|21
+1|CHIL|Y|Danny Andrews
+2|AGE|Y|5
+1|CHIL|Y|Sally Andrews
+2|AGE|Y|1
+1|CHIL|Y|Barbara Andrews
+2|AGE|Y|17
+1|CHIL|Y|Kristin Andrews
+2|AGE|Y|23
+1|INCOME|Y|30500
+0|FAM|Y|@F23@
+1|HUSB|Y|George Hudson
+1|WIFE|Y|Frances Hirota
+1|CHIL|Y|Michael Hudson
+2|AGE|Y|17
+1|INCOME|Y|23700
+0|FAM|Y|@F24@
+1|HUSB|Y|Ricky Vandy
+1|WIFE|Y|Joan Gholston
+1|CHIL|Y|Teresa Vandy
+2|AGE|Y|23
+1|CHIL|Y|Lincoln Vandy
+2|AGE|Y|8
+1|CHIL|Y|Betty Vandy
+2|AGE|Y|8
+1|CHIL|Y|Ted Vandy
+2|AGE|Y|18
+1|CHIL|Y|John Vandy
+2|AGE|Y|13
+1|INCOME|Y|47600
+0|FAM|Y|@F25@
+1|HUSB|Y|Paul New
+1|WIFE|Y|Mamie Hansen
+1|CHIL|Y|Dorothy New
+2|AGE|Y|23
+1|CHIL|Y|Daisy New
+2|AGE|Y|19
+1|CHIL|Y|Errol New
+2|AGE|Y|24
+1|CHIL|Y|Kaitlyn New
+2|AGE|Y|19
+1|INCOME|Y|22600
+0|FAM|Y|@F26@
+1|HUSB|Y|Gary Vargas
+1|WIFE|Y|Frances Bergstrom
+1|CHIL|Y|Earnestine Vargas
+2|AGE|Y|15
+1|CHIL|Y|Carina Vargas
+2|AGE|Y|9
+1|CHIL|Y|Patricia Vargas
+2|AGE|Y|11
+1|CHIL|Y|Rebecca Vargas
+2|AGE|Y|13
+1|INCOME|Y|37800
+0|FAM|Y|@F27@
+1|HUSB|Y|William Gonzalez
+1|WIFE|Y|Bernice Justice
+1|CHIL|Y|Flora Gonzalez
+2|AGE|Y|8
+1|CHIL|Y|Tommy Gonzalez
+2|AGE|Y|4
+1|CHIL|Y|Matt Gonzalez
+2|AGE|Y|5
+1|CHIL|Y|Mark Gonzalez
+2|AGE|Y|10
+1|INCOME|Y|21400
+0|FAM|Y|@F28@
+1|HUSB|Y|Mark Delaney
+1|WIFE|Y|Bernice Henderson
+1|CHIL|Y|Ruth Delaney
+2|AGE|Y|3
+1|CHIL|Y|Rosa Delaney
+2|AGE|Y|12
+1|INCOME|Y|42800
+0|FAM|Y|@F29@
+1|HUSB|Y|Felipe Kaczor
+1|WIFE|Y|Billy Gochenour
+1|CHIL|Y|James Kaczor
+2|AGE|Y|2
+1|CHIL|Y|Roy Kaczor
+2|AGE|Y|7
+1|CHIL|Y|David Kaczor
+2|AGE|Y|14
+1|CHIL|Y|Crystal Kaczor
+2|AGE|Y|3
+1|INCOME|Y|56300
+0|FAM|Y|@F30@
+1|HUSB|Y|Barrett Renaud
+1|WIFE|Y|Imogene Mullens
+1|CHIL|Y|David Renaud
+2|AGE|Y|19
+1|CHIL|Y|Janice Renaud
+2|AGE|Y|3
+1|INCOME|Y|63500
+0|FAM|Y|@F31@
+1|HUSB|Y|Anthony Vanness
+1|WIFE|Y|Tena Cook
+1|CHIL|Y|Richard Vanness
+2|AGE|Y|21
+1|INCOME|Y|42900
+0|FAM|Y|@F32@
+1|HUSB|Y|William Penttila
+1|WIFE|Y|Terra Cupit
+1|CHIL|Y|Richard Penttila
+2|AGE|Y|11
+1|CHIL|Y|Susan Penttila
+2|AGE|Y|8
+1|CHIL|Y|Jimmie Penttila
+2|AGE|Y|13
+1|CHIL|Y|Vivian Penttila
+2|AGE|Y|3
+1|CHIL|Y|Justin Penttila
+2|AGE|Y|5
+1|INCOME|Y|45600
+0|FAM|Y|@F33@
+1|HUSB|Y|Lee Graves
+1|WIFE|Y|Ruth Kramer
+1|CHIL|Y|Whitney Graves
+2|AGE|Y|19
+1|CHIL|Y|Juan Graves
+2|AGE|Y|9
+1|CHIL|Y|Gerald Graves
+2|AGE|Y|23
+1|CHIL|Y|Holly Graves
+2|AGE|Y|23
+1|INCOME|Y|45400
+0|FAM|Y|@F34@
+1|HUSB|Y|Danny Cleary
+1|WIFE|Y|Kimberly Howe
+1|CHIL|Y|Joshua Cleary
+2|AGE|Y|3
+1|INCOME|Y|21700
+0|FAM|Y|@F35@
+1|HUSB|Y|Charles Rodgers
+1|WIFE|Y|Judith Cole
+1|CHIL|Y|Patricia Rodgers
+2|AGE|Y|6
+1|CHIL|Y|Francis Rodgers
+2|AGE|Y|13
+1|CHIL|Y|Kenneth Rodgers
+2|AGE|Y|19
+1|CHIL|Y|Harry Rodgers
+2|AGE|Y|7
+1|INCOME|Y|38300
+0|FAM|Y|@F36@
+1|HUSB|Y|Robert Espinoza
+1|WIFE|Y|Christine Konwinski
+1|CHIL|Y|Brenda Espinoza
+2|AGE|Y|5
+1|CHIL|Y|Ruby Espinoza
+2|AGE|Y|1
+1|CHIL|Y|Cassie Espinoza
+2|AGE|Y|18
+1|CHIL|Y|Bernice Espinoza
+2|AGE|Y|2
+1|CHIL|Y|Jose Espinoza
+2|AGE|Y|9
+1|INCOME|Y|34800
+0|FAM|Y|@F37@
+1|HUSB|Y|Rafael Miner
+1|WIFE|Y|Edna Pettway
+1|CHIL|Y|Trent Miner
+2|AGE|Y|24
+1|INCOME|Y|26900
+0|FAM|Y|@F38@
+1|HUSB|Y|Dave Lundy
+1|WIFE|Y|Cristina Mitchell
+1|CHIL|Y|Diane Lundy
+2|AGE|Y|4
+1|CHIL|Y|Justin Lundy
+2|AGE|Y|24
+1|CHIL|Y|Steven Lundy
+2|AGE|Y|7
+1|CHIL|Y|Courtney Lundy
+2|AGE|Y|6
+1|CHIL|Y|Barbra Lundy
+2|AGE|Y|12
+1|INCOME|Y|31800
+0|FAM|Y|@F39@
+1|HUSB|Y|Alberto King
+1|WIFE|Y|Maureen Six
+1|CHIL|Y|Rose King
+2|AGE|Y|5
+1|CHIL|Y|Jose King
+2|AGE|Y|5
+1|CHIL|Y|Joe King
+2|AGE|Y|13
+1|CHIL|Y|Lee King
+2|AGE|Y|12
+1|INCOME|Y|67000
+0|FAM|Y|@F40@
+1|HUSB|Y|John Christner
+1|WIFE|Y|Mina Thomas
+1|CHIL|Y|Gregory Christner
+2|AGE|Y|5
+1|CHIL|Y|Mary Christner
+2|AGE|Y|17
+1|INCOME|Y|38200
+0|FAM|Y|@F41@
+1|HUSB|Y|William Johnson
+1|WIFE|Y|Fidela Vance
+1|CHIL|Y|Joseph Johnson
+2|AGE|Y|2
+1|CHIL|Y|Patrick Johnson
+2|AGE|Y|11
+1|CHIL|Y|Bettie Johnson
+2|AGE|Y|11
+1|INCOME|Y|45000
+0|FAM|Y|@F42@
+1|HUSB|Y|Charlie Valot
+1|WIFE|Y|Masako Riley
+1|CHIL|Y|George Valot
+2|AGE|Y|18
+1|INCOME|Y|65400
+0|FAM|Y|@F43@
+1|HUSB|Y|Ryan Bolton
+1|WIFE|Y|Patty Jenkins
+1|CHIL|Y|Francis Bolton
+2|AGE|Y|5
+1|INCOME|Y|25000
+0|FAM|Y|@F44@
+1|HUSB|Y|Javier Hoffman
+1|WIFE|Y|Cathryn Mcginley
+1|CHIL|Y|Debra Hoffman
+2|AGE|Y|7
+1|CHIL|Y|Carrie Hoffman
+2|AGE|Y|22
+1|CHIL|Y|Anthony Hoffman
+2|AGE|Y|23
+1|CHIL|Y|William Hoffman
+2|AGE|Y|7
+1|CHIL|Y|Karen Hoffman
+2|AGE|Y|20
+1|INCOME|Y|24500
+0|FAM|Y|@F45@
+1|HUSB|Y|Dave Hastings
+1|WIFE|Y|Deborah Carter
+1|CHIL|Y|Chandra Hastings
+2|AGE|Y|6
+1|CHIL|Y|Daniel Hastings
+2|AGE|Y|24
+1|CHIL|Y|James Hastings
+2|AGE|Y|11
+1|CHIL|Y|Leroy Hastings
+2|AGE|Y|3
+1|CHIL|Y|Richard Hastings
+2|AGE|Y|7
+1|INCOME|Y|31700
+0|FAM|Y|@F46@
+1|HUSB|Y|Raul Chaffin
+1|WIFE|Y|Margaret Doyle
+1|CHIL|Y|Jamie Chaffin
+2|AGE|Y|15
+1|CHIL|Y|Jimmie Chaffin
+2|AGE|Y|24
+1|CHIL|Y|Doris Chaffin
+2|AGE|Y|7
+1|CHIL|Y|Edwin Chaffin
+2|AGE|Y|7
+1|CHIL|Y|Leslie Chaffin
+2|AGE|Y|10
+1|INCOME|Y|20300
+0|FAM|Y|@F47@
+1|HUSB|Y|Richard Rodriguez
+1|WIFE|Y|Shirley Savarese
+1|CHIL|Y|Lucille Rodriguez
+2|AGE|Y|19
+1|CHIL|Y|Barry Rodriguez
+2|AGE|Y|13
+1|CHIL|Y|Elizabeth Rodriguez
+2|AGE|Y|24
+1|CHIL|Y|John Rodriguez
+2|AGE|Y|14
+1|INCOME|Y|67000
+0|FAM|Y|@F48@
+1|HUSB|Y|Dwight Johnson
+1|WIFE|Y|Maude Lacy
+1|CHIL|Y|Pablo Johnson
+2|AGE|Y|17
+1|CHIL|Y|William Johnson
+2|AGE|Y|18
+1|CHIL|Y|Robert Johnson
+2|AGE|Y|6
+1|CHIL|Y|Anna Johnson
+2|AGE|Y|20
+1|CHIL|Y|Edna Johnson
+2|AGE|Y|7
+1|INCOME|Y|29800
+0|FAM|Y|@F49@
+1|HUSB|Y|Chad Hernandez
+1|WIFE|Y|Ella Hatter
+1|CHIL|Y|Evelynn Hernandez
+2|AGE|Y|16
+1|CHIL|Y|George Hernandez
+2|AGE|Y|17
+1|CHIL|Y|Jennifer Hernandez
+2|AGE|Y|15
+1|CHIL|Y|Tim Hernandez
+2|AGE|Y|15
+1|CHIL|Y|Edward Hernandez
+2|AGE|Y|12
+1|INCOME|Y|45500
+0|FAM|Y|@F50@
+1|HUSB|Y|Gregory Lucas
+1|WIFE|Y|Mary Paterson
+1|CHIL|Y|Jonna Lucas
+2|AGE|Y|11
+1|CHIL|Y|Paula Lucas
+2|AGE|Y|5
+1|CHIL|Y|Juan Lucas
+2|AGE|Y|23
+1|INCOME|Y|68000
+0|FAM|Y|@F51@
+1|HUSB|Y|Robert Demme
+1|WIFE|Y|Jean Collier
+1|CHIL|Y|Damian Demme
+2|AGE|Y|24
+1|CHIL|Y|Michael Demme
+2|AGE|Y|2
+1|INCOME|Y|53600
+0|FAM|Y|@F52@
+1|HUSB|Y|Robert Friddle
+1|WIFE|Y|Patricia Vance
+1|CHIL|Y|Ella Friddle
+2|AGE|Y|16
+1|CHIL|Y|Francisco Friddle
+2|AGE|Y|13
+1|CHIL|Y|Susan Friddle
+2|AGE|Y|13
+1|CHIL|Y|Cher Friddle
+2|AGE|Y|6
+1|CHIL|Y|Lillian Friddle
+2|AGE|Y|22
+1|INCOME|Y|65000
+0|FAM|Y|@F53@
+1|HUSB|Y|John Carrizales
+1|WIFE|Y|Ramona Flora
+1|CHIL|Y|Victoria Carrizales
+2|AGE|Y|20
+1|CHIL|Y|Mae Carrizales
+2|AGE|Y|15
+1|CHIL|Y|Esther Carrizales
+2|AGE|Y|7
+1|CHIL|Y|Lucinda Carrizales
+2|AGE|Y|1
+1|INCOME|Y|43800
+0|FAM|Y|@F54@
+1|HUSB|Y|Robert Smith
+1|WIFE|Y|Darcy Wickham
+1|CHIL|Y|Elaine Smith
+2|AGE|Y|12
+1|CHIL|Y|Margaret Smith
+2|AGE|Y|9
+1|CHIL|Y|Harley Smith
+2|AGE|Y|9
+1|CHIL|Y|William Smith
+2|AGE|Y|13
+1|CHIL|Y|Billy Smith
+2|AGE|Y|25
+1|INCOME|Y|33000
+0|FAM|Y|@F55@
+1|HUSB|Y|Luther Ellison
+1|WIFE|Y|Florence Davis
+1|CHIL|Y|Donetta Ellison
+2|AGE|Y|23
+1|CHIL|Y|Miss Ellison
+2|AGE|Y|22
+1|CHIL|Y|Donald Ellison
+2|AGE|Y|8
+1|CHIL|Y|Louis Ellison
+2|AGE|Y|19
+1|CHIL|Y|Pedro Ellison
+2|AGE|Y|18
+1|INCOME|Y|21800
+0|FAM|Y|@F56@
+1|HUSB|Y|Gregory Springer
+1|WIFE|Y|Debra Roman
+1|CHIL|Y|Jeanette Springer
+2|AGE|Y|22
+1|CHIL|Y|Laura Springer
+2|AGE|Y|21
+1|CHIL|Y|Arthur Springer
+2|AGE|Y|18
+1|CHIL|Y|Cherie Springer
+2|AGE|Y|22
+1|CHIL|Y|Sharon Springer
+2|AGE|Y|12
+1|INCOME|Y|66700
+0|FAM|Y|@F57@
+1|HUSB|Y|Donnie Kratzer
+1|WIFE|Y|Carol Twiford
+1|CHIL|Y|Julian Kratzer
+2|AGE|Y|7
+1|CHIL|Y|Barbara Kratzer
+2|AGE|Y|20
+1|CHIL|Y|Tommy Kratzer
+2|AGE|Y|23
+1|CHIL|Y|George Kratzer
+2|AGE|Y|22
+1|INCOME|Y|51800
+0|FAM|Y|@F58@
+1|HUSB|Y|Anthony Brzozowski
+1|WIFE|Y|Bobbie Leiker
+1|CHIL|Y|Terrell Brzozowski
+2|AGE|Y|18
+1|CHIL|Y|Michael Brzozowski
+2|AGE|Y|14
+1|INCOME|Y|21000
+0|FAM|Y|@F59@
+1|HUSB|Y|David Chiles
+1|WIFE|Y|Ivonne Druvenga
+1|CHIL|Y|Jon Chiles
+2|AGE|Y|1
+1|CHIL|Y|Donald Chiles
+2|AGE|Y|5
+1|CHIL|Y|Frances Chiles
+2|AGE|Y|10
+1|CHIL|Y|Mark Chiles
+2|AGE|Y|22
+1|INCOME|Y|62400
+0|FAM|Y|@F60@
+1|HUSB|Y|Ronald Schappert
+1|WIFE|Y|Ruth Yepsen
+1|CHIL|Y|Mary Schappert
+2|AGE|Y|11
+1|CHIL|Y|Ruthie Schappert
+2|AGE|Y|24
+1|CHIL|Y|Georgie Schappert
+2|AGE|Y|3
+1|CHIL|Y|Cecil Schappert
+2|AGE|Y|7
+1|CHIL|Y|Jennifer Schappert
+2|AGE|Y|6
+1|INCOME|Y|55500
+0|FAM|Y|@F61@
+1|HUSB|Y|James Henderson
+1|WIFE|Y|Petra Miller
+1|CHIL|Y|Michael Henderson
+2|AGE|Y|15
+1|CHIL|Y|Richard Henderson
+2|AGE|Y|19
+1|CHIL|Y|Kenneth Henderson
+2|AGE|Y|12
+1|CHIL|Y|William Henderson
+2|AGE|Y|19
+1|CHIL|Y|Louis Henderson
+2|AGE|Y|2
+1|INCOME|Y|55500
+0|FAM|Y|@F62@
+1|HUSB|Y|Gilbert Mccloud
+1|WIFE|Y|Anna Clayton
+1|CHIL|Y|Ernesto Mccloud
+2|AGE|Y|25
+1|INCOME|Y|22500
+0|FAM|Y|@F63@
+1|HUSB|Y|Kenneth Velez
+1|WIFE|Y|Betty Thompson
+1|CHIL|Y|Richard Velez
+2|AGE|Y|18
+1|CHIL|Y|Minnie Velez
+2|AGE|Y|9
+1|CHIL|Y|George Velez
+2|AGE|Y|13
+1|INCOME|Y|55100
+0|FAM|Y|@F64@
+1|HUSB|Y|Larry Webb
+1|WIFE|Y|Barbara Peterson
+1|CHIL|Y|Amy Webb
+2|AGE|Y|3
+1|CHIL|Y|Amelia Webb
+2|AGE|Y|12
+1|INCOME|Y|55300
+0|FAM|Y|@F65@
+1|HUSB|Y|Donald Nixon
+1|WIFE|Y|Renee Jackson
+1|CHIL|Y|Beverly Nixon
+2|AGE|Y|4
+1|CHIL|Y|Shawn Nixon
+2|AGE|Y|20
+1|INCOME|Y|37900
+0|FAM|Y|@F66@
+1|HUSB|Y|Lee Hilliard
+1|WIFE|Y|Glenda Brown
+1|CHIL|Y|Raymond Hilliard
+2|AGE|Y|6
+1|CHIL|Y|William Hilliard
+2|AGE|Y|8
+1|CHIL|Y|Lizabeth Hilliard
+2|AGE|Y|18
+1|CHIL|Y|Brian Hilliard
+2|AGE|Y|17
+1|CHIL|Y|Whitley Hilliard
+2|AGE|Y|10
+1|INCOME|Y|60300
+0|FAM|Y|@F67@
+1|HUSB|Y|Mark Wilkinson
+1|WIFE|Y|Carroll Hofstetter
+1|CHIL|Y|Ashli Wilkinson
+2|AGE|Y|17
+1|CHIL|Y|William Wilkinson
+2|AGE|Y|2
+1|CHIL|Y|Shawn Wilkinson
+2|AGE|Y|1
+1|CHIL|Y|Deborah Wilkinson
+2|AGE|Y|9
+1|CHIL|Y|William Wilkinson
+2|AGE|Y|22
+1|INCOME|Y|67200
+0|FAM|Y|@F68@
+1|HUSB|Y|Brett Robinson
+1|WIFE|Y|Adella Addleman
+1|CHIL|Y|Bethany Robinson
+2|AGE|Y|17
+1|CHIL|Y|Connie Robinson
+2|AGE|Y|11
+1|CHIL|Y|Morris Robinson
+2|AGE|Y|6
+1|INCOME|Y|39100
+0|FAM|Y|@F69@
+1|HUSB|Y|Dale Erwin
+1|WIFE|Y|Nancy Lloyd
+1|CHIL|Y|Georgia Erwin
+2|AGE|Y|18
+1|CHIL|Y|Joshua Erwin
+2|AGE|Y|8
+1|INCOME|Y|63300
+0|FAM|Y|@F70@
+1|HUSB|Y|James Simmons
+1|WIFE|Y|Floy Leaks
+1|CHIL|Y|Thomas Simmons
+2|AGE|Y|5
+1|CHIL|Y|Rosalie Simmons
+2|AGE|Y|1
+1|CHIL|Y|Ina Simmons
+2|AGE|Y|1
+1|CHIL|Y|Curtis Simmons
+2|AGE|Y|14
+1|CHIL|Y|James Simmons
+2|AGE|Y|24
+1|INCOME|Y|28700
+0|FAM|Y|@F71@
+1|HUSB|Y|John Ford
+1|WIFE|Y|Guadalupe John
+1|CHIL|Y|Joni Ford
+2|AGE|Y|22
+1|CHIL|Y|Ray Ford
+2|AGE|Y|18
+1|CHIL|Y|Demetrius Ford
+2|AGE|Y|6
+1|CHIL|Y|Sarah Ford
+2|AGE|Y|14
+1|CHIL|Y|Linda Ford
+2|AGE|Y|15
+1|INCOME|Y|67800
+0|FAM|Y|@F72@
+1|HUSB|Y|James Davis
+1|WIFE|Y|Liliana Wallace
+1|CHIL|Y|Stacie Davis
+2|AGE|Y|17
+1|CHIL|Y|Thomas Davis
+2|AGE|Y|18
+1|INCOME|Y|51800
+0|FAM|Y|@F73@
+1|HUSB|Y|Henry Hennessey
+1|WIFE|Y|Linda Willard
+1|CHIL|Y|Thomas Hennessey
+2|AGE|Y|21
+1|INCOME|Y|57200
+0|FAM|Y|@F74@
+1|HUSB|Y|Michael Cook
+1|WIFE|Y|Candy Tsan
+1|CHIL|Y|Judy Cook
+2|AGE|Y|25
+1|CHIL|Y|Gilbert Cook
+2|AGE|Y|22
+1|INCOME|Y|32700
+0|FAM|Y|@F75@
+1|HUSB|Y|William Williams
+1|WIFE|Y|Beverly Thomas
+1|CHIL|Y|Lisa Williams
+2|AGE|Y|4
+1|CHIL|Y|Linda Williams
+2|AGE|Y|14
+1|CHIL|Y|Joseph Williams
+2|AGE|Y|2
+1|CHIL|Y|Kenneth Williams
+2|AGE|Y|16
+1|CHIL|Y|Chandra Williams
+2|AGE|Y|21
+1|INCOME|Y|32100
+0|FAM|Y|@F76@
+1|HUSB|Y|William Liu
+1|WIFE|Y|Tracy Doherty
+1|CHIL|Y|Billy Liu
+2|AGE|Y|18
+1|CHIL|Y|William Liu
+2|AGE|Y|11
+1|CHIL|Y|Deborah Liu
+2|AGE|Y|14
+1|INCOME|Y|20800
+0|FAM|Y|@F77@
+1|HUSB|Y|Christopher Wright
+1|WIFE|Y|Helen Partch
+1|CHIL|Y|Mary Wright
+2|AGE|Y|16
+1|CHIL|Y|Erika Wright
+2|AGE|Y|4
+1|CHIL|Y|Eva Wright
+2|AGE|Y|25
+1|INCOME|Y|20600
+0|FAM|Y|@F78@
+1|HUSB|Y|Donald Vizcarrondo
+1|WIFE|Y|Mary Davidson
+1|CHIL|Y|Maynard Vizcarrondo
+2|AGE|Y|23
+1|CHIL|Y|Tom Vizcarrondo
+2|AGE|Y|13
+1|CHIL|Y|Jimmy Vizcarrondo
+2|AGE|Y|10
+1|INCOME|Y|22800
+0|FAM|Y|@F79@
+1|HUSB|Y|Matthew Freeman
+1|WIFE|Y|Elizabeth Stclair
+1|CHIL|Y|Lisa Freeman
+2|AGE|Y|6
+1|CHIL|Y|Jo Freeman
+2|AGE|Y|6
+1|CHIL|Y|Elizabeth Freeman
+2|AGE|Y|9
+1|CHIL|Y|Jo Freeman
+2|AGE|Y|25
+1|CHIL|Y|Marie Freeman
+2|AGE|Y|12
+1|INCOME|Y|58100
+0|FAM|Y|@F80@
+1|HUSB|Y|Jay Guerra
+1|WIFE|Y|Flo Alexander
+1|CHIL|Y|Brett Guerra
+2|AGE|Y|4
+1|CHIL|Y|Kevin Guerra
+2|AGE|Y|20
+1|CHIL|Y|Ronald Guerra
+2|AGE|Y|1
+1|CHIL|Y|Nathan Guerra
+2|AGE|Y|6
+1|INCOME|Y|43300
+0|FAM|Y|@F81@
+1|HUSB|Y|David Burns
+1|WIFE|Y|Lynne Holmes
+1|CHIL|Y|Alfreda Burns
+2|AGE|Y|13
+1|CHIL|Y|Christina Burns
+2|AGE|Y|22
+1|CHIL|Y|Helen Burns
+2|AGE|Y|3
+1|CHIL|Y|Steven Burns
+2|AGE|Y|20
+1|INCOME|Y|43900
+0|FAM|Y|@F82@
+1|HUSB|Y|William Gaines
+1|WIFE|Y|Jennifer Thorn
+1|CHIL|Y|Robert Gaines
+2|AGE|Y|10
+1|CHIL|Y|Trisha Gaines
+2|AGE|Y|21
+1|CHIL|Y|Emma Gaines
+2|AGE|Y|1
+1|CHIL|Y|Bill Gaines
+2|AGE|Y|22
+1|INCOME|Y|61300
+0|FAM|Y|@F83@
+1|HUSB|Y|Richard Yaple
+1|WIFE|Y|Emily Armstrong
+1|CHIL|Y|Joseph Yaple
+2|AGE|Y|15
+1|CHIL|Y|Nicholas Yaple
+2|AGE|Y|20
+1|INCOME|Y|38900
+0|FAM|Y|@F84@
+1|HUSB|Y|Micheal Ray
+1|WIFE|Y|Andrea Anderson
+1|CHIL|Y|Victoria Ray
+2|AGE|Y|6
+1|CHIL|Y|Paul Ray
+2|AGE|Y|24
+1|CHIL|Y|Ronald Ray
+2|AGE|Y|10
+1|CHIL|Y|Erin Ray
+2|AGE|Y|24
+1|CHIL|Y|Maria Ray
+2|AGE|Y|22
+1|INCOME|Y|33600
+0|FAM|Y|@F85@
+1|HUSB|Y|Matthew Shireman
+1|WIFE|Y|Eva Dobbs
+1|CHIL|Y|Christopher Shireman
+2|AGE|Y|21
+1|CHIL|Y|Millard Shireman
+2|AGE|Y|9
+1|CHIL|Y|Verlene Shireman
+2|AGE|Y|5
+1|INCOME|Y|34000
+0|FAM|Y|@F86@
+1|HUSB|Y|Michael Kelleher
+1|WIFE|Y|Stella Williams
+1|CHIL|Y|Maria Kelleher
+2|AGE|Y|14
+1|INCOME|Y|67700
+0|FAM|Y|@F87@
+1|HUSB|Y|George Scott
+1|WIFE|Y|Katherine Kern
+1|CHIL|Y|Gwendolyn Scott
+2|AGE|Y|1
+1|CHIL|Y|Todd Scott
+2|AGE|Y|24
+1|INCOME|Y|49700
+0|FAM|Y|@F88@
+1|HUSB|Y|Alvin Carr
+1|WIFE|Y|Wanda Hunter
+1|CHIL|Y|Kristin Carr
+2|AGE|Y|22
+1|CHIL|Y|Kevin Carr
+2|AGE|Y|21
+1|INCOME|Y|59500
+0|FAM|Y|@F89@
+1|HUSB|Y|Samuel Smith
+1|WIFE|Y|Antonia Gardner
+1|CHIL|Y|Brenda Smith
+2|AGE|Y|22
+1|CHIL|Y|Joseph Smith
+2|AGE|Y|12
+1|CHIL|Y|Michelle Smith
+2|AGE|Y|22
+1|INCOME|Y|23200
+0|FAM|Y|@F90@
+1|HUSB|Y|David Curtis
+1|WIFE|Y|Mellie Lam
+1|CHIL|Y|Babette Curtis
+2|AGE|Y|2
+1|CHIL|Y|Dexter Curtis
+2|AGE|Y|6
+1|CHIL|Y|Debbie Curtis
+2|AGE|Y|11
+1|INCOME|Y|54900
+0|FAM|Y|@F91@
+1|HUSB|Y|Shelby Johnson
+1|WIFE|Y|Annie Lee
+1|CHIL|Y|Rebecca Johnson
+2|AGE|Y|25
+1|CHIL|Y|Darlena Johnson
+2|AGE|Y|14
+1|CHIL|Y|Jenine Johnson
+2|AGE|Y|3
+1|INCOME|Y|40300
+0|FAM|Y|@F92@
+1|HUSB|Y|Charlie Landau
+1|WIFE|Y|Christine Jennings
+1|CHIL|Y|Hannah Landau
+2|AGE|Y|25
+1|CHIL|Y|Trevor Landau
+2|AGE|Y|25
+1|CHIL|Y|Isabel Landau
+2|AGE|Y|20
+1|INCOME|Y|50600
+0|FAM|Y|@F93@
+1|HUSB|Y|Scott Childs
+1|WIFE|Y|Rhonda Addington
+1|CHIL|Y|Mark Childs
+2|AGE|Y|17
+1|CHIL|Y|Rodney Childs
+2|AGE|Y|14
+1|CHIL|Y|Kathleen Childs
+2|AGE|Y|23
+1|INCOME|Y|42700
+0|FAM|Y|@F94@
+1|HUSB|Y|Michael Thornton
+1|WIFE|Y|David Weston
+1|CHIL|Y|Joseph Thornton
+2|AGE|Y|5
+1|CHIL|Y|Shirley Thornton
+2|AGE|Y|14
+1|CHIL|Y|Mary Thornton
+2|AGE|Y|25
+1|CHIL|Y|Marian Thornton
+2|AGE|Y|21
+1|CHIL|Y|Joshua Thornton
+2|AGE|Y|19
+1|INCOME|Y|25700
+0|FAM|Y|@F95@
+1|HUSB|Y|Tyrell Snider
+1|WIFE|Y|Lisa Anderson
+1|CHIL|Y|Jeane Snider
+2|AGE|Y|2
+1|INCOME|Y|36800
+0|FAM|Y|@F96@
+1|HUSB|Y|Steven Mayer
+1|WIFE|Y|Esther Graves
+1|CHIL|Y|Brianna Mayer
+2|AGE|Y|20
+1|CHIL|Y|Thomas Mayer
+2|AGE|Y|13
+1|CHIL|Y|Delpha Mayer
+2|AGE|Y|11
+1|CHIL|Y|Clarice Mayer
+2|AGE|Y|17
+1|INCOME|Y|34300
+0|FAM|Y|@F97@
+1|HUSB|Y|Robert Edwards
+1|WIFE|Y|Ann Alvarez
+1|CHIL|Y|Heather Edwards
+2|AGE|Y|20
+1|CHIL|Y|Christopher Edwards
+2|AGE|Y|5
+1|CHIL|Y|Fred Edwards
+2|AGE|Y|22
+1|CHIL|Y|Jason Edwards
+2|AGE|Y|10
+1|INCOME|Y|66700
+0|FAM|Y|@F98@
+1|HUSB|Y|Karl Davis
+1|WIFE|Y|Barbara Berry
+1|CHIL|Y|Timothy Davis
+2|AGE|Y|23
+1|INCOME|Y|28500
+0|FAM|Y|@F99@
+1|HUSB|Y|Jason Mcninch
+1|WIFE|Y|Janice Selfridge
+1|CHIL|Y|Tonya Mcninch
+2|AGE|Y|14
+1|INCOME|Y|42400
+0|FAM|Y|@F100@
+1|HUSB|Y|David Wong
+1|WIFE|Y|Jewel Carr
+1|CHIL|Y|Bruce Wong
+2|AGE|Y|16
+1|INCOME|Y|45100
+0|FAM|Y|@F101@
+1|HUSB|Y|Richard Reeves
+1|WIFE|Y|Irene Ziebarth
+1|CHIL|Y|Michele Reeves
+2|AGE|Y|12
+1|CHIL|Y|Josephine Reeves
+2|AGE|Y|2
+1|CHIL|Y|Kristi Reeves
+2|AGE|Y|13
+1|CHIL|Y|Amy Reeves
+2|AGE|Y|4
+1|INCOME|Y|21300
+0|FAM|Y|@F102@
+1|HUSB|Y|Robert Herriott
+1|WIFE|Y|Carol Humphrey
+1|CHIL|Y|Roderick Herriott
+2|AGE|Y|3
+1|INCOME|Y|40300
+0|FAM|Y|@F103@
+1|HUSB|Y|Craig Akins
+1|WIFE|Y|Jacqueline Jameson
+1|CHIL|Y|Martin Akins
+2|AGE|Y|25
+1|CHIL|Y|Carmen Akins
+2|AGE|Y|3
+1|CHIL|Y|Marc Akins
+2|AGE|Y|6
+1|CHIL|Y|Jose Akins
+2|AGE|Y|20
+1|INCOME|Y|37200
+0|FAM|Y|@F104@
+1|HUSB|Y|Scott Chung
+1|WIFE|Y|Norma Mahoney
+1|CHIL|Y|Shane Chung
+2|AGE|Y|9
+1|CHIL|Y|Jennifer Chung
+2|AGE|Y|14
+1|CHIL|Y|Christopher Chung
+2|AGE|Y|19
+1|CHIL|Y|Steven Chung
+2|AGE|Y|22
+1|INCOME|Y|27800
+0|FAM|Y|@F105@
+1|HUSB|Y|Sam Lockhart
+1|WIFE|Y|Alisha Cloyd
+1|CHIL|Y|Virginia Lockhart
+2|AGE|Y|13
+1|CHIL|Y|Antoinette Lockhart
+2|AGE|Y|17
+1|CHIL|Y|Maribel Lockhart
+2|AGE|Y|20
+1|CHIL|Y|Marlin Lockhart
+2|AGE|Y|11
+1|INCOME|Y|35000
+0|FAM|Y|@F106@
+1|HUSB|Y|Harold Schwartz
+1|WIFE|Y|Shirley Weems
+1|CHIL|Y|John Schwartz
+2|AGE|Y|9
+1|CHIL|Y|Kimberly Schwartz
+2|AGE|Y|25
+1|CHIL|Y|Kirk Schwartz
+2|AGE|Y|17
+1|CHIL|Y|Sheldon Schwartz
+2|AGE|Y|23
+1|INCOME|Y|66900
+0|FAM|Y|@F107@
+1|HUSB|Y|Jack Llanes
+1|WIFE|Y|Jennifer Mosley
+1|CHIL|Y|Sammie Llanes
+2|AGE|Y|1
+1|CHIL|Y|Bruce Llanes
+2|AGE|Y|25
+1|INCOME|Y|60800
+0|FAM|Y|@F108@
+1|HUSB|Y|Robert Kindig
+1|WIFE|Y|Mindy Vogel
+1|CHIL|Y|Betty Kindig
+2|AGE|Y|25
+1|CHIL|Y|Shelley Kindig
+2|AGE|Y|4
+1|CHIL|Y|Helen Kindig
+2|AGE|Y|13
+1|CHIL|Y|Carl Kindig
+2|AGE|Y|13
+1|INCOME|Y|46800
+0|FAM|Y|@F109@
+1|HUSB|Y|Melvin Monteros
+1|WIFE|Y|Dorothy Walat
+1|CHIL|Y|Robert Monteros
+2|AGE|Y|24
+1|INCOME|Y|36700
+0|FAM|Y|@F110@
+1|HUSB|Y|Robert Smith
+1|WIFE|Y|Jacqueline Hayes
+1|CHIL|Y|Francis Smith
+2|AGE|Y|25
+1|CHIL|Y|James Smith
+2|AGE|Y|6
+1|CHIL|Y|April Smith
+2|AGE|Y|20
+1|CHIL|Y|Jennifer Smith
+2|AGE|Y|11
+1|CHIL|Y|Scott Smith
+2|AGE|Y|13
+1|INCOME|Y|46400
+0|FAM|Y|@F111@
+1|HUSB|Y|Michael Mahan
+1|WIFE|Y|Patricia Shiner
+1|CHIL|Y|Monica Mahan
+2|AGE|Y|6
+1|CHIL|Y|Pauline Mahan
+2|AGE|Y|7
+1|CHIL|Y|Dana Mahan
+2|AGE|Y|13
+1|CHIL|Y|Robert Mahan
+2|AGE|Y|16
+1|CHIL|Y|William Mahan
+2|AGE|Y|23
+1|INCOME|Y|31500
+0|FAM|Y|@F112@
+1|HUSB|Y|David King
+1|WIFE|Y|Hope Darrigo
+1|CHIL|Y|Andy King
+2|AGE|Y|19
+1|CHIL|Y|Katrina King
+2|AGE|Y|23
+1|CHIL|Y|Franklin King
+2|AGE|Y|10
+1|CHIL|Y|Sheila King
+2|AGE|Y|3
+1|CHIL|Y|Arthur King
+2|AGE|Y|10
+1|INCOME|Y|36700
+0|FAM|Y|@F113@
+1|HUSB|Y|Jose Albright
+1|WIFE|Y|Lisa Easley
+1|CHIL|Y|Kevin Albright
+2|AGE|Y|22
+1|CHIL|Y|Heath Albright
+2|AGE|Y|25
+1|CHIL|Y|Carmela Albright
+2|AGE|Y|21
+1|CHIL|Y|Elizabeth Albright
+2|AGE|Y|15
+1|INCOME|Y|31000
+0|FAM|Y|@F114@
+1|HUSB|Y|Jarrod Baum
+1|WIFE|Y|Sarah Mccabe
+1|CHIL|Y|Jimmy Baum
+2|AGE|Y|20
+1|INCOME|Y|21300
+0|FAM|Y|@F115@
+1|HUSB|Y|Donald Odom
+1|WIFE|Y|Sally Young
+1|CHIL|Y|Anthony Odom
+2|AGE|Y|8
+1|CHIL|Y|Michael Odom
+2|AGE|Y|6
+1|CHIL|Y|Thelma Odom
+2|AGE|Y|19
+1|CHIL|Y|Clara Odom
+2|AGE|Y|13
+1|CHIL|Y|Jeffrey Odom
+2|AGE|Y|24
+1|INCOME|Y|59100
+0|FAM|Y|@F116@
+1|HUSB|Y|Williams Cabler
+1|WIFE|Y|Sasha Munyon
+1|CHIL|Y|Carlos Cabler
+2|AGE|Y|21
+1|CHIL|Y|Larry Cabler
+2|AGE|Y|17
+1|CHIL|Y|Geraldine Cabler
+2|AGE|Y|25
+1|CHIL|Y|Rosa Cabler
+2|AGE|Y|22
+1|CHIL|Y|Richard Cabler
+2|AGE|Y|17
+1|INCOME|Y|59900
+0|FAM|Y|@F117@
+1|HUSB|Y|Mike Sova
+1|WIFE|Y|Fran Orourke
+1|CHIL|Y|Sarah Sova
+2|AGE|Y|17
+1|CHIL|Y|Roger Sova
+2|AGE|Y|3
+1|INCOME|Y|45500
+0|FAM|Y|@F118@
+1|HUSB|Y|Brian Wagner
+1|WIFE|Y|Rhonda Lawson
+1|CHIL|Y|Louella Wagner
+2|AGE|Y|4
+1|INCOME|Y|52800
+0|FAM|Y|@F119@
+1|HUSB|Y|James Jones
+1|WIFE|Y|Brandi Briseno
+1|CHIL|Y|Ronald Jones
+2|AGE|Y|3
+1|CHIL|Y|Virginia Jones
+2|AGE|Y|8
+1|CHIL|Y|Mary Jones
+2|AGE|Y|6
+1|CHIL|Y|Michelle Jones
+2|AGE|Y|23
+1|INCOME|Y|39400
+0|FAM|Y|@F120@
+1|HUSB|Y|Paul Kakos
+1|WIFE|Y|Michele Schlitz
+1|CHIL|Y|Julia Kakos
+2|AGE|Y|8
+1|CHIL|Y|Justin Kakos
+2|AGE|Y|21
+1|CHIL|Y|Teena Kakos
+2|AGE|Y|16
+1|INCOME|Y|24700
+0|FAM|Y|@F121@
+1|HUSB|Y|Alfredo Mccaffrey
+1|WIFE|Y|Lenna Bergeron
+1|CHIL|Y|Marilyn Mccaffrey
+2|AGE|Y|11
+1|INCOME|Y|46100
+0|FAM|Y|@F122@
+1|HUSB|Y|Salvador Martin
+1|WIFE|Y|Martha Charles
+1|CHIL|Y|Michael Martin
+2|AGE|Y|17
+1|CHIL|Y|Earl Martin
+2|AGE|Y|19
+1|CHIL|Y|Susan Martin
+2|AGE|Y|24
+1|CHIL|Y|Josie Martin
+2|AGE|Y|7
+1|CHIL|Y|Shirley Martin
+2|AGE|Y|19
+1|INCOME|Y|37900
+0|FAM|Y|@F123@
+1|HUSB|Y|Jeffrey Zepeda
+1|WIFE|Y|Theresa Fleming
+1|CHIL|Y|Carlotta Zepeda
+2|AGE|Y|9
+1|INCOME|Y|29200
+0|FAM|Y|@F124@
+1|HUSB|Y|William Hayes
+1|WIFE|Y|Johnnie Woods
+1|CHIL|Y|Rogelio Hayes
+2|AGE|Y|15
+1|INCOME|Y|31600
+0|FAM|Y|@F125@
+1|HUSB|Y|James Bronson
+1|WIFE|Y|Lillian Leavy
+1|CHIL|Y|Daryl Bronson
+2|AGE|Y|13
+1|INCOME|Y|38900
+0|FAM|Y|@F126@
+1|HUSB|Y|Donald Dubose
+1|WIFE|Y|Sharon Williamson
+1|CHIL|Y|Lonnie Dubose
+2|AGE|Y|12
+1|CHIL|Y|Marilyn Dubose
+2|AGE|Y|10
+1|INCOME|Y|39200
+0|FAM|Y|@F127@
+1|HUSB|Y|Michael Dinwiddie
+1|WIFE|Y|Maria Robertson
+1|CHIL|Y|Michael Dinwiddie
+2|AGE|Y|15
+1|CHIL|Y|Iva Dinwiddie
+2|AGE|Y|12
+1|CHIL|Y|Arthur Dinwiddie
+2|AGE|Y|14
+1|CHIL|Y|Daniel Dinwiddie
+2|AGE|Y|9
+1|INCOME|Y|41200
+0|FAM|Y|@F128@
+1|HUSB|Y|Donald Michael
+1|WIFE|Y|Erika Martines
+1|CHIL|Y|Sonya Michael
+2|AGE|Y|23
+1|CHIL|Y|Jennifer Michael
+2|AGE|Y|8
+1|INCOME|Y|22900
+0|FAM|Y|@F129@
+1|HUSB|Y|Mark Wilkinson
+1|WIFE|Y|Audrey Mai
+1|CHIL|Y|Forest Wilkinson
+2|AGE|Y|2
+1|CHIL|Y|Timothy Wilkinson
+2|AGE|Y|4
+1|INCOME|Y|41500
+0|FAM|Y|@F130@
+1|HUSB|Y|Tracy Sullivan
+1|WIFE|Y|Leticia Wilson
+1|CHIL|Y|Marco Sullivan
+2|AGE|Y|6
+1|CHIL|Y|Brenda Sullivan
+2|AGE|Y|23
+1|CHIL|Y|Ryan Sullivan
+2|AGE|Y|5
+1|CHIL|Y|Mildred Sullivan
+2|AGE|Y|24
+1|INCOME|Y|31800
+0|FAM|Y|@F131@
+1|HUSB|Y|Sam Mcvay
+1|WIFE|Y|Lillian Parks
+1|CHIL|Y|Whitney Mcvay
+2|AGE|Y|18
+1|CHIL|Y|Bryon Mcvay
+2|AGE|Y|5
+1|CHIL|Y|Beverly Mcvay
+2|AGE|Y|24
+1|CHIL|Y|Francisca Mcvay
+2|AGE|Y|18
+1|INCOME|Y|32400
+0|FAM|Y|@F132@
+1|HUSB|Y|Judson Silver
+1|WIFE|Y|Kathleen Yarbrough
+1|CHIL|Y|Kevin Silver
+2|AGE|Y|8
+1|CHIL|Y|Rick Silver
+2|AGE|Y|13
+1|INCOME|Y|39400
+0|FAM|Y|@F133@
+1|HUSB|Y|Vernon Crosswell
+1|WIFE|Y|Ida Meachen
+1|CHIL|Y|Mary Crosswell
+2|AGE|Y|7
+1|CHIL|Y|Earl Crosswell
+2|AGE|Y|24
+1|CHIL|Y|Anne Crosswell
+2|AGE|Y|23
+1|INCOME|Y|23100
+0|FAM|Y|@F134@
+1|HUSB|Y|Joe Webb
+1|WIFE|Y|Sarah Rojas
+1|CHIL|Y|Brian Webb
+2|AGE|Y|2
+1|INCOME|Y|28200
+0|FAM|Y|@F135@
+1|HUSB|Y|Curtis Hayes
+1|WIFE|Y|Lenore Mcnorton
+1|CHIL|Y|Sonya Hayes
+2|AGE|Y|18
+1|CHIL|Y|Warren Hayes
+2|AGE|Y|24
+1|CHIL|Y|Jeanne Hayes
+2|AGE|Y|14
+1|CHIL|Y|Brandi Hayes
+2|AGE|Y|3
+1|INCOME|Y|45100
+0|FAM|Y|@F136@
+1|HUSB|Y|Carl Schuller
+1|WIFE|Y|Carol West
+1|CHIL|Y|Gwen Schuller
+2|AGE|Y|7
+1|CHIL|Y|Shaniqua Schuller
+2|AGE|Y|10
+1|CHIL|Y|Christopher Schuller
+2|AGE|Y|4
+1|INCOME|Y|67100
+0|FAM|Y|@F137@
+1|HUSB|Y|Glenn Brunette
+1|WIFE|Y|Deanna Kelly
+1|CHIL|Y|Linda Brunette
+2|AGE|Y|8
+1|CHIL|Y|Dovie Brunette
+2|AGE|Y|7
+1|CHIL|Y|Eddie Brunette
+2|AGE|Y|19
+1|INCOME|Y|39500
+0|FAM|Y|@F138@
+1|HUSB|Y|Ernest Sullivan
+1|WIFE|Y|Lydia Durk
+1|CHIL|Y|Linda Sullivan
+2|AGE|Y|9
+1|CHIL|Y|Irma Sullivan
+2|AGE|Y|23
+1|CHIL|Y|Julie Sullivan
+2|AGE|Y|19
+1|CHIL|Y|Jorge Sullivan
+2|AGE|Y|6
+1|CHIL|Y|Cory Sullivan
+2|AGE|Y|11
+1|INCOME|Y|36100
+0|FAM|Y|@F139@
+1|HUSB|Y|Lazaro Hosler
+1|WIFE|Y|Regina Cline
+1|CHIL|Y|Aaron Hosler
+2|AGE|Y|5
+1|CHIL|Y|Eric Hosler
+2|AGE|Y|14
+1|CHIL|Y|Leila Hosler
+2|AGE|Y|20
+1|CHIL|Y|James Hosler
+2|AGE|Y|11
+1|CHIL|Y|Lillian Hosler
+2|AGE|Y|20
+1|INCOME|Y|20900
+0|FAM|Y|@F140@
+1|HUSB|Y|George Wang
+1|WIFE|Y|Shannon Glaspie
+1|CHIL|Y|Charles Wang
+2|AGE|Y|25
+1|CHIL|Y|Charlie Wang
+2|AGE|Y|19
+1|INCOME|Y|57800
+0|FAM|Y|@F141@
+1|HUSB|Y|Timothy Glidewell
+1|WIFE|Y|Joyce Smith
+1|CHIL|Y|William Glidewell
+2|AGE|Y|25
+1|CHIL|Y|David Glidewell
+2|AGE|Y|6
+1|CHIL|Y|Gregory Glidewell
+2|AGE|Y|1
+1|INCOME|Y|51300
+0|FAM|Y|@F142@
+1|HUSB|Y|Robert Liefer
+1|WIFE|Y|Tasha Pearman
+1|CHIL|Y|Rodney Liefer
+2|AGE|Y|2
+1|CHIL|Y|Kenneth Liefer
+2|AGE|Y|7
+1|CHIL|Y|Buford Liefer
+2|AGE|Y|18
+1|INCOME|Y|42800
+0|FAM|Y|@F143@
+1|HUSB|Y|George Smith
+1|WIFE|Y|Ella Minors
+1|CHIL|Y|Alan Smith
+2|AGE|Y|23
+1|CHIL|Y|Marvel Smith
+2|AGE|Y|19
+1|CHIL|Y|Richard Smith
+2|AGE|Y|17
+1|CHIL|Y|Katherine Smith
+2|AGE|Y|20
+1|INCOME|Y|26000
+0|FAM|Y|@F144@
+1|HUSB|Y|Garry Dejesus
+1|WIFE|Y|Betty Boone
+1|CHIL|Y|Robert Dejesus
+2|AGE|Y|11
+1|CHIL|Y|Mary Dejesus
+2|AGE|Y|8
+1|CHIL|Y|Robert Dejesus
+2|AGE|Y|24
+1|INCOME|Y|49100
+0|FAM|Y|@F145@
+1|HUSB|Y|Charles Castaneda
+1|WIFE|Y|Dorothy Hopps
+1|CHIL|Y|Craig Castaneda
+2|AGE|Y|16
+1|CHIL|Y|Martha Castaneda
+2|AGE|Y|11
+1|INCOME|Y|64100
+0|FAM|Y|@F146@
+1|HUSB|Y|Cleo Rice
+1|WIFE|Y|Emma Kwan
+1|CHIL|Y|Anne Rice
+2|AGE|Y|2
+1|CHIL|Y|Clifton Rice
+2|AGE|Y|2
+1|CHIL|Y|Alecia Rice
+2|AGE|Y|8
+1|CHIL|Y|Kimberly Rice
+2|AGE|Y|15
+1|INCOME|Y|41200
+0|FAM|Y|@F147@
+1|HUSB|Y|Ricky Frisch
+1|WIFE|Y|Anne Kragt
+1|CHIL|Y|Sherry Frisch
+2|AGE|Y|7
+1|CHIL|Y|Benjamin Frisch
+2|AGE|Y|24
+1|CHIL|Y|Steven Frisch
+2|AGE|Y|11
+1|CHIL|Y|Esther Frisch
+2|AGE|Y|21
+1|CHIL|Y|Angela Frisch
+2|AGE|Y|20
+1|INCOME|Y|51300
+0|FAM|Y|@F148@
+1|HUSB|Y|Lawrence Henderson
+1|WIFE|Y|Mildred Mcewen
+1|CHIL|Y|Marian Henderson
+2|AGE|Y|11
+1|CHIL|Y|Marie Henderson
+2|AGE|Y|8
+1|CHIL|Y|Anne Henderson
+2|AGE|Y|6
+1|INCOME|Y|38100
+0|FAM|Y|@F149@
+1|HUSB|Y|Steven George
+1|WIFE|Y|Maria Hamilton
+1|CHIL|Y|Damien George
+2|AGE|Y|1
+1|CHIL|Y|Lottie George
+2|AGE|Y|16
+1|CHIL|Y|Justin George
+2|AGE|Y|2
+1|CHIL|Y|Benjamin George
+2|AGE|Y|14
+1|CHIL|Y|Nellie George
+2|AGE|Y|12
+1|INCOME|Y|67000
+0|FAM|Y|@F150@
+1|HUSB|Y|Alexander Head
+1|WIFE|Y|Rosie Herman
+1|CHIL|Y|Nicole Head
+2|AGE|Y|7
+1|CHIL|Y|Edwin Head
+2|AGE|Y|15
+1|CHIL|Y|Alma Head
+2|AGE|Y|25
+1|CHIL|Y|Stanley Head
+2|AGE|Y|24
+1|INCOME|Y|48800
+0|FAM|Y|@F151@
+1|HUSB|Y|John Pitts
+1|WIFE|Y|Christine Baker
+1|CHIL|Y|Jeremy Pitts
+2|AGE|Y|25
+1|CHIL|Y|Peggy Pitts
+2|AGE|Y|15
+1|CHIL|Y|Tien Pitts
+2|AGE|Y|4
+1|INCOME|Y|66300
+0|FAM|Y|@F152@
+1|HUSB|Y|Quinn Freed
+1|WIFE|Y|Ruth David
+1|CHIL|Y|Marcus Freed
+2|AGE|Y|13
+1|CHIL|Y|Sharon Freed
+2|AGE|Y|16
+1|INCOME|Y|40000
+0|FAM|Y|@F153@
+1|HUSB|Y|Rudy Proffitt
+1|WIFE|Y|Ebony Barron
+1|CHIL|Y|Audrey Proffitt
+2|AGE|Y|4
+1|CHIL|Y|Catherine Proffitt
+2|AGE|Y|9
+1|CHIL|Y|Arturo Proffitt
+2|AGE|Y|4
+1|CHIL|Y|Carl Proffitt
+2|AGE|Y|21
+1|INCOME|Y|23800
+0|FAM|Y|@F154@
+1|HUSB|Y|Tony Spicher
+1|WIFE|Y|Jewel Lindsey
+1|CHIL|Y|Joseph Spicher
+2|AGE|Y|24
+1|CHIL|Y|Drucilla Spicher
+2|AGE|Y|23
+1|INCOME|Y|48800
+0|FAM|Y|@F155@
+1|HUSB|Y|Thomas Osborn
+1|WIFE|Y|Kathleen Carroll
+1|CHIL|Y|Sandra Osborn
+2|AGE|Y|10
+1|CHIL|Y|Evelyn Osborn
+2|AGE|Y|5
+1|INCOME|Y|31200
+0|FAM|Y|@F156@
+1|HUSB|Y|Thomas Johnson
+1|WIFE|Y|Patsy Abelman
+1|CHIL|Y|Jimmy Johnson
+2|AGE|Y|23
+1|CHIL|Y|Wayne Johnson
+2|AGE|Y|18
+1|INCOME|Y|50100
+0|FAM|Y|@F157@
+1|HUSB|Y|Edward Clem
+1|WIFE|Y|Lashawnda Whicker
+1|CHIL|Y|Johnathan Clem
+2|AGE|Y|5
+1|CHIL|Y|Dena Clem
+2|AGE|Y|12
+1|CHIL|Y|Laurinda Clem
+2|AGE|Y|3
+1|CHIL|Y|Rebecca Clem
+2|AGE|Y|12
+1|CHIL|Y|Ryan Clem
+2|AGE|Y|2
+1|INCOME|Y|25100
+0|FAM|Y|@F158@
+1|HUSB|Y|Robert Huffman
+1|WIFE|Y|Crystal Flanigan
+1|CHIL|Y|Joe Huffman
+2|AGE|Y|13
+1|CHIL|Y|Stephanie Huffman
+2|AGE|Y|13
+1|CHIL|Y|Miguel Huffman
+2|AGE|Y|12
+1|CHIL|Y|Brian Huffman
+2|AGE|Y|2
+1|INCOME|Y|27800
+0|FAM|Y|@F159@
+1|HUSB|Y|Jeffery White
+1|WIFE|Y|Tracy Smart
+1|CHIL|Y|Esther White
+2|AGE|Y|16
+1|CHIL|Y|William White
+2|AGE|Y|7
+1|CHIL|Y|Cynthia White
+2|AGE|Y|10
+1|CHIL|Y|Joseph White
+2|AGE|Y|16
+1|INCOME|Y|50000
+0|FAM|Y|@F160@
+1|HUSB|Y|Frank Crouch
+1|WIFE|Y|Sandra Hicks
+1|CHIL|Y|David Crouch
+2|AGE|Y|11
+1|INCOME|Y|32600
+0|FAM|Y|@F161@
+1|HUSB|Y|Orlando White
+1|WIFE|Y|Nancy Weiss
+1|CHIL|Y|Mabel White
+2|AGE|Y|16
+1|CHIL|Y|Deanna White
+2|AGE|Y|24
+1|CHIL|Y|Betty White
+2|AGE|Y|13
+1|CHIL|Y|Jewel White
+2|AGE|Y|12
+1|CHIL|Y|Dennis White
+2|AGE|Y|8
+1|INCOME|Y|31100
+0|FAM|Y|@F162@
+1|HUSB|Y|Donald Felps
+1|WIFE|Y|Ruby Madden
+1|CHIL|Y|Toby Felps
+2|AGE|Y|9
+1|CHIL|Y|Vicky Felps
+2|AGE|Y|13
+1|CHIL|Y|Josephine Felps
+2|AGE|Y|3
+1|CHIL|Y|Gloria Felps
+2|AGE|Y|18
+1|INCOME|Y|38600
+0|FAM|Y|@F163@
+1|HUSB|Y|Ronald Smith
+1|WIFE|Y|Jennifer Ruffin
+1|CHIL|Y|Tracy Smith
+2|AGE|Y|18
+1|CHIL|Y|Moses Smith
+2|AGE|Y|6
+1|CHIL|Y|Derrick Smith
+2|AGE|Y|18
+1|INCOME|Y|28800
+0|FAM|Y|@F164@
+1|HUSB|Y|William Godwin
+1|WIFE|Y|Marie Clark
+1|CHIL|Y|William Godwin
+2|AGE|Y|8
+1|CHIL|Y|Scott Godwin
+2|AGE|Y|20
+1|INCOME|Y|29100
+0|FAM|Y|@F165@
+1|HUSB|Y|Daniel Roberts
+1|WIFE|Y|Lisa Williams
+1|CHIL|Y|Richard Roberts
+2|AGE|Y|22
+1|CHIL|Y|Mary Roberts
+2|AGE|Y|15
+1|INCOME|Y|22400
+0|FAM|Y|@F166@
+1|HUSB|Y|Roy Price
+1|WIFE|Y|Ladonna Doherty
+1|CHIL|Y|Loren Price
+2|AGE|Y|17
+1|INCOME|Y|28200
+0|FAM|Y|@F167@
+1|HUSB|Y|Dominick Christmas
+1|WIFE|Y|Betty Black
+1|CHIL|Y|Olga Christmas
+2|AGE|Y|3
+1|CHIL|Y|Jermaine Christmas
+2|AGE|Y|4
+1|CHIL|Y|Louis Christmas
+2|AGE|Y|8
+1|CHIL|Y|Sara Christmas
+2|AGE|Y|25
+1|INCOME|Y|48300
+0|FAM|Y|@F168@
+1|HUSB|Y|Justin Welch
+1|WIFE|Y|Milissa Nestle
+1|CHIL|Y|Carl Welch
+2|AGE|Y|6
+1|CHIL|Y|Ruth Welch
+2|AGE|Y|1
+1|CHIL|Y|Denise Welch
+2|AGE|Y|4
+1|CHIL|Y|Suzanne Welch
+2|AGE|Y|24
+1|INCOME|Y|51800
+0|FAM|Y|@F169@
+1|HUSB|Y|Felipe Brown
+1|WIFE|Y|Barbara Bierman
+1|CHIL|Y|David Brown
+2|AGE|Y|7
+1|CHIL|Y|Susan Brown
+2|AGE|Y|7
+1|CHIL|Y|Doris Brown
+2|AGE|Y|8
+1|CHIL|Y|Anne Brown
+2|AGE|Y|4
+1|INCOME|Y|42800
+0|FAM|Y|@F170@
+1|HUSB|Y|Leroy Trotter
+1|WIFE|Y|Mary Lambert
+1|CHIL|Y|Allan Trotter
+2|AGE|Y|11
+1|CHIL|Y|Robert Trotter
+2|AGE|Y|2
+1|INCOME|Y|22500
+0|FAM|Y|@F171@
+1|HUSB|Y|Charles Jeter
+1|WIFE|Y|Carmen Malinoski
+1|CHIL|Y|Kevin Jeter
+2|AGE|Y|13
+1|CHIL|Y|Joshua Jeter
+2|AGE|Y|22
+1|CHIL|Y|Paulina Jeter
+2|AGE|Y|5
+1|INCOME|Y|26700
+0|FAM|Y|@F172@
+1|HUSB|Y|Israel Jett
+1|WIFE|Y|Mildred Kraft
+1|CHIL|Y|Brenda Jett
+2|AGE|Y|8
+1|CHIL|Y|Daisy Jett
+2|AGE|Y|21
+1|CHIL|Y|David Jett
+2|AGE|Y|19
+1|CHIL|Y|Carolyn Jett
+2|AGE|Y|7
+1|INCOME|Y|25700
+0|FAM|Y|@F173@
+1|HUSB|Y|Charles Ledbetter
+1|WIFE|Y|Ashley Benson
+1|CHIL|Y|David Ledbetter
+2|AGE|Y|7
+1|CHIL|Y|Mark Ledbetter
+2|AGE|Y|15
+1|CHIL|Y|Gail Ledbetter
+2|AGE|Y|21
+1|CHIL|Y|Denise Ledbetter
+2|AGE|Y|11
+1|CHIL|Y|Penny Ledbetter
+2|AGE|Y|16
+1|INCOME|Y|39200
+0|FAM|Y|@F174@
+1|HUSB|Y|Jerry Luvene
+1|WIFE|Y|Kathy Henig
+1|CHIL|Y|Denise Luvene
+2|AGE|Y|25
+1|CHIL|Y|Marsha Luvene
+2|AGE|Y|8
+1|INCOME|Y|49100
+0|FAM|Y|@F175@
+1|HUSB|Y|Franklin Morgan
+1|WIFE|Y|Christina Smith
+1|CHIL|Y|Harriet Morgan
+2|AGE|Y|11
+1|CHIL|Y|Betty Morgan
+2|AGE|Y|15
+1|CHIL|Y|Sabra Morgan
+2|AGE|Y|23
+1|CHIL|Y|John Morgan
+2|AGE|Y|16
+1|INCOME|Y|48600
+0|FAM|Y|@F176@
+1|HUSB|Y|Robert Tracy
+1|WIFE|Y|Tammy Bradley
+1|CHIL|Y|Robert Tracy
+2|AGE|Y|22
+1|CHIL|Y|Latasha Tracy
+2|AGE|Y|3
+1|INCOME|Y|54400
+0|FAM|Y|@F177@
+1|HUSB|Y|Michael Norris
+1|WIFE|Y|Cathy Ackerson
+1|CHIL|Y|Louis Norris
+2|AGE|Y|25
+1|CHIL|Y|Moises Norris
+2|AGE|Y|1
+1|CHIL|Y|Linda Norris
+2|AGE|Y|6
+1|CHIL|Y|Donald Norris
+2|AGE|Y|20
+1|INCOME|Y|48400
+0|FAM|Y|@F178@
+1|HUSB|Y|Johnny Mckibben
+1|WIFE|Y|Angie Depalma
+1|CHIL|Y|Gladys Mckibben
+2|AGE|Y|3
+1|CHIL|Y|Bianca Mckibben
+2|AGE|Y|8
+1|CHIL|Y|Ramona Mckibben
+2|AGE|Y|8
+1|INCOME|Y|29500
+0|FAM|Y|@F179@
+1|HUSB|Y|Louis Wright
+1|WIFE|Y|Florence Scofield
+1|CHIL|Y|Willie Wright
+2|AGE|Y|7
+1|CHIL|Y|Bernice Wright
+2|AGE|Y|25
+1|INCOME|Y|25200
+0|FAM|Y|@F180@
+1|HUSB|Y|Jamaal Willis
+1|WIFE|Y|Beverly Goodrich
+1|CHIL|Y|Adele Willis
+2|AGE|Y|15
+1|CHIL|Y|Raymond Willis
+2|AGE|Y|3
+1|CHIL|Y|Thelma Willis
+2|AGE|Y|5
+1|INCOME|Y|60900
+0|FAM|Y|@F181@
+1|HUSB|Y|Jeffrey Butler
+1|WIFE|Y|Ethel Macy
+1|CHIL|Y|Aaron Butler
+2|AGE|Y|15
+1|CHIL|Y|Sally Butler
+2|AGE|Y|18
+1|CHIL|Y|Jose Butler
+2|AGE|Y|11
+1|CHIL|Y|Bradley Butler
+2|AGE|Y|9
+1|CHIL|Y|Jamie Butler
+2|AGE|Y|7
+1|INCOME|Y|43200
+0|FAM|Y|@F182@
+1|HUSB|Y|Michael Davidson
+1|WIFE|Y|Kelly Shield
+1|CHIL|Y|Daniel Davidson
+2|AGE|Y|12
+1|CHIL|Y|Frank Davidson
+2|AGE|Y|1
+1|INCOME|Y|40700
+0|FAM|Y|@F183@
+1|HUSB|Y|John Youmans
+1|WIFE|Y|Brenda Wilshire
+1|CHIL|Y|Audrey Youmans
+2|AGE|Y|2
+1|CHIL|Y|Alejandro Youmans
+2|AGE|Y|17
+1|CHIL|Y|Alice Youmans
+2|AGE|Y|3
+1|INCOME|Y|40200
+0|FAM|Y|@F184@
+1|HUSB|Y|Jasper Anderson
+1|WIFE|Y|Thelma Baker
+1|CHIL|Y|Maria Anderson
+2|AGE|Y|20
+1|CHIL|Y|Gregorio Anderson
+2|AGE|Y|6
+1|CHIL|Y|William Anderson
+2|AGE|Y|15
+1|CHIL|Y|Agnes Anderson
+2|AGE|Y|13
+1|CHIL|Y|Russell Anderson
+2|AGE|Y|11
+1|INCOME|Y|62100
+0|FAM|Y|@F185@
+1|HUSB|Y|Raymond Thompson
+1|WIFE|Y|Linda Brooksher
+1|CHIL|Y|Rose Thompson
+2|AGE|Y|1
+1|CHIL|Y|Andrew Thompson
+2|AGE|Y|17
+1|CHIL|Y|Barbara Thompson
+2|AGE|Y|20
+1|CHIL|Y|Carl Thompson
+2|AGE|Y|5
+1|CHIL|Y|Lloyd Thompson
+2|AGE|Y|11
+1|INCOME|Y|61800
+0|FAM|Y|@F186@
+1|HUSB|Y|Eric Chiodo
+1|WIFE|Y|Laura Haynes
+1|CHIL|Y|Bertram Chiodo
+2|AGE|Y|4
+1|CHIL|Y|Leslie Chiodo
+2|AGE|Y|16
+1|CHIL|Y|Anne Chiodo
+2|AGE|Y|3
+1|CHIL|Y|Leah Chiodo
+2|AGE|Y|22
+1|CHIL|Y|Charlotte Chiodo
+2|AGE|Y|1
+1|INCOME|Y|65600
+0|FAM|Y|@F187@
+1|HUSB|Y|Billy Simpson
+1|WIFE|Y|Nicole Mccarron
+1|CHIL|Y|Donna Simpson
+2|AGE|Y|23
+1|CHIL|Y|Frances Simpson
+2|AGE|Y|7
+1|INCOME|Y|53900
+0|FAM|Y|@F188@
+1|HUSB|Y|Marcus Tyson
+1|WIFE|Y|Allison Pinell
+1|CHIL|Y|Robert Tyson
+2|AGE|Y|23
+1|CHIL|Y|Antony Tyson
+2|AGE|Y|6
+1|CHIL|Y|Juana Tyson
+2|AGE|Y|19
+1|INCOME|Y|22600
+0|FAM|Y|@F189@
+1|HUSB|Y|Brian Kodadek
+1|WIFE|Y|Dorothy Feauto
+1|CHIL|Y|Barbara Kodadek
+2|AGE|Y|22
+1|INCOME|Y|63100
+0|FAM|Y|@F190@
+1|HUSB|Y|John Leiva
+1|WIFE|Y|Wanda Walker
+1|CHIL|Y|Georgia Leiva
+2|AGE|Y|25
+1|CHIL|Y|William Leiva
+2|AGE|Y|17
+1|CHIL|Y|Tomeka Leiva
+2|AGE|Y|13
+1|INCOME|Y|30500
+0|FAM|Y|@F191@
+1|HUSB|Y|Albert Bernardo
+1|WIFE|Y|Nicole Echevarria
+1|CHIL|Y|Mark Bernardo
+2|AGE|Y|4
+1|CHIL|Y|Mary Bernardo
+2|AGE|Y|15
+1|INCOME|Y|64900
+0|FAM|Y|@F192@
+1|HUSB|Y|William Thompson
+1|WIFE|Y|Vicki Wood
+1|CHIL|Y|Lance Thompson
+2|AGE|Y|25
+1|CHIL|Y|Alfonso Thompson
+2|AGE|Y|22
+1|INCOME|Y|54400
+0|FAM|Y|@F193@
+1|HUSB|Y|Robert Cobbins
+1|WIFE|Y|Bessie Donaldson
+1|CHIL|Y|Sharon Cobbins
+2|AGE|Y|23
+1|INCOME|Y|56500
+0|FAM|Y|@F194@
+1|HUSB|Y|John Wallace
+1|WIFE|Y|Connie Helms
+1|CHIL|Y|Maynard Wallace
+2|AGE|Y|12
+1|CHIL|Y|Marion Wallace
+2|AGE|Y|18
+1|CHIL|Y|Tony Wallace
+2|AGE|Y|25
+1|INCOME|Y|27100
+0|FAM|Y|@F195@
+1|HUSB|Y|Walter Williams
+1|WIFE|Y|Eva Green
+1|CHIL|Y|Sharon Williams
+2|AGE|Y|17
+1|CHIL|Y|William Williams
+2|AGE|Y|3
+1|CHIL|Y|Shannon Williams
+2|AGE|Y|13
+1|CHIL|Y|Karen Williams
+2|AGE|Y|20
+1|CHIL|Y|Virginia Williams
+2|AGE|Y|18
+1|INCOME|Y|67300
+0|FAM|Y|@F196@
+1|HUSB|Y|David Lockhart
+1|WIFE|Y|Michele Peek
+1|CHIL|Y|Gregg Lockhart
+2|AGE|Y|14
+1|CHIL|Y|Cedric Lockhart
+2|AGE|Y|21
+1|INCOME|Y|60900
+0|FAM|Y|@F197@
+1|HUSB|Y|Bryant Abplanalp
+1|WIFE|Y|Madeline Woodall
+1|CHIL|Y|Mildred Abplanalp
+2|AGE|Y|16
+1|CHIL|Y|Robert Abplanalp
+2|AGE|Y|10
+1|CHIL|Y|Sandra Abplanalp
+2|AGE|Y|22
+1|CHIL|Y|Timothy Abplanalp
+2|AGE|Y|1
+1|INCOME|Y|21100
+0|FAM|Y|@F198@
+1|HUSB|Y|William Fontenot
+1|WIFE|Y|Kimberly Shope
+1|CHIL|Y|James Fontenot
+2|AGE|Y|10
+1|CHIL|Y|Ron Fontenot
+2|AGE|Y|6
+1|INCOME|Y|69000
+0|FAM|Y|@F199@
+1|HUSB|Y|Derick Stanley
+1|WIFE|Y|Ok Barkley
+1|CHIL|Y|Patrick Stanley
+2|AGE|Y|1
+1|CHIL|Y|Matthew Stanley
+2|AGE|Y|14
+1|CHIL|Y|Brain Stanley
+2|AGE|Y|2
+1|CHIL|Y|Charles Stanley
+2|AGE|Y|1
+1|INCOME|Y|69400
+0|FAM|Y|@F200@
+1|HUSB|Y|Vincent Spahr
+1|WIFE|Y|Daisy Mcleod
+1|CHIL|Y|Dawn Spahr
+2|AGE|Y|2
+1|CHIL|Y|Jean Spahr
+2|AGE|Y|9
+1|CHIL|Y|Charles Spahr
+2|AGE|Y|24
+1|INCOME|Y|29800
+0|FAM|Y|@F201@
+1|HUSB|Y|Steve Ruiz
+1|WIFE|Y|Elizabeth Espinosa
+1|CHIL|Y|Karen Ruiz
+2|AGE|Y|3
+1|CHIL|Y|Tomas Ruiz
+2|AGE|Y|7
+1|CHIL|Y|Velma Ruiz
+2|AGE|Y|20
+1|CHIL|Y|Young Ruiz
+2|AGE|Y|3
+1|CHIL|Y|Cecilia Ruiz
+2|AGE|Y|18
+1|INCOME|Y|64900
+0|FAM|Y|@F202@
+1|HUSB|Y|Earl Barnard
+1|WIFE|Y|Susan Lovelace
+1|CHIL|Y|Austin Barnard
+2|AGE|Y|13
+1|CHIL|Y|Steven Barnard
+2|AGE|Y|10
+1|INCOME|Y|35000
+0|FAM|Y|@F203@
+1|HUSB|Y|Donald Moreau
+1|WIFE|Y|Isabel Lawrence
+1|CHIL|Y|Roy Moreau
+2|AGE|Y|6
+1|CHIL|Y|Gidget Moreau
+2|AGE|Y|1
+1|CHIL|Y|Lynn Moreau
+2|AGE|Y|5
+1|INCOME|Y|20000
+0|FAM|Y|@F204@
+1|HUSB|Y|Aaron Brown
+1|WIFE|Y|Kathryn Murguia
+1|CHIL|Y|Thomas Brown
+2|AGE|Y|24
+1|CHIL|Y|Richard Brown
+2|AGE|Y|2
+1|CHIL|Y|Michael Brown
+2|AGE|Y|22
+1|CHIL|Y|Christine Brown
+2|AGE|Y|12
+1|INCOME|Y|26800
+0|FAM|Y|@F205@
+1|HUSB|Y|Richard Collins
+1|WIFE|Y|Doris Davis
+1|CHIL|Y|Carrie Collins
+2|AGE|Y|21
+1|CHIL|Y|Floyd Collins
+2|AGE|Y|7
+1|CHIL|Y|Alfonso Collins
+2|AGE|Y|11
+1|CHIL|Y|Kendra Collins
+2|AGE|Y|4
+1|INCOME|Y|56300
+0|FAM|Y|@F206@
+1|HUSB|Y|Derrick Duck
+1|WIFE|Y|Evalyn Miller
+1|CHIL|Y|Catherine Duck
+2|AGE|Y|2
+1|CHIL|Y|Amanda Duck
+2|AGE|Y|10
+1|CHIL|Y|Kathy Duck
+2|AGE|Y|13
+1|INCOME|Y|21300
+0|FAM|Y|@F207@
+1|HUSB|Y|Saul Mcguyer
+1|WIFE|Y|Charlotte Whitehead
+1|CHIL|Y|Margaret Mcguyer
+2|AGE|Y|4
+1|CHIL|Y|Kenny Mcguyer
+2|AGE|Y|11
+1|CHIL|Y|Leopoldo Mcguyer
+2|AGE|Y|6
+1|CHIL|Y|Kendall Mcguyer
+2|AGE|Y|13
+1|CHIL|Y|June Mcguyer
+2|AGE|Y|18
+1|INCOME|Y|31300
+0|FAM|Y|@F208@
+1|HUSB|Y|Patrick Viator
+1|WIFE|Y|Gloria Raby
+1|CHIL|Y|Vernon Viator
+2|AGE|Y|11
+1|CHIL|Y|Kathy Viator
+2|AGE|Y|10
+1|CHIL|Y|Brandon Viator
+2|AGE|Y|1
+1|INCOME|Y|27600
+0|FAM|Y|@F209@
+1|HUSB|Y|Sidney Walker
+1|WIFE|Y|Jeri Stidham
+1|CHIL|Y|Mark Walker
+2|AGE|Y|5
+1|INCOME|Y|24800
+0|FAM|Y|@F210@
+1|HUSB|Y|Antonio Wlodarek
+1|WIFE|Y|Willie Cooper
+1|CHIL|Y|Sandra Wlodarek
+2|AGE|Y|20
+1|CHIL|Y|Dina Wlodarek
+2|AGE|Y|18
+1|CHIL|Y|John Wlodarek
+2|AGE|Y|22
+1|CHIL|Y|Nancy Wlodarek
+2|AGE|Y|22
+1|INCOME|Y|64400
+0|FAM|Y|@F211@
+1|HUSB|Y|Arnold Roe
+1|WIFE|Y|Denise Halterman
+1|CHIL|Y|Hector Roe
+2|AGE|Y|4
+1|INCOME|Y|54400
+0|FAM|Y|@F212@
+1|HUSB|Y|Henry Benson
+1|WIFE|Y|Catherine Sotelo
+1|CHIL|Y|Ian Benson
+2|AGE|Y|23
+1|INCOME|Y|34700
+0|FAM|Y|@F213@
+1|HUSB|Y|Owen Brewster
+1|WIFE|Y|Mary Adams
+1|CHIL|Y|Jerry Brewster
+2|AGE|Y|5
+1|CHIL|Y|Amber Brewster
+2|AGE|Y|18
+1|CHIL|Y|Stacey Brewster
+2|AGE|Y|7
+1|INCOME|Y|38300
+0|FAM|Y|@F214@
+1|HUSB|Y|Gregory Beckford
+1|WIFE|Y|Terry Martin
+1|CHIL|Y|Angela Beckford
+2|AGE|Y|14
+1|CHIL|Y|Amanda Beckford
+2|AGE|Y|24
+1|CHIL|Y|Sharyn Beckford
+2|AGE|Y|24
+1|CHIL|Y|Rachael Beckford
+2|AGE|Y|14
+1|INCOME|Y|63600
+0|FAM|Y|@F215@
+1|HUSB|Y|Donald Clark
+1|WIFE|Y|Francisca Engelken
+1|CHIL|Y|Sheila Clark
+2|AGE|Y|18
+1|INCOME|Y|33200
+0|FAM|Y|@F216@
+1|HUSB|Y|Rickey Robinson
+1|WIFE|Y|Pearl Rathke
+1|CHIL|Y|Mary Robinson
+2|AGE|Y|12
+1|CHIL|Y|Anthony Robinson
+2|AGE|Y|10
+1|CHIL|Y|Tim Robinson
+2|AGE|Y|20
+1|CHIL|Y|David Robinson
+2|AGE|Y|23
+1|CHIL|Y|Celia Robinson
+2|AGE|Y|10
+1|INCOME|Y|54000
+0|FAM|Y|@F217@
+1|HUSB|Y|Richard Rothe
+1|WIFE|Y|Janet Straub
+1|CHIL|Y|Elva Rothe
+2|AGE|Y|4
+1|CHIL|Y|Shirley Rothe
+2|AGE|Y|16
+1|CHIL|Y|Jason Rothe
+2|AGE|Y|7
+1|CHIL|Y|William Rothe
+2|AGE|Y|14
+1|CHIL|Y|Jack Rothe
+2|AGE|Y|10
+1|INCOME|Y|21500
+0|FAM|Y|@F218@
+1|HUSB|Y|Michael Scheffler
+1|WIFE|Y|Jessenia Dishner
+1|CHIL|Y|Gary Scheffler
+2|AGE|Y|23
+1|CHIL|Y|Jason Scheffler
+2|AGE|Y|14
+1|CHIL|Y|Walter Scheffler
+2|AGE|Y|17
+1|CHIL|Y|Charles Scheffler
+2|AGE|Y|16
+1|CHIL|Y|Guillermo Scheffler
+2|AGE|Y|10
+1|INCOME|Y|31800
+0|FAM|Y|@F219@
+1|HUSB|Y|Carl Parks
+1|WIFE|Y|Evelyn Greene
+1|CHIL|Y|Catalina Parks
+2|AGE|Y|21
+1|CHIL|Y|Aaron Parks
+2|AGE|Y|6
+1|INCOME|Y|44000
+0|FAM|Y|@F220@
+1|HUSB|Y|Thaddeus Simpson
+1|WIFE|Y|Jessica Gansen
+1|CHIL|Y|Clifford Simpson
+2|AGE|Y|2
+1|CHIL|Y|Emiko Simpson
+2|AGE|Y|3
+1|INCOME|Y|60000
+0|FAM|Y|@F221@
+1|HUSB|Y|James Capps
+1|WIFE|Y|Melissa Stevens
+1|CHIL|Y|Helen Capps
+2|AGE|Y|18
+1|CHIL|Y|Mary Capps
+2|AGE|Y|1
+1|CHIL|Y|Gaston Capps
+2|AGE|Y|1
+1|CHIL|Y|David Capps
+2|AGE|Y|22
+1|CHIL|Y|Wendy Capps
+2|AGE|Y|4
+1|INCOME|Y|59200
+0|FAM|Y|@F222@
+1|HUSB|Y|Russell Ehmann
+1|WIFE|Y|Ruby Okeefe
+1|CHIL|Y|Justin Ehmann
+2|AGE|Y|23
+1|CHIL|Y|Lyle Ehmann
+2|AGE|Y|23
+1|CHIL|Y|William Ehmann
+2|AGE|Y|4
+1|CHIL|Y|Darrell Ehmann
+2|AGE|Y|19
+1|CHIL|Y|Ralph Ehmann
+2|AGE|Y|19
+1|INCOME|Y|37700
+0|FAM|Y|@F223@
+1|HUSB|Y|Harry Turner
+1|WIFE|Y|Norma Booker
+1|CHIL|Y|Rex Turner
+2|AGE|Y|9
+1|CHIL|Y|Warner Turner
+2|AGE|Y|19
+1|CHIL|Y|Margaret Turner
+2|AGE|Y|19
+1|INCOME|Y|43500
+0|FAM|Y|@F224@
+1|HUSB|Y|Oscar Starkey
+1|WIFE|Y|Mary Pollard
+1|CHIL|Y|Walter Starkey
+2|AGE|Y|13
+1|INCOME|Y|40600
+0|FAM|Y|@F225@
+1|HUSB|Y|Christopher Johnson
+1|WIFE|Y|Priscilla Anderson
+1|CHIL|Y|Michelle Johnson
+2|AGE|Y|17
+1|CHIL|Y|Donald Johnson
+2|AGE|Y|8
+1|CHIL|Y|Darrell Johnson
+2|AGE|Y|13
+1|INCOME|Y|33900
+0|FAM|Y|@F226@
+1|HUSB|Y|Elias Madigan
+1|WIFE|Y|Janet Ledford
+1|CHIL|Y|Brigitte Madigan
+2|AGE|Y|9
+1|INCOME|Y|65500
+0|FAM|Y|@F227@
+1|HUSB|Y|Miguel Walker
+1|WIFE|Y|Irene Stanfill
+1|CHIL|Y|Sharon Walker
+2|AGE|Y|4
+1|CHIL|Y|Ray Walker
+2|AGE|Y|10
+1|CHIL|Y|Brian Walker
+2|AGE|Y|12
+1|CHIL|Y|Jerry Walker
+2|AGE|Y|25
+1|INCOME|Y|60700
+0|FAM|Y|@F228@
+1|HUSB|Y|Todd Wilson
+1|WIFE|Y|Lisa Delgado
+1|CHIL|Y|Marina Wilson
+2|AGE|Y|8
+1|CHIL|Y|Allegra Wilson
+2|AGE|Y|8
+1|CHIL|Y|Daniel Wilson
+2|AGE|Y|23
+1|CHIL|Y|Robert Wilson
+2|AGE|Y|8
+1|INCOME|Y|26900
+0|FAM|Y|@F229@
+1|HUSB|Y|Walter Abbott
+1|WIFE|Y|Christina Gibbons
+1|CHIL|Y|Elizabeth Abbott
+2|AGE|Y|15
+1|CHIL|Y|Mignon Abbott
+2|AGE|Y|22
+1|CHIL|Y|Claire Abbott
+2|AGE|Y|25
+1|CHIL|Y|Nicole Abbott
+2|AGE|Y|19
+1|INCOME|Y|44200
+0|FAM|Y|@F230@
+1|HUSB|Y|Paul Cravens
+1|WIFE|Y|Eileen Routhier
+1|CHIL|Y|Todd Cravens
+2|AGE|Y|23
+1|CHIL|Y|Martin Cravens
+2|AGE|Y|13
+1|CHIL|Y|Branden Cravens
+2|AGE|Y|8
+1|CHIL|Y|Patricia Cravens
+2|AGE|Y|6
+1|INCOME|Y|58900
+0|FAM|Y|@F231@
+1|HUSB|Y|Nicholas Streeter
+1|WIFE|Y|Colette Taylor
+1|CHIL|Y|Ashley Streeter
+2|AGE|Y|11
+1|CHIL|Y|Craig Streeter
+2|AGE|Y|9
+1|CHIL|Y|David Streeter
+2|AGE|Y|25
+1|INCOME|Y|37900
+0|FAM|Y|@F232@
+1|HUSB|Y|Jason Isham
+1|WIFE|Y|Carole Mullinax
+1|CHIL|Y|Amanda Isham
+2|AGE|Y|3
+1|INCOME|Y|39800
+0|FAM|Y|@F233@
+1|HUSB|Y|James Webb
+1|WIFE|Y|Francisca Klebanow
+1|CHIL|Y|Anthony Webb
+2|AGE|Y|9
+1|CHIL|Y|George Webb
+2|AGE|Y|10
+1|INCOME|Y|59500
+0|FAM|Y|@F234@
+1|HUSB|Y|Steven Churchill
+1|WIFE|Y|Melissa Yarborough
+1|CHIL|Y|Robin Churchill
+2|AGE|Y|16
+1|INCOME|Y|41600
+0|FAM|Y|@F235@
+1|HUSB|Y|Norman Duke
+1|WIFE|Y|Kay Wallace
+1|CHIL|Y|Melody Duke
+2|AGE|Y|9
+1|INCOME|Y|57200
+0|FAM|Y|@F236@
+1|HUSB|Y|Mario Hudson
+1|WIFE|Y|Tandy Milan
+1|CHIL|Y|Amanda Hudson
+2|AGE|Y|19
+1|CHIL|Y|Johnny Hudson
+2|AGE|Y|25
+1|INCOME|Y|27900
+0|FAM|Y|@F237@
+1|HUSB|Y|Randy Cheney
+1|WIFE|Y|Margaret Harvey
+1|CHIL|Y|Rick Cheney
+2|AGE|Y|21
+1|CHIL|Y|Reid Cheney
+2|AGE|Y|23
+1|CHIL|Y|Lorenzo Cheney
+2|AGE|Y|17
+1|CHIL|Y|Frances Cheney
+2|AGE|Y|25
+1|INCOME|Y|58100
+0|FAM|Y|@F238@
+1|HUSB|Y|Rene Rech
+1|WIFE|Y|Mary Hamilton
+1|CHIL|Y|Vicki Rech
+2|AGE|Y|14
+1|CHIL|Y|Minnie Rech
+2|AGE|Y|15
+1|CHIL|Y|James Rech
+2|AGE|Y|25
+1|CHIL|Y|Marilyn Rech
+2|AGE|Y|4
+1|CHIL|Y|Veronica Rech
+2|AGE|Y|14
+1|INCOME|Y|59600
+0|FAM|Y|@F239@
+1|HUSB|Y|Leonard Nee
+1|WIFE|Y|Misty Smith
+1|CHIL|Y|Harold Nee
+2|AGE|Y|18
+1|CHIL|Y|Samuel Nee
+2|AGE|Y|17
+1|CHIL|Y|Benjamin Nee
+2|AGE|Y|21
+1|CHIL|Y|Regina Nee
+2|AGE|Y|12
+1|INCOME|Y|20900
+0|FAM|Y|@F240@
+1|HUSB|Y|Miguel Henderson
+1|WIFE|Y|Pamela Jones
+1|CHIL|Y|Harold Henderson
+2|AGE|Y|8
+1|CHIL|Y|Timothy Henderson
+2|AGE|Y|7
+1|CHIL|Y|Peggy Henderson
+2|AGE|Y|13
+1|CHIL|Y|Chuck Henderson
+2|AGE|Y|19
+1|INCOME|Y|54100
+0|FAM|Y|@F241@
+1|HUSB|Y|Roy Cole
+1|WIFE|Y|Sarah Rush
+1|CHIL|Y|Marjorie Cole
+2|AGE|Y|2
+1|CHIL|Y|Lora Cole
+2|AGE|Y|4
+1|CHIL|Y|Araceli Cole
+2|AGE|Y|11
+1|INCOME|Y|68700
+0|FAM|Y|@F242@
+1|HUSB|Y|Dennis Proctor
+1|WIFE|Y|Rhea Spatz
+1|CHIL|Y|David Proctor
+2|AGE|Y|17
+1|CHIL|Y|John Proctor
+2|AGE|Y|20
+1|CHIL|Y|Grace Proctor
+2|AGE|Y|20
+1|CHIL|Y|Samuel Proctor
+2|AGE|Y|22
+1|CHIL|Y|Anna Proctor
+2|AGE|Y|5
+1|INCOME|Y|63300
+0|FAM|Y|@F243@
+1|HUSB|Y|Daniel Vasquez
+1|WIFE|Y|Sarah Drew
+1|CHIL|Y|Helen Vasquez
+2|AGE|Y|2
+1|CHIL|Y|Mary Vasquez
+2|AGE|Y|3
+1|CHIL|Y|Mary Vasquez
+2|AGE|Y|23
+1|INCOME|Y|56900
+0|FAM|Y|@F244@
+1|HUSB|Y|Charles Edwards
+1|WIFE|Y|Cheryl Rose
+1|CHIL|Y|Esperanza Edwards
+2|AGE|Y|15
+1|CHIL|Y|Miriam Edwards
+2|AGE|Y|9
+1|INCOME|Y|22500
+0|FAM|Y|@F245@
+1|HUSB|Y|James Kincaid
+1|WIFE|Y|Helen Price
+1|CHIL|Y|Patrick Kincaid
+2|AGE|Y|4
+1|INCOME|Y|64400
+0|FAM|Y|@F246@
+1|HUSB|Y|Jerald Ramirez
+1|WIFE|Y|Mary Manning
+1|CHIL|Y|Irene Ramirez
+2|AGE|Y|25
+1|CHIL|Y|Oscar Ramirez
+2|AGE|Y|3
+1|INCOME|Y|58400
+0|FAM|Y|@F247@
+1|HUSB|Y|Mark Davidson
+1|WIFE|Y|Mildred Dewitt
+1|CHIL|Y|Jeanette Davidson
+2|AGE|Y|5
+1|CHIL|Y|Betty Davidson
+2|AGE|Y|21
+1|CHIL|Y|Kim Davidson
+2|AGE|Y|16
+1|INCOME|Y|60800
+0|FAM|Y|@F248@
+1|HUSB|Y|Christopher Watson
+1|WIFE|Y|Gladys Watson
+1|CHIL|Y|Andrew Watson
+2|AGE|Y|6
+1|CHIL|Y|Jane Watson
+2|AGE|Y|16
+1|CHIL|Y|Missy Watson
+2|AGE|Y|23
+1|CHIL|Y|Roy Watson
+2|AGE|Y|8
+1|INCOME|Y|40800
+0|FAM|Y|@F249@
+1|HUSB|Y|Jimmy Elliott
+1|WIFE|Y|Kim Perdue
+1|CHIL|Y|Charles Elliott
+2|AGE|Y|22
+1|CHIL|Y|Helen Elliott
+2|AGE|Y|3
+1|CHIL|Y|Kimberly Elliott
+2|AGE|Y|12
+1|CHIL|Y|Tana Elliott
+2|AGE|Y|13
+1|CHIL|Y|Chara Elliott
+2|AGE|Y|25
+1|INCOME|Y|66300
+0|FAM|Y|@F250@
+1|HUSB|Y|Dennis Nicholas
+1|WIFE|Y|Evelyn Young
+1|CHIL|Y|Michael Nicholas
+2|AGE|Y|16
+1|CHIL|Y|Dale Nicholas
+2|AGE|Y|18
+1|CHIL|Y|Erin Nicholas
+2|AGE|Y|15
+1|CHIL|Y|Jennifer Nicholas
+2|AGE|Y|24
+1|INCOME|Y|47600
+0|FAM|Y|@F251@
+1|HUSB|Y|Michael Pendley
+1|WIFE|Y|Sandra Diaz
+1|CHIL|Y|Lloyd Pendley
+2|AGE|Y|14
+1|CHIL|Y|Sabrina Pendley
+2|AGE|Y|6
+1|CHIL|Y|Daniel Pendley
+2|AGE|Y|2
+1|CHIL|Y|Beverly Pendley
+2|AGE|Y|22
+1|CHIL|Y|Charles Pendley
+2|AGE|Y|3
+1|INCOME|Y|66000
+0|FAM|Y|@F252@
+1|HUSB|Y|Stanley Kell
+1|WIFE|Y|Claudia Young
+1|CHIL|Y|Forrest Kell
+2|AGE|Y|14
+1|CHIL|Y|Bryant Kell
+2|AGE|Y|23
+1|CHIL|Y|Rose Kell
+2|AGE|Y|24
+1|CHIL|Y|Violet Kell
+2|AGE|Y|5
+1|INCOME|Y|61900
+0|FAM|Y|@F253@
+1|HUSB|Y|James Byrd
+1|WIFE|Y|Carolyn Propes
+1|CHIL|Y|Tawana Byrd
+2|AGE|Y|24
+1|CHIL|Y|Kevin Byrd
+2|AGE|Y|6
+1|CHIL|Y|Leonard Byrd
+2|AGE|Y|4
+1|CHIL|Y|Robin Byrd
+2|AGE|Y|24
+1|CHIL|Y|Robert Byrd
+2|AGE|Y|13
+1|INCOME|Y|32300
+0|FAM|Y|@F254@
+1|HUSB|Y|Brandon Sessions
+1|WIFE|Y|Daniele Gibbs
+1|CHIL|Y|Jennifer Sessions
+2|AGE|Y|15
+1|CHIL|Y|Aaron Sessions
+2|AGE|Y|1
+1|CHIL|Y|Dolores Sessions
+2|AGE|Y|18
+1|CHIL|Y|Charlene Sessions
+2|AGE|Y|25
+1|INCOME|Y|65200
+0|FAM|Y|@F255@
+1|HUSB|Y|Kevin Warren
+1|WIFE|Y|Amy Fogg
+1|CHIL|Y|Maria Warren
+2|AGE|Y|12
+1|CHIL|Y|Herman Warren
+2|AGE|Y|24
+1|CHIL|Y|Brenda Warren
+2|AGE|Y|7
+1|INCOME|Y|62100
+0|FAM|Y|@F256@
+1|HUSB|Y|Allen Long
+1|WIFE|Y|Shasta Flores
+1|CHIL|Y|Mary Long
+2|AGE|Y|21
+1|INCOME|Y|37400
+0|FAM|Y|@F257@
+1|HUSB|Y|Derek Fox
+1|WIFE|Y|Judith Lincoln
+1|CHIL|Y|Kala Fox
+2|AGE|Y|21
+1|CHIL|Y|Mike Fox
+2|AGE|Y|10
+1|INCOME|Y|21000
+0|FAM|Y|@F258@
+1|HUSB|Y|William Kemppainen
+1|WIFE|Y|Lelia Lavalley
+1|CHIL|Y|Marian Kemppainen
+2|AGE|Y|4
+1|CHIL|Y|Vickie Kemppainen
+2|AGE|Y|16
+1|CHIL|Y|George Kemppainen
+2|AGE|Y|20
+1|CHIL|Y|Clarice Kemppainen
+2|AGE|Y|13
+1|INCOME|Y|60600
+0|FAM|Y|@F259@
+1|HUSB|Y|James Lindsey
+1|WIFE|Y|Jerrica Sawyer
+1|CHIL|Y|Virginia Lindsey
+2|AGE|Y|4
+1|CHIL|Y|Raymond Lindsey
+2|AGE|Y|4
+1|CHIL|Y|Elizabeth Lindsey
+2|AGE|Y|22
+1|CHIL|Y|Amy Lindsey
+2|AGE|Y|11
+1|CHIL|Y|John Lindsey
+2|AGE|Y|11
+1|INCOME|Y|56300
+0|FAM|Y|@F260@
+1|HUSB|Y|Kevin Willis
+1|WIFE|Y|Betty Powers
+1|CHIL|Y|Gail Willis
+2|AGE|Y|1
+1|CHIL|Y|Elmer Willis
+2|AGE|Y|9
+1|CHIL|Y|Monica Willis
+2|AGE|Y|10
+1|CHIL|Y|Anna Willis
+2|AGE|Y|1
+1|INCOME|Y|51600
+0|FAM|Y|@F261@
+1|HUSB|Y|Freddie Armour
+1|WIFE|Y|Cynthia Henderson
+1|CHIL|Y|Robert Armour
+2|AGE|Y|16
+1|CHIL|Y|Daniel Armour
+2|AGE|Y|1
+1|CHIL|Y|Lillian Armour
+2|AGE|Y|16
+1|CHIL|Y|Robert Armour
+2|AGE|Y|7
+1|CHIL|Y|Tiffany Armour
+2|AGE|Y|24
+1|INCOME|Y|49100
+0|FAM|Y|@F262@
+1|HUSB|Y|Jonathan Boor
+1|WIFE|Y|Theresa Jackson
+1|CHIL|Y|Krista Boor
+2|AGE|Y|12
+1|INCOME|Y|60700
+0|FAM|Y|@F263@
+1|HUSB|Y|Raymond Lee
+1|WIFE|Y|Misty Brooks
+1|CHIL|Y|Yvonne Lee
+2|AGE|Y|8
+1|CHIL|Y|Alice Lee
+2|AGE|Y|22
+1|CHIL|Y|William Lee
+2|AGE|Y|1
+1|INCOME|Y|61200
+0|FAM|Y|@F264@
+1|HUSB|Y|Frederick Mullen
+1|WIFE|Y|Mary Bueter
+1|CHIL|Y|Julia Mullen
+2|AGE|Y|15
+1|CHIL|Y|Allan Mullen
+2|AGE|Y|8
+1|INCOME|Y|41100
+0|FAM|Y|@F265@
+1|HUSB|Y|Matthew Chase
+1|WIFE|Y|Dianna Plant
+1|CHIL|Y|Benjamin Chase
+2|AGE|Y|14
+1|CHIL|Y|Frank Chase
+2|AGE|Y|25
+1|CHIL|Y|Richard Chase
+2|AGE|Y|9
+1|CHIL|Y|Robert Chase
+2|AGE|Y|1
+1|INCOME|Y|50300
+0|FAM|Y|@F266@
+1|HUSB|Y|Michael Eckert
+1|WIFE|Y|Jaime Caldwell
+1|CHIL|Y|Tamara Eckert
+2|AGE|Y|16
+1|CHIL|Y|Ashley Eckert
+2|AGE|Y|12
+1|CHIL|Y|Anna Eckert
+2|AGE|Y|8
+1|CHIL|Y|David Eckert
+2|AGE|Y|16
+1|CHIL|Y|Angela Eckert
+2|AGE|Y|15
+1|INCOME|Y|28200
+0|FAM|Y|@F267@
+1|HUSB|Y|William Banks
+1|WIFE|Y|Sherry Bowler
+1|CHIL|Y|Mary Banks
+2|AGE|Y|21
+1|CHIL|Y|Dennis Banks
+2|AGE|Y|9
+1|CHIL|Y|Kevin Banks
+2|AGE|Y|11
+1|CHIL|Y|Josie Banks
+2|AGE|Y|15
+1|INCOME|Y|61200
+0|FAM|Y|@F268@
+1|HUSB|Y|Clifford Foree
+1|WIFE|Y|Lourdes Roberson
+1|CHIL|Y|Bonnie Foree
+2|AGE|Y|15
+1|CHIL|Y|Richard Foree
+2|AGE|Y|2
+1|CHIL|Y|Terri Foree
+2|AGE|Y|7
+1|CHIL|Y|Phillip Foree
+2|AGE|Y|14
+1|INCOME|Y|21700
+0|FAM|Y|@F269@
+1|HUSB|Y|Brian Sutton
+1|WIFE|Y|Rachel Crumrine
+1|CHIL|Y|Jeffrey Sutton
+2|AGE|Y|18
+1|CHIL|Y|Cheryl Sutton
+2|AGE|Y|21
+1|CHIL|Y|David Sutton
+2|AGE|Y|15
+1|CHIL|Y|Jeffrey Sutton
+2|AGE|Y|25
+1|CHIL|Y|Roxanne Sutton
+2|AGE|Y|1
+1|INCOME|Y|62400
+0|FAM|Y|@F270@
+1|HUSB|Y|Leroy Hudson
+1|WIFE|Y|Melissa Harkavy
+1|CHIL|Y|Karen Hudson
+2|AGE|Y|24
+1|CHIL|Y|Carol Hudson
+2|AGE|Y|19
+1|CHIL|Y|Ira Hudson
+2|AGE|Y|15
+1|CHIL|Y|Salvador Hudson
+2|AGE|Y|14
+1|CHIL|Y|Bradley Hudson
+2|AGE|Y|7
+1|INCOME|Y|32500
+0|FAM|Y|@F271@
+1|HUSB|Y|Melvin Hinds
+1|WIFE|Y|Toni Toscano
+1|CHIL|Y|Ronald Hinds
+2|AGE|Y|22
+1|CHIL|Y|Janice Hinds
+2|AGE|Y|19
+1|CHIL|Y|Joleen Hinds
+2|AGE|Y|20
+1|CHIL|Y|Melissa Hinds
+2|AGE|Y|24
+1|INCOME|Y|45000
+0|FAM|Y|@F272@
+1|HUSB|Y|Dean Mckee
+1|WIFE|Y|Olga Hernandez
+1|CHIL|Y|Harriette Mckee
+2|AGE|Y|14
+1|CHIL|Y|Lena Mckee
+2|AGE|Y|25
+1|CHIL|Y|Christopher Mckee
+2|AGE|Y|19
+1|INCOME|Y|22900
+0|FAM|Y|@F273@
+1|HUSB|Y|Alan Peacock
+1|WIFE|Y|Lola Alexis
+1|CHIL|Y|Chastity Peacock
+2|AGE|Y|5
+1|CHIL|Y|Judy Peacock
+2|AGE|Y|5
+1|INCOME|Y|23300
+0|FAM|Y|@F274@
+1|HUSB|Y|Tory Wise
+1|WIFE|Y|Tonia Longino
+1|CHIL|Y|Charles Wise
+2|AGE|Y|13
+1|CHIL|Y|Jessica Wise
+2|AGE|Y|6
+1|CHIL|Y|George Wise
+2|AGE|Y|9
+1|CHIL|Y|Grace Wise
+2|AGE|Y|21
+1|CHIL|Y|David Wise
+2|AGE|Y|16
+1|INCOME|Y|24200
+0|FAM|Y|@F275@
+1|HUSB|Y|Anthony Caver
+1|WIFE|Y|Dorothy Livingston
+1|CHIL|Y|Lloyd Caver
+2|AGE|Y|12
+1|CHIL|Y|Debra Caver
+2|AGE|Y|6
+1|INCOME|Y|28400
+0|FAM|Y|@F276@
+1|HUSB|Y|Douglas Knudson
+1|WIFE|Y|Lajuana Vy
+1|CHIL|Y|Shelley Knudson
+2|AGE|Y|24
+1|CHIL|Y|Louise Knudson
+2|AGE|Y|22
+1|CHIL|Y|Jorge Knudson
+2|AGE|Y|13
+1|CHIL|Y|Irving Knudson
+2|AGE|Y|13
+1|INCOME|Y|26400
+0|FAM|Y|@F277@
+1|HUSB|Y|Jake Gregory
+1|WIFE|Y|June Denson
+1|CHIL|Y|Edward Gregory
+2|AGE|Y|5
+1|CHIL|Y|Annie Gregory
+2|AGE|Y|1
+1|CHIL|Y|Carlos Gregory
+2|AGE|Y|19
+1|CHIL|Y|Rachael Gregory
+2|AGE|Y|12
+1|CHIL|Y|Lisa Gregory
+2|AGE|Y|2
+1|INCOME|Y|63700
+0|FAM|Y|@F278@
+1|HUSB|Y|Anthony Suarez
+1|WIFE|Y|Trisha Reyna
+1|CHIL|Y|Allan Suarez
+2|AGE|Y|12
+1|CHIL|Y|Janice Suarez
+2|AGE|Y|25
+1|CHIL|Y|Christopher Suarez
+2|AGE|Y|1
+1|CHIL|Y|Jennefer Suarez
+2|AGE|Y|18
+1|INCOME|Y|41800
+0|FAM|Y|@F279@
+1|HUSB|Y|Nolan Secrest
+1|WIFE|Y|Linda Romero
+1|CHIL|Y|Dione Secrest
+2|AGE|Y|25
+1|CHIL|Y|Almeda Secrest
+2|AGE|Y|11
+1|CHIL|Y|Theresa Secrest
+2|AGE|Y|4
+1|CHIL|Y|Dorothy Secrest
+2|AGE|Y|22
+1|INCOME|Y|68500
+0|FAM|Y|@F280@
+1|HUSB|Y|Chad Ruiz
+1|WIFE|Y|Katherine Bunch
+1|CHIL|Y|Jeannette Ruiz
+2|AGE|Y|24
+1|CHIL|Y|Oscar Ruiz
+2|AGE|Y|7
+1|INCOME|Y|48600
+0|FAM|Y|@F281@
+1|HUSB|Y|Alan Cahill
+1|WIFE|Y|Stephanie Layne
+1|CHIL|Y|Katherine Cahill
+2|AGE|Y|25
+1|CHIL|Y|Melisa Cahill
+2|AGE|Y|25
+1|CHIL|Y|Michael Cahill
+2|AGE|Y|23
+1|CHIL|Y|Shirley Cahill
+2|AGE|Y|1
+1|CHIL|Y|Daniel Cahill
+2|AGE|Y|7
+1|INCOME|Y|47300
+0|FAM|Y|@F282@
+1|HUSB|Y|Eric Mccrossen
+1|WIFE|Y|Lillian Mascia
+1|CHIL|Y|Scott Mccrossen
+2|AGE|Y|9
+1|CHIL|Y|Jessie Mccrossen
+2|AGE|Y|11
+1|CHIL|Y|Daniel Mccrossen
+2|AGE|Y|12
+1|INCOME|Y|52000
+0|FAM|Y|@F283@
+1|HUSB|Y|George Pavlas
+1|WIFE|Y|Thelma Jackson
+1|CHIL|Y|Beverly Pavlas
+2|AGE|Y|16
+1|CHIL|Y|Norma Pavlas
+2|AGE|Y|4
+1|CHIL|Y|Arlene Pavlas
+2|AGE|Y|19
+1|CHIL|Y|Jeffrey Pavlas
+2|AGE|Y|22
+1|CHIL|Y|Kathryn Pavlas
+2|AGE|Y|16
+1|INCOME|Y|32900
+0|FAM|Y|@F284@
+1|HUSB|Y|Patrick Houston
+1|WIFE|Y|Helen Winnie
+1|CHIL|Y|Karyn Houston
+2|AGE|Y|5
+1|INCOME|Y|45200
+0|FAM|Y|@F285@
+1|HUSB|Y|Samuel Tizon
+1|WIFE|Y|Brittany Ace
+1|CHIL|Y|Mary Tizon
+2|AGE|Y|24
+1|CHIL|Y|Jean Tizon
+2|AGE|Y|9
+1|CHIL|Y|Patrick Tizon
+2|AGE|Y|1
+1|INCOME|Y|45800
+0|FAM|Y|@F286@
+1|HUSB|Y|Emilio Murphy
+1|WIFE|Y|Marie Wilson
+1|CHIL|Y|Helen Murphy
+2|AGE|Y|2
+1|INCOME|Y|52500
+0|FAM|Y|@F287@
+1|HUSB|Y|William Turner
+1|WIFE|Y|Gertie Cecil
+1|CHIL|Y|Bonnie Turner
+2|AGE|Y|13
+1|CHIL|Y|Kimberly Turner
+2|AGE|Y|14
+1|INCOME|Y|49700
+0|FAM|Y|@F288@
+1|HUSB|Y|David Davis
+1|WIFE|Y|Tiffany Barela
+1|CHIL|Y|Genevieve Davis
+2|AGE|Y|20
+1|CHIL|Y|Ashley Davis
+2|AGE|Y|13
+1|CHIL|Y|Charles Davis
+2|AGE|Y|16
+1|CHIL|Y|Michael Davis
+2|AGE|Y|11
+1|INCOME|Y|42900
+0|FAM|Y|@F289@
+1|HUSB|Y|Erwin Weathers
+1|WIFE|Y|Sharon Farrell
+1|CHIL|Y|Sheryl Weathers
+2|AGE|Y|8
+1|CHIL|Y|Douglas Weathers
+2|AGE|Y|20
+1|INCOME|Y|45000
+0|FAM|Y|@F290@
+1|HUSB|Y|James Sheffield
+1|WIFE|Y|Lisa Juariqui
+1|CHIL|Y|Mae Sheffield
+2|AGE|Y|6
+1|CHIL|Y|Timothy Sheffield
+2|AGE|Y|22
+1|CHIL|Y|Jacob Sheffield
+2|AGE|Y|13
+1|INCOME|Y|60000
+0|FAM|Y|@F291@
+1|HUSB|Y|James James
+1|WIFE|Y|Paulette King
+1|CHIL|Y|Edward James
+2|AGE|Y|15
+1|CHIL|Y|Patricia James
+2|AGE|Y|17
+1|INCOME|Y|41800
+0|FAM|Y|@F292@
+1|HUSB|Y|Robert Oneill
+1|WIFE|Y|Phyllis Lee
+1|CHIL|Y|Leighann Oneill
+2|AGE|Y|23
+1|CHIL|Y|Eva Oneill
+2|AGE|Y|23
+1|CHIL|Y|Angela Oneill
+2|AGE|Y|18
+1|CHIL|Y|Felipe Oneill
+2|AGE|Y|12
+1|CHIL|Y|Matthew Oneill
+2|AGE|Y|15
+1|INCOME|Y|57500
+0|FAM|Y|@F293@
+1|HUSB|Y|Harold Agosto
+1|WIFE|Y|Justine Taylor
+1|CHIL|Y|Yolanda Agosto
+2|AGE|Y|18
+1|CHIL|Y|Carlos Agosto
+2|AGE|Y|18
+1|CHIL|Y|Laura Agosto
+2|AGE|Y|9
+1|INCOME|Y|25700
+0|FAM|Y|@F294@
+1|HUSB|Y|Thomas Campbell
+1|WIFE|Y|Kathryn Hasbrouck
+1|CHIL|Y|Cathy Campbell
+2|AGE|Y|4
+1|CHIL|Y|Rafael Campbell
+2|AGE|Y|25
+1|CHIL|Y|Susan Campbell
+2|AGE|Y|5
+1|CHIL|Y|Anne Campbell
+2|AGE|Y|22
+1|CHIL|Y|Lester Campbell
+2|AGE|Y|8
+1|INCOME|Y|56300
+0|FAM|Y|@F295@
+1|HUSB|Y|Patrick Boughton
+1|WIFE|Y|Anne Shutts
+1|CHIL|Y|Ramon Boughton
+2|AGE|Y|9
+1|CHIL|Y|Iris Boughton
+2|AGE|Y|4
+1|CHIL|Y|Brian Boughton
+2|AGE|Y|22
+1|INCOME|Y|41500
+0|FAM|Y|@F296@
+1|HUSB|Y|Arthur Davis
+1|WIFE|Y|Miranda Webber
+1|CHIL|Y|Francis Davis
+2|AGE|Y|6
+1|CHIL|Y|Delores Davis
+2|AGE|Y|3
+1|CHIL|Y|Catherine Davis
+2|AGE|Y|17
+1|INCOME|Y|65300
+0|FAM|Y|@F297@
+1|HUSB|Y|Carl Dinwiddie
+1|WIFE|Y|Tammy Vargas
+1|CHIL|Y|Harry Dinwiddie
+2|AGE|Y|20
+1|INCOME|Y|22700
+0|FAM|Y|@F298@
+1|HUSB|Y|Timothy Martinez
+1|WIFE|Y|Linda Rausch
+1|CHIL|Y|Isabelle Martinez
+2|AGE|Y|1
+1|CHIL|Y|John Martinez
+2|AGE|Y|18
+1|CHIL|Y|Betsy Martinez
+2|AGE|Y|11
+1|CHIL|Y|Brian Martinez
+2|AGE|Y|9
+1|CHIL|Y|Henry Martinez
+2|AGE|Y|10
+1|INCOME|Y|51700
+0|FAM|Y|@F299@
+1|HUSB|Y|Sam Slemmons
+1|WIFE|Y|Kari Smith
+1|CHIL|Y|Constance Slemmons
+2|AGE|Y|15
+1|CHIL|Y|Richard Slemmons
+2|AGE|Y|15
+1|CHIL|Y|Katherine Slemmons
+2|AGE|Y|9
+1|INCOME|Y|49000
+0|FAM|Y|@F300@
+1|HUSB|Y|James Egleston
+1|WIFE|Y|Monica Robertson
+1|CHIL|Y|Carmelia Egleston
+2|AGE|Y|22
+1|CHIL|Y|Tina Egleston
+2|AGE|Y|20
+1|CHIL|Y|Adrian Egleston
+2|AGE|Y|11
+1|INCOME|Y|42000
+0|FAM|Y|@F301@
+1|HUSB|Y|Eric Lee
+1|WIFE|Y|Sandra Dale
+1|CHIL|Y|Romona Lee
+2|AGE|Y|19
+1|CHIL|Y|Irene Lee
+2|AGE|Y|17
+1|CHIL|Y|Michael Lee
+2|AGE|Y|13
+1|INCOME|Y|61500
+0|FAM|Y|@F302@
+1|HUSB|Y|Joseph Stricklin
+1|WIFE|Y|Aida Seal
+1|CHIL|Y|Adam Stricklin
+2|AGE|Y|7
+1|INCOME|Y|34700
+0|FAM|Y|@F303@
+1|HUSB|Y|Gary Bradshaw
+1|WIFE|Y|Susan Fetter
+1|CHIL|Y|Beth Bradshaw
+2|AGE|Y|7
+1|CHIL|Y|Angie Bradshaw
+2|AGE|Y|21
+1|CHIL|Y|Joann Bradshaw
+2|AGE|Y|6
+1|INCOME|Y|60900
+0|FAM|Y|@F304@
+1|HUSB|Y|Robert Molina
+1|WIFE|Y|Maria Brink
+1|CHIL|Y|Martin Molina
+2|AGE|Y|10
+1|CHIL|Y|Louis Molina
+2|AGE|Y|1
+1|CHIL|Y|William Molina
+2|AGE|Y|6
+1|CHIL|Y|Anita Molina
+2|AGE|Y|17
+1|CHIL|Y|Debra Molina
+2|AGE|Y|22
+1|INCOME|Y|64200
+0|FAM|Y|@F305@
+1|HUSB|Y|Robert Naquin
+1|WIFE|Y|Norma Loftis
+1|CHIL|Y|Dora Naquin
+2|AGE|Y|12
+1|CHIL|Y|Katherine Naquin
+2|AGE|Y|22
+1|CHIL|Y|Bernard Naquin
+2|AGE|Y|24
+1|CHIL|Y|Jarrett Naquin
+2|AGE|Y|19
+1|INCOME|Y|54200
+0|FAM|Y|@F306@
+1|HUSB|Y|David Ward
+1|WIFE|Y|Rose Patel
+1|CHIL|Y|Irene Ward
+2|AGE|Y|3
+1|CHIL|Y|Susan Ward
+2|AGE|Y|8
+1|CHIL|Y|Wanda Ward
+2|AGE|Y|2
+1|INCOME|Y|66000
+0|FAM|Y|@F307@
+1|HUSB|Y|John Wright
+1|WIFE|Y|Kathleen Christiansen
+1|CHIL|Y|Kim Wright
+2|AGE|Y|24
+1|CHIL|Y|Estelle Wright
+2|AGE|Y|8
+1|CHIL|Y|David Wright
+2|AGE|Y|22
+1|CHIL|Y|Frederick Wright
+2|AGE|Y|12
+1|CHIL|Y|Joseph Wright
+2|AGE|Y|10
+1|INCOME|Y|31500
+0|FAM|Y|@F308@
+1|HUSB|Y|Edwin Rice
+1|WIFE|Y|Renee Phillips
+1|CHIL|Y|Kelly Rice
+2|AGE|Y|10
+1|CHIL|Y|Romeo Rice
+2|AGE|Y|2
+1|CHIL|Y|Ida Rice
+2|AGE|Y|17
+1|INCOME|Y|27600
+0|FAM|Y|@F309@
+1|HUSB|Y|Christopher Medill
+1|WIFE|Y|Doris Rodriquez
+1|CHIL|Y|James Medill
+2|AGE|Y|21
+1|CHIL|Y|Enrique Medill
+2|AGE|Y|25
+1|INCOME|Y|20100
+0|FAM|Y|@F310@
+1|HUSB|Y|Gerald Neff
+1|WIFE|Y|Heather Johnson
+1|CHIL|Y|Cindy Neff
+2|AGE|Y|12
+1|CHIL|Y|Corey Neff
+2|AGE|Y|24
+1|CHIL|Y|Fern Neff
+2|AGE|Y|2
+1|CHIL|Y|Spencer Neff
+2|AGE|Y|23
+1|CHIL|Y|Jessie Neff
+2|AGE|Y|2
+1|INCOME|Y|43000
+0|FAM|Y|@F311@
+1|HUSB|Y|Damian Williams
+1|WIFE|Y|Lani Moore
+1|CHIL|Y|Edwin Williams
+2|AGE|Y|25
+1|CHIL|Y|Donald Williams
+2|AGE|Y|4
+1|CHIL|Y|Teresa Williams
+2|AGE|Y|21
+1|INCOME|Y|47200
+0|FAM|Y|@F312@
+1|HUSB|Y|Stephen Herrera
+1|WIFE|Y|Elizabeth Latham
+1|CHIL|Y|William Herrera
+2|AGE|Y|23
+1|CHIL|Y|Robert Herrera
+2|AGE|Y|22
+1|CHIL|Y|Dorothy Herrera
+2|AGE|Y|5
+1|INCOME|Y|66900
+0|FAM|Y|@F313@
+1|HUSB|Y|Andrew Stovall
+1|WIFE|Y|Ethel Laue
+1|CHIL|Y|Teri Stovall
+2|AGE|Y|19
+1|CHIL|Y|Patrick Stovall
+2|AGE|Y|6
+1|CHIL|Y|Dora Stovall
+2|AGE|Y|18
+1|INCOME|Y|41600
+0|FAM|Y|@F314@
+1|HUSB|Y|Frank Huffman
+1|WIFE|Y|Susan Kent
+1|CHIL|Y|Joe Huffman
+2|AGE|Y|3
+1|INCOME|Y|24000
+0|FAM|Y|@F315@
+1|HUSB|Y|Alfredo Sims
+1|WIFE|Y|Sharon Denny
+1|CHIL|Y|Leona Sims
+2|AGE|Y|10
+1|INCOME|Y|41400
+0|FAM|Y|@F316@
+1|HUSB|Y|Dean Holcomb
+1|WIFE|Y|Helen Maurer
+1|CHIL|Y|Terry Holcomb
+2|AGE|Y|11
+1|CHIL|Y|Janet Holcomb
+2|AGE|Y|25
+1|CHIL|Y|Lisa Holcomb
+2|AGE|Y|20
+1|INCOME|Y|28400
+0|FAM|Y|@F317@
+1|HUSB|Y|Richard Devine
+1|WIFE|Y|Heather Brooks
+1|CHIL|Y|Mark Devine
+2|AGE|Y|2
+1|CHIL|Y|Mark Devine
+2|AGE|Y|5
+1|CHIL|Y|Gerardo Devine
+2|AGE|Y|23
+1|INCOME|Y|57600
+0|FAM|Y|@F318@
+1|HUSB|Y|Russell Cobb
+1|WIFE|Y|Nancy Reeves
+1|CHIL|Y|Paula Cobb
+2|AGE|Y|1
+1|CHIL|Y|Lois Cobb
+2|AGE|Y|19
+1|CHIL|Y|Vicki Cobb
+2|AGE|Y|25
+1|CHIL|Y|Derek Cobb
+2|AGE|Y|4
+1|INCOME|Y|52400
+0|FAM|Y|@F319@
+1|HUSB|Y|Warren Devoe
+1|WIFE|Y|Georgia Ulatowski
+1|CHIL|Y|Christina Devoe
+2|AGE|Y|7
+1|CHIL|Y|Katherine Devoe
+2|AGE|Y|1
+1|CHIL|Y|Richard Devoe
+2|AGE|Y|13
+1|CHIL|Y|Victoria Devoe
+2|AGE|Y|20
+1|CHIL|Y|Russell Devoe
+2|AGE|Y|8
+1|INCOME|Y|37800
+0|FAM|Y|@F320@
+1|HUSB|Y|Max Michaux
+1|WIFE|Y|Amy Campbell
+1|CHIL|Y|William Michaux
+2|AGE|Y|11
+1|INCOME|Y|54500
+0|FAM|Y|@F321@
+1|HUSB|Y|Charles Davison
+1|WIFE|Y|Erica Brauer
+1|CHIL|Y|Ruth Davison
+2|AGE|Y|23
+1|CHIL|Y|Janet Davison
+2|AGE|Y|5
+1|CHIL|Y|Quentin Davison
+2|AGE|Y|21
+1|INCOME|Y|28800
+0|FAM|Y|@F322@
+1|HUSB|Y|Martin Johnson
+1|WIFE|Y|Helena Woodard
+1|CHIL|Y|Amy Johnson
+2|AGE|Y|25
+1|INCOME|Y|49300
+0|FAM|Y|@F323@
+1|HUSB|Y|Ollie Rominger
+1|WIFE|Y|Carol Branch
+1|CHIL|Y|Richard Rominger
+2|AGE|Y|12
+1|CHIL|Y|Michael Rominger
+2|AGE|Y|4
+1|CHIL|Y|Tina Rominger
+2|AGE|Y|4
+1|CHIL|Y|Donald Rominger
+2|AGE|Y|3
+1|INCOME|Y|33500
+0|FAM|Y|@F324@
+1|HUSB|Y|Edward Dixon
+1|WIFE|Y|Mary Decker
+1|CHIL|Y|Lester Dixon
+2|AGE|Y|10
+1|CHIL|Y|Christopher Dixon
+2|AGE|Y|13
+1|CHIL|Y|Isaac Dixon
+2|AGE|Y|6
+1|CHIL|Y|Susan Dixon
+2|AGE|Y|14
+1|CHIL|Y|Jessica Dixon
+2|AGE|Y|10
+1|INCOME|Y|47900
+0|FAM|Y|@F325@
+1|HUSB|Y|Charles Madrid
+1|WIFE|Y|Hope Kupchinsky
+1|CHIL|Y|Helen Madrid
+2|AGE|Y|25
+1|CHIL|Y|Eric Madrid
+2|AGE|Y|24
+1|CHIL|Y|Dominic Madrid
+2|AGE|Y|4
+1|CHIL|Y|Carolyn Madrid
+2|AGE|Y|19
+1|INCOME|Y|47100
+0|FAM|Y|@F326@
+1|HUSB|Y|Ian Brouillette
+1|WIFE|Y|Patricia Hayes
+1|CHIL|Y|Floyd Brouillette
+2|AGE|Y|10
+1|CHIL|Y|Bette Brouillette
+2|AGE|Y|24
+1|INCOME|Y|60500
+0|FAM|Y|@F327@
+1|HUSB|Y|Steve Sanders
+1|WIFE|Y|Wilma Johnson
+1|CHIL|Y|Sean Sanders
+2|AGE|Y|14
+1|CHIL|Y|Judy Sanders
+2|AGE|Y|7
+1|CHIL|Y|Kirk Sanders
+2|AGE|Y|8
+1|INCOME|Y|69900
+0|FAM|Y|@F328@
+1|HUSB|Y|Edward Hay
+1|WIFE|Y|Emily Sanpedro
+1|CHIL|Y|Michael Hay
+2|AGE|Y|19
+1|CHIL|Y|Ronald Hay
+2|AGE|Y|17
+1|CHIL|Y|Susan Hay
+2|AGE|Y|20
+1|CHIL|Y|William Hay
+2|AGE|Y|13
+1|INCOME|Y|24600
+0|FAM|Y|@F329@
+1|HUSB|Y|Johnny Harris
+1|WIFE|Y|Sherry Benfield
+1|CHIL|Y|Kenneth Harris
+2|AGE|Y|14
+1|CHIL|Y|Lorie Harris
+2|AGE|Y|8
+1|CHIL|Y|Nellie Harris
+2|AGE|Y|7
+1|CHIL|Y|Melva Harris
+2|AGE|Y|9
+1|INCOME|Y|64500
+0|FAM|Y|@F330@
+1|HUSB|Y|Diego Springle
+1|WIFE|Y|Helen Glassman
+1|CHIL|Y|Vincent Springle
+2|AGE|Y|16
+1|CHIL|Y|Leonard Springle
+2|AGE|Y|17
+1|CHIL|Y|Robbie Springle
+2|AGE|Y|24
+1|CHIL|Y|Linda Springle
+2|AGE|Y|13
+1|INCOME|Y|59800
+0|FAM|Y|@F331@
+1|HUSB|Y|Edward Franklin
+1|WIFE|Y|Claire Rogol
+1|CHIL|Y|Ethel Franklin
+2|AGE|Y|20
+1|CHIL|Y|Edith Franklin
+2|AGE|Y|18
+1|CHIL|Y|Charles Franklin
+2|AGE|Y|20
+1|CHIL|Y|Roger Franklin
+2|AGE|Y|5
+1|INCOME|Y|63400
+0|FAM|Y|@F332@
+1|HUSB|Y|Jimmie King
+1|WIFE|Y|Nora Kranz
+1|CHIL|Y|Wendy King
+2|AGE|Y|10
+1|CHIL|Y|Wava King
+2|AGE|Y|17
+1|CHIL|Y|Scott King
+2|AGE|Y|12
+1|CHIL|Y|Richard King
+2|AGE|Y|19
+1|CHIL|Y|Marcia King
+2|AGE|Y|22
+1|INCOME|Y|68600
+0|FAM|Y|@F333@
+1|HUSB|Y|Matthew Noe
+1|WIFE|Y|Michelle Bernal
+1|CHIL|Y|Wilma Noe
+2|AGE|Y|25
+1|CHIL|Y|Shanna Noe
+2|AGE|Y|23
+1|CHIL|Y|Ruben Noe
+2|AGE|Y|18
+1|CHIL|Y|Sandra Noe
+2|AGE|Y|1
+1|INCOME|Y|50800
+0|FAM|Y|@F334@
+1|HUSB|Y|Julio Schneider
+1|WIFE|Y|Thelma Wymer
+1|CHIL|Y|Willard Schneider
+2|AGE|Y|4
+1|CHIL|Y|Mai Schneider
+2|AGE|Y|21
+1|CHIL|Y|Nancy Schneider
+2|AGE|Y|19
+1|CHIL|Y|Bobby Schneider
+2|AGE|Y|18
+1|INCOME|Y|44300
+0|FAM|Y|@F335@
+1|HUSB|Y|Neal Boley
+1|WIFE|Y|Natasha Sutherland
+1|CHIL|Y|Carol Boley
+2|AGE|Y|25
+1|INCOME|Y|60000
+0|FAM|Y|@F336@
+1|HUSB|Y|Ronald Fusco
+1|WIFE|Y|Jamie Mcintosh
+1|CHIL|Y|Julia Fusco
+2|AGE|Y|2
+1|CHIL|Y|Oliver Fusco
+2|AGE|Y|12
+1|CHIL|Y|Joyce Fusco
+2|AGE|Y|4
+1|CHIL|Y|Andrea Fusco
+2|AGE|Y|24
+1|INCOME|Y|63500
+0|FAM|Y|@F337@
+1|HUSB|Y|Jack Ransdell
+1|WIFE|Y|Crystal Howard
+1|CHIL|Y|Mark Ransdell
+2|AGE|Y|24
+1|CHIL|Y|Bessie Ransdell
+2|AGE|Y|2
+1|CHIL|Y|Gladys Ransdell
+2|AGE|Y|2
+1|CHIL|Y|Erik Ransdell
+2|AGE|Y|24
+1|INCOME|Y|60000
+0|FAM|Y|@F338@
+1|HUSB|Y|Dave Jones
+1|WIFE|Y|Marissa Dominick
+1|CHIL|Y|Athena Jones
+2|AGE|Y|10
+1|CHIL|Y|Annie Jones
+2|AGE|Y|17
+1|CHIL|Y|Dennis Jones
+2|AGE|Y|13
+1|CHIL|Y|Jessica Jones
+2|AGE|Y|9
+1|CHIL|Y|Stephen Jones
+2|AGE|Y|3
+1|INCOME|Y|53800
+0|FAM|Y|@F339@
+1|HUSB|Y|Edward Colby
+1|WIFE|Y|Paula Ullery
+1|CHIL|Y|Berry Colby
+2|AGE|Y|24
+1|INCOME|Y|34300
+0|FAM|Y|@F340@
+1|HUSB|Y|Jared Rautio
+1|WIFE|Y|Christine Jones
+1|CHIL|Y|Brandon Rautio
+2|AGE|Y|2
+1|CHIL|Y|John Rautio
+2|AGE|Y|16
+1|INCOME|Y|58800
+0|FAM|Y|@F341@
+1|HUSB|Y|Kenneth Potts
+1|WIFE|Y|Rebecca Thomas
+1|CHIL|Y|Sol Potts
+2|AGE|Y|22
+1|CHIL|Y|Charles Potts
+2|AGE|Y|20
+1|CHIL|Y|Victor Potts
+2|AGE|Y|19
+1|CHIL|Y|Jose Potts
+2|AGE|Y|10
+1|INCOME|Y|36900
+0|FAM|Y|@F342@
+1|HUSB|Y|Scott Campbell
+1|WIFE|Y|Mary Dunlop
+1|CHIL|Y|Jeremy Campbell
+2|AGE|Y|15
+1|CHIL|Y|James Campbell
+2|AGE|Y|19
+1|CHIL|Y|Gloria Campbell
+2|AGE|Y|8
+1|CHIL|Y|Armando Campbell
+2|AGE|Y|22
+1|CHIL|Y|Jesse Campbell
+2|AGE|Y|17
+1|INCOME|Y|43500
+0|FAM|Y|@F343@
+1|HUSB|Y|Steven Williams
+1|WIFE|Y|Sadie Riggs
+1|CHIL|Y|Nancy Williams
+2|AGE|Y|21
+1|CHIL|Y|Ricky Williams
+2|AGE|Y|10
+1|CHIL|Y|Carolyn Williams
+2|AGE|Y|7
+1|INCOME|Y|46700
+0|FAM|Y|@F344@
+1|HUSB|Y|Richard Sastre
+1|WIFE|Y|Lu Paske
+1|CHIL|Y|Ashley Sastre
+2|AGE|Y|15
+1|CHIL|Y|Leigh Sastre
+2|AGE|Y|25
+1|INCOME|Y|64600
+0|FAM|Y|@F345@
+1|HUSB|Y|Ernesto Shaw
+1|WIFE|Y|Mary Lacy
+1|CHIL|Y|Julie Shaw
+2|AGE|Y|3
+1|INCOME|Y|61000
+0|FAM|Y|@F346@
+1|HUSB|Y|Mike Reilly
+1|WIFE|Y|Rachel Rodiguez
+1|CHIL|Y|Madeleine Reilly
+2|AGE|Y|13
+1|CHIL|Y|Debra Reilly
+2|AGE|Y|7
+1|INCOME|Y|34200
+0|FAM|Y|@F347@
+1|HUSB|Y|Michael Lites
+1|WIFE|Y|Jennifer Tippett
+1|CHIL|Y|Jodie Lites
+2|AGE|Y|3
+1|CHIL|Y|Louise Lites
+2|AGE|Y|16
+1|CHIL|Y|Ismael Lites
+2|AGE|Y|10
+1|INCOME|Y|58100
+0|FAM|Y|@F348@
+1|HUSB|Y|Ian Maleh
+1|WIFE|Y|Norma Lewis
+1|CHIL|Y|Brigette Maleh
+2|AGE|Y|14
+1|CHIL|Y|Christopher Maleh
+2|AGE|Y|20
+1|CHIL|Y|Cheryl Maleh
+2|AGE|Y|13
+1|CHIL|Y|Paul Maleh
+2|AGE|Y|4
+1|CHIL|Y|Travis Maleh
+2|AGE|Y|15
+1|INCOME|Y|27100
+0|FAM|Y|@F349@
+1|HUSB|Y|Jaime Macina
+1|WIFE|Y|Teresa Clay
+1|CHIL|Y|Silvia Macina
+2|AGE|Y|13
+1|INCOME|Y|68300
+0|FAM|Y|@F350@
+1|HUSB|Y|Robert Woodson
+1|WIFE|Y|Kristen Decook
+1|CHIL|Y|Alphonso Woodson
+2|AGE|Y|4
+1|CHIL|Y|Jay Woodson
+2|AGE|Y|11
+1|INCOME|Y|70000
+0|FAM|Y|@F351@
+1|HUSB|Y|Bryant Dore
+1|WIFE|Y|Cindy Mcgee
+1|CHIL|Y|Darlene Dore
+2|AGE|Y|3
+1|CHIL|Y|Paul Dore
+2|AGE|Y|19
+1|CHIL|Y|Judith Dore
+2|AGE|Y|12
+1|CHIL|Y|Christopher Dore
+2|AGE|Y|16
+1|CHIL|Y|Randy Dore
+2|AGE|Y|11
+1|INCOME|Y|67300
+0|FAM|Y|@F352@
+1|HUSB|Y|Francisco Amsterdam
+1|WIFE|Y|Carol Olson
+1|CHIL|Y|Jona Amsterdam
+2|AGE|Y|6
+1|INCOME|Y|58500
+0|FAM|Y|@F353@
+1|HUSB|Y|William Hubbard
+1|WIFE|Y|Minnie Freehan
+1|CHIL|Y|Chad Hubbard
+2|AGE|Y|6
+1|CHIL|Y|Robert Hubbard
+2|AGE|Y|8
+1|CHIL|Y|Katherine Hubbard
+2|AGE|Y|10
+1|CHIL|Y|Vernon Hubbard
+2|AGE|Y|2
+1|INCOME|Y|38800
+0|FAM|Y|@F354@
+1|HUSB|Y|Andre Adams
+1|WIFE|Y|Vivian Davis
+1|CHIL|Y|Chance Adams
+2|AGE|Y|7
+1|CHIL|Y|Donald Adams
+2|AGE|Y|14
+1|INCOME|Y|65700
+0|FAM|Y|@F355@
+1|HUSB|Y|Robert Ackerman
+1|WIFE|Y|Claudette Ling
+1|CHIL|Y|Deon Ackerman
+2|AGE|Y|2
+1|CHIL|Y|Thomas Ackerman
+2|AGE|Y|5
+1|CHIL|Y|Jay Ackerman
+2|AGE|Y|23
+1|CHIL|Y|Jeffrey Ackerman
+2|AGE|Y|3
+1|INCOME|Y|58700
+0|FAM|Y|@F356@
+1|HUSB|Y|Justin Eckman
+1|WIFE|Y|Marcia Malsam
+1|CHIL|Y|Timothy Eckman
+2|AGE|Y|7
+1|CHIL|Y|Jerry Eckman
+2|AGE|Y|25
+1|INCOME|Y|64200
+0|FAM|Y|@F357@
+1|HUSB|Y|James Boyle
+1|WIFE|Y|Jolynn Galvan
+1|CHIL|Y|Frances Boyle
+2|AGE|Y|15
+1|CHIL|Y|Lisa Boyle
+2|AGE|Y|9
+1|CHIL|Y|Sandra Boyle
+2|AGE|Y|11
+1|CHIL|Y|Manuel Boyle
+2|AGE|Y|22
+1|CHIL|Y|Patricia Boyle
+2|AGE|Y|25
+1|INCOME|Y|33200
+0|FAM|Y|@F358@
+1|HUSB|Y|Robert Koon
+1|WIFE|Y|Sara Ackley
+1|CHIL|Y|Reynaldo Koon
+2|AGE|Y|19
+1|CHIL|Y|Joseph Koon
+2|AGE|Y|3
+1|CHIL|Y|Jean Koon
+2|AGE|Y|1
+1|CHIL|Y|Daniel Koon
+2|AGE|Y|2
+1|INCOME|Y|21300
+0|FAM|Y|@F359@
+1|HUSB|Y|Lawrence Collins
+1|WIFE|Y|Diana Chambers
+1|CHIL|Y|Wayne Collins
+2|AGE|Y|17
+1|INCOME|Y|50600
+0|FAM|Y|@F360@
+1|HUSB|Y|Michael Gonzalez
+1|WIFE|Y|Marian Page
+1|CHIL|Y|Mark Gonzalez
+2|AGE|Y|15
+1|CHIL|Y|Tina Gonzalez
+2|AGE|Y|22
+1|CHIL|Y|Douglas Gonzalez
+2|AGE|Y|19
+1|INCOME|Y|25200
+0|FAM|Y|@F361@
+1|HUSB|Y|Charlie Hill
+1|WIFE|Y|Leola Wilbur
+1|CHIL|Y|Emilie Hill
+2|AGE|Y|19
+1|CHIL|Y|Evelyn Hill
+2|AGE|Y|9
+1|CHIL|Y|Terry Hill
+2|AGE|Y|4
+1|CHIL|Y|Harlan Hill
+2|AGE|Y|11
+1|INCOME|Y|22200
+0|FAM|Y|@F362@
+1|HUSB|Y|Robert Green
+1|WIFE|Y|Wanda Harmon
+1|CHIL|Y|Allen Green
+2|AGE|Y|7
+1|CHIL|Y|Nathaniel Green
+2|AGE|Y|7
+1|CHIL|Y|Matthew Green
+2|AGE|Y|1
+1|CHIL|Y|Rodney Green
+2|AGE|Y|17
+1|INCOME|Y|24700
+0|FAM|Y|@F363@
+1|HUSB|Y|James Cordes
+1|WIFE|Y|Melissa Nev
+1|CHIL|Y|Lawrence Cordes
+2|AGE|Y|14
+1|CHIL|Y|Freddie Cordes
+2|AGE|Y|25
+1|INCOME|Y|62100
+0|FAM|Y|@F364@
+1|HUSB|Y|Donald Lewis
+1|WIFE|Y|Betty Hernandez
+1|CHIL|Y|Florence Lewis
+2|AGE|Y|10
+1|CHIL|Y|James Lewis
+2|AGE|Y|11
+1|CHIL|Y|Michael Lewis
+2|AGE|Y|6
+1|CHIL|Y|Erin Lewis
+2|AGE|Y|3
+1|CHIL|Y|Meghan Lewis
+2|AGE|Y|6
+1|INCOME|Y|41000
+0|FAM|Y|@F365@
+1|HUSB|Y|James Northey
+1|WIFE|Y|Gloria Trujillo
+1|CHIL|Y|Andrew Northey
+2|AGE|Y|4
+1|CHIL|Y|Jerry Northey
+2|AGE|Y|8
+1|CHIL|Y|Latoyia Northey
+2|AGE|Y|23
+1|CHIL|Y|James Northey
+2|AGE|Y|10
+1|INCOME|Y|37400
+0|FAM|Y|@F366@
+1|HUSB|Y|Keith Carroll
+1|WIFE|Y|Jill Dieguez
+1|CHIL|Y|Larry Carroll
+2|AGE|Y|17
+1|CHIL|Y|Brenda Carroll
+2|AGE|Y|25
+1|CHIL|Y|Reynaldo Carroll
+2|AGE|Y|3
+1|CHIL|Y|Lacy Carroll
+2|AGE|Y|18
+1|CHIL|Y|Rosetta Carroll
+2|AGE|Y|2
+1|INCOME|Y|46600
+0|FAM|Y|@F367@
+1|HUSB|Y|James Morrison
+1|WIFE|Y|Alma Coombs
+1|CHIL|Y|Darwin Morrison
+2|AGE|Y|15
+1|CHIL|Y|Barbara Morrison
+2|AGE|Y|11
+1|CHIL|Y|Jack Morrison
+2|AGE|Y|1
+1|CHIL|Y|Kimberly Morrison
+2|AGE|Y|10
+1|INCOME|Y|62300
+0|FAM|Y|@F368@
+1|HUSB|Y|Issac Wolfe
+1|WIFE|Y|Ann Schmitke
+1|CHIL|Y|Charles Wolfe
+2|AGE|Y|12
+1|CHIL|Y|Magdalena Wolfe
+2|AGE|Y|22
+1|CHIL|Y|Augusta Wolfe
+2|AGE|Y|2
+1|INCOME|Y|68200
+0|FAM|Y|@F369@
+1|HUSB|Y|Gary Torres
+1|WIFE|Y|Mary Depalma
+1|CHIL|Y|Patricia Torres
+2|AGE|Y|14
+1|CHIL|Y|Kathy Torres
+2|AGE|Y|10
+1|CHIL|Y|Kellee Torres
+2|AGE|Y|5
+1|CHIL|Y|Thomas Torres
+2|AGE|Y|17
+1|INCOME|Y|40700
+0|FAM|Y|@F370@
+1|HUSB|Y|Nathan Igel
+1|WIFE|Y|Lori Zorra
+1|CHIL|Y|Raymond Igel
+2|AGE|Y|23
+1|INCOME|Y|49500
+0|FAM|Y|@F371@
+1|HUSB|Y|Casey Winnie
+1|WIFE|Y|Tiffany Emerson
+1|CHIL|Y|Luis Winnie
+2|AGE|Y|1
+1|CHIL|Y|Naomi Winnie
+2|AGE|Y|7
+1|CHIL|Y|Ruth Winnie
+2|AGE|Y|16
+1|INCOME|Y|45100
+0|FAM|Y|@F372@
+1|HUSB|Y|Enrique Kilpatrick
+1|WIFE|Y|Betsy Hansen
+1|CHIL|Y|Marie Kilpatrick
+2|AGE|Y|5
+1|CHIL|Y|Dorothy Kilpatrick
+2|AGE|Y|20
+1|INCOME|Y|22100
+0|FAM|Y|@F373@
+1|HUSB|Y|Johnny Castelluccio
+1|WIFE|Y|Teresa Smith
+1|CHIL|Y|Christiane Castelluccio
+2|AGE|Y|24
+1|CHIL|Y|Dean Castelluccio
+2|AGE|Y|24
+1|CHIL|Y|Ora Castelluccio
+2|AGE|Y|12
+1|INCOME|Y|53200
+0|FAM|Y|@F374@
+1|HUSB|Y|Felipe Cranmer
+1|WIFE|Y|Lisa Williams
+1|CHIL|Y|Leonard Cranmer
+2|AGE|Y|10
+1|INCOME|Y|24700
+0|FAM|Y|@F375@
+1|HUSB|Y|Wayne Ringrose
+1|WIFE|Y|Mayra Sanchez
+1|CHIL|Y|Richard Ringrose
+2|AGE|Y|1
+1|CHIL|Y|Mary Ringrose
+2|AGE|Y|25
+1|CHIL|Y|Patricia Ringrose
+2|AGE|Y|8
+1|CHIL|Y|Della Ringrose
+2|AGE|Y|17
+1|INCOME|Y|50600
+0|FAM|Y|@F376@
+1|HUSB|Y|Jerome Benner
+1|WIFE|Y|Carolyn Wade
+1|CHIL|Y|John Benner
+2|AGE|Y|4
+1|INCOME|Y|61900
+0|FAM|Y|@F377@
+1|HUSB|Y|Leon Westfall
+1|WIFE|Y|Melissa Waters
+1|CHIL|Y|Angelina Westfall
+2|AGE|Y|15
+1|CHIL|Y|Ashley Westfall
+2|AGE|Y|7
+1|INCOME|Y|22700
+0|FAM|Y|@F378@
+1|HUSB|Y|Edward Ruth
+1|WIFE|Y|Mary Cass
+1|CHIL|Y|Michele Ruth
+2|AGE|Y|3
+1|INCOME|Y|25600
+0|FAM|Y|@F379@
+1|HUSB|Y|Jonathan Larson
+1|WIFE|Y|Elizabeth Hall
+1|CHIL|Y|Robert Larson
+2|AGE|Y|13
+1|INCOME|Y|34400
+0|FAM|Y|@F380@
+1|HUSB|Y|George Michaud
+1|WIFE|Y|Maria Boyer
+1|CHIL|Y|Dorothy Michaud
+2|AGE|Y|16
+1|CHIL|Y|Cheryl Michaud
+2|AGE|Y|23
+1|CHIL|Y|David Michaud
+2|AGE|Y|17
+1|CHIL|Y|Daryl Michaud
+2|AGE|Y|23
+1|CHIL|Y|Wayne Michaud
+2|AGE|Y|19
+1|INCOME|Y|20700
+0|FAM|Y|@F381@
+1|HUSB|Y|Denny Holman
+1|WIFE|Y|Elizabeth Ericson
+1|CHIL|Y|Kevin Holman
+2|AGE|Y|1
+1|CHIL|Y|Timothy Holman
+2|AGE|Y|22
+1|CHIL|Y|Brandi Holman
+2|AGE|Y|20
+1|INCOME|Y|23000
+0|FAM|Y|@F382@
+1|HUSB|Y|Milton Neville
+1|WIFE|Y|Estella Kennedy
+1|CHIL|Y|Sharon Neville
+2|AGE|Y|22
+1|CHIL|Y|Edward Neville
+2|AGE|Y|9
+1|CHIL|Y|Allene Neville
+2|AGE|Y|1
+1|CHIL|Y|Eva Neville
+2|AGE|Y|2
+1|CHIL|Y|Alfredo Neville
+2|AGE|Y|11
+1|INCOME|Y|20700
+0|FAM|Y|@F383@
+1|HUSB|Y|William Moser
+1|WIFE|Y|Joyce Heilmann
+1|CHIL|Y|Cory Moser
+2|AGE|Y|7
+1|CHIL|Y|Hilda Moser
+2|AGE|Y|3
+1|CHIL|Y|Beatriz Moser
+2|AGE|Y|25
+1|CHIL|Y|Kristin Moser
+2|AGE|Y|13
+1|INCOME|Y|64100
+0|FAM|Y|@F384@
+1|HUSB|Y|Anthony Moreira
+1|WIFE|Y|Frances Lipsey
+1|CHIL|Y|Harry Moreira
+2|AGE|Y|21
+1|CHIL|Y|Sam Moreira
+2|AGE|Y|19
+1|INCOME|Y|58300
+0|FAM|Y|@F385@
+1|HUSB|Y|Odis Kowal
+1|WIFE|Y|Tammy Lane
+1|CHIL|Y|Calvin Kowal
+2|AGE|Y|17
+1|INCOME|Y|34700
+0|FAM|Y|@F386@
+1|HUSB|Y|Erwin Kolmer
+1|WIFE|Y|Telma Cook
+1|CHIL|Y|Jimmy Kolmer
+2|AGE|Y|13
+1|CHIL|Y|Rene Kolmer
+2|AGE|Y|20
+1|CHIL|Y|John Kolmer
+2|AGE|Y|22
+1|CHIL|Y|Dan Kolmer
+2|AGE|Y|9
+1|CHIL|Y|George Kolmer
+2|AGE|Y|10
+1|INCOME|Y|31600
+0|FAM|Y|@F387@
+1|HUSB|Y|Wesley Bodrey
+1|WIFE|Y|Melissa Brown
+1|CHIL|Y|Jackie Bodrey
+2|AGE|Y|20
+1|INCOME|Y|67300
+0|FAM|Y|@F388@
+1|HUSB|Y|David Dove
+1|WIFE|Y|Michelle Cool
+1|CHIL|Y|John Dove
+2|AGE|Y|8
+1|INCOME|Y|25300
+0|FAM|Y|@F389@
+1|HUSB|Y|James Ozaeta
+1|WIFE|Y|Lindsay Wright
+1|CHIL|Y|Darlene Ozaeta
+2|AGE|Y|20
+1|INCOME|Y|32400
+0|FAM|Y|@F390@
+1|HUSB|Y|Steve Shumaker
+1|WIFE|Y|Madeline Kallenberg
+1|CHIL|Y|William Shumaker
+2|AGE|Y|4
+1|INCOME|Y|53100
+0|FAM|Y|@F391@
+1|HUSB|Y|Douglas Ryan
+1|WIFE|Y|Georgia Garland
+1|CHIL|Y|James Ryan
+2|AGE|Y|13
+1|CHIL|Y|Edward Ryan
+2|AGE|Y|7
+1|CHIL|Y|Phyllis Ryan
+2|AGE|Y|20
+1|CHIL|Y|William Ryan
+2|AGE|Y|18
+1|INCOME|Y|44300
+0|FAM|Y|@F392@
+1|HUSB|Y|Gerald Vega
+1|WIFE|Y|Brenda Mcguire
+1|CHIL|Y|Willie Vega
+2|AGE|Y|4
+1|CHIL|Y|Douglas Vega
+2|AGE|Y|16
+1|CHIL|Y|Della Vega
+2|AGE|Y|24
+1|INCOME|Y|36800
+0|FAM|Y|@F393@
+1|HUSB|Y|Timothy Walker
+1|WIFE|Y|Kimberly Dziuk
+1|CHIL|Y|Evelyn Walker
+2|AGE|Y|18
+1|CHIL|Y|Jack Walker
+2|AGE|Y|7
+1|CHIL|Y|Cheri Walker
+2|AGE|Y|13
+1|CHIL|Y|Edwin Walker
+2|AGE|Y|18
+1|CHIL|Y|Jesse Walker
+2|AGE|Y|19
+1|INCOME|Y|50300
+0|FAM|Y|@F394@
+1|HUSB|Y|Edwin Ellis
+1|WIFE|Y|Katherine Mcdonald
+1|CHIL|Y|Shirley Ellis
+2|AGE|Y|18
+1|CHIL|Y|Bertha Ellis
+2|AGE|Y|9
+1|INCOME|Y|59300
+0|FAM|Y|@F395@
+1|HUSB|Y|William Todd
+1|WIFE|Y|Ellen Tibbs
+1|CHIL|Y|David Todd
+2|AGE|Y|14
+1|CHIL|Y|George Todd
+2|AGE|Y|1
+1|CHIL|Y|Richard Todd
+2|AGE|Y|14
+1|CHIL|Y|Donna Todd
+2|AGE|Y|14
+1|CHIL|Y|Lori Todd
+2|AGE|Y|11
+1|INCOME|Y|38400
+0|FAM|Y|@F396@
+1|HUSB|Y|Troy Mcmillen
+1|WIFE|Y|Jean Burns
+1|CHIL|Y|Tammy Mcmillen
+2|AGE|Y|2
+1|CHIL|Y|Eric Mcmillen
+2|AGE|Y|21
+1|CHIL|Y|James Mcmillen
+2|AGE|Y|20
+1|CHIL|Y|Michele Mcmillen
+2|AGE|Y|12
+1|INCOME|Y|30200
+0|FAM|Y|@F397@
+1|HUSB|Y|Owen Murphy
+1|WIFE|Y|Margaret Boesiger
+1|CHIL|Y|John Murphy
+2|AGE|Y|15
+1|CHIL|Y|Sung Murphy
+2|AGE|Y|23
+1|CHIL|Y|Linda Murphy
+2|AGE|Y|15
+1|CHIL|Y|Nicole Murphy
+2|AGE|Y|9
+1|CHIL|Y|Jim Murphy
+2|AGE|Y|6
+1|INCOME|Y|68200
+0|FAM|Y|@F398@
+1|HUSB|Y|Gary Logan
+1|WIFE|Y|Melva Williams
+1|CHIL|Y|Shirley Logan
+2|AGE|Y|8
+1|CHIL|Y|Robert Logan
+2|AGE|Y|7
+1|CHIL|Y|David Logan
+2|AGE|Y|12
+1|CHIL|Y|Odilia Logan
+2|AGE|Y|4
+1|INCOME|Y|67400
+0|FAM|Y|@F399@
+1|HUSB|Y|Adam Hester
+1|WIFE|Y|Candelaria Leblanc
+1|CHIL|Y|Ola Hester
+2|AGE|Y|7
+1|CHIL|Y|Michelle Hester
+2|AGE|Y|14
+1|CHIL|Y|Ashlea Hester
+2|AGE|Y|1
+1|CHIL|Y|Kristen Hester
+2|AGE|Y|18
+1|CHIL|Y|Kelly Hester
+2|AGE|Y|3
+1|INCOME|Y|56100
+0|FAM|Y|@F400@
+1|HUSB|Y|Felipe Wren
+1|WIFE|Y|Lynn Clasen
+1|CHIL|Y|Tasha Wren
+2|AGE|Y|13
+1|CHIL|Y|Tom Wren
+2|AGE|Y|12
+1|CHIL|Y|Gary Wren
+2|AGE|Y|8
+1|CHIL|Y|Holly Wren
+2|AGE|Y|19
+1|CHIL|Y|Priscilla Wren
+2|AGE|Y|3
+1|INCOME|Y|69100
+0|FAM|Y|@F401@
+1|HUSB|Y|Kelvin Furst
+1|WIFE|Y|Lesa Bruss
+1|CHIL|Y|Jessie Furst
+2|AGE|Y|18
+1|CHIL|Y|Lizette Furst
+2|AGE|Y|10
+1|INCOME|Y|25100
+0|FAM|Y|@F402@
+1|HUSB|Y|James Delancey
+1|WIFE|Y|Ana Mosley
+1|CHIL|Y|James Delancey
+2|AGE|Y|10
+1|CHIL|Y|Cameron Delancey
+2|AGE|Y|10
+1|CHIL|Y|Nellie Delancey
+2|AGE|Y|20
+1|INCOME|Y|30700
+0|FAM|Y|@F403@
+1|HUSB|Y|Luis Hamm
+1|WIFE|Y|Frances Cook
+1|CHIL|Y|Lincoln Hamm
+2|AGE|Y|5
+1|CHIL|Y|Ryan Hamm
+2|AGE|Y|19
+1|CHIL|Y|Micah Hamm
+2|AGE|Y|8
+1|INCOME|Y|39900
+0|FAM|Y|@F404@
+1|HUSB|Y|Joseph Choi
+1|WIFE|Y|Terri Martinez
+1|CHIL|Y|Elizabeth Choi
+2|AGE|Y|17
+1|CHIL|Y|Virginia Choi
+2|AGE|Y|25
+1|CHIL|Y|Ruth Choi
+2|AGE|Y|7
+1|INCOME|Y|34900
+0|FAM|Y|@F405@
+1|HUSB|Y|William Everson
+1|WIFE|Y|Patricia Walsh
+1|CHIL|Y|Jack Everson
+2|AGE|Y|23
+1|CHIL|Y|Lenard Everson
+2|AGE|Y|20
+1|CHIL|Y|Amy Everson
+2|AGE|Y|25
+1|CHIL|Y|Diann Everson
+2|AGE|Y|3
+1|CHIL|Y|Jenifer Everson
+2|AGE|Y|17
+1|INCOME|Y|53100
+0|FAM|Y|@F406@
+1|HUSB|Y|James Dagley
+1|WIFE|Y|Sharon Saroop
+1|CHIL|Y|Vicki Dagley
+2|AGE|Y|24
+1|CHIL|Y|Michael Dagley
+2|AGE|Y|16
+1|CHIL|Y|Ida Dagley
+2|AGE|Y|17
+1|CHIL|Y|Dean Dagley
+2|AGE|Y|17
+1|INCOME|Y|40400
+0|FAM|Y|@F407@
+1|HUSB|Y|Lawrence Baltimore
+1|WIFE|Y|Pamela Laws
+1|CHIL|Y|Elmer Baltimore
+2|AGE|Y|21
+1|CHIL|Y|Lynette Baltimore
+2|AGE|Y|3
+1|CHIL|Y|William Baltimore
+2|AGE|Y|15
+1|CHIL|Y|Harold Baltimore
+2|AGE|Y|25
+1|CHIL|Y|Mark Baltimore
+2|AGE|Y|10
+1|INCOME|Y|28800
+0|FAM|Y|@F408@
+1|HUSB|Y|Alvin Sampson
+1|WIFE|Y|Emily Flores
+1|CHIL|Y|Lelia Sampson
+2|AGE|Y|9
+1|CHIL|Y|Vincent Sampson
+2|AGE|Y|8
+1|CHIL|Y|Brian Sampson
+2|AGE|Y|4
+1|INCOME|Y|32600
+0|FAM|Y|@F409@
+1|HUSB|Y|Francisco Rocco
+1|WIFE|Y|Nancy Gallagher
+1|CHIL|Y|Jimmy Rocco
+2|AGE|Y|14
+1|CHIL|Y|Glenda Rocco
+2|AGE|Y|25
+1|INCOME|Y|62100
+0|FAM|Y|@F410@
+1|HUSB|Y|Alton Thames
+1|WIFE|Y|Eddie Ross
+1|CHIL|Y|Rhonda Thames
+2|AGE|Y|18
+1|CHIL|Y|William Thames
+2|AGE|Y|13
+1|CHIL|Y|Richard Thames
+2|AGE|Y|25
+1|CHIL|Y|Merle Thames
+2|AGE|Y|12
+1|CHIL|Y|Walter Thames
+2|AGE|Y|22
+1|INCOME|Y|49800
+0|FAM|Y|@F411@
+1|HUSB|Y|Francis Macias
+1|WIFE|Y|Kathy Joseph
+1|CHIL|Y|Dorothy Macias
+2|AGE|Y|11
+1|CHIL|Y|Megan Macias
+2|AGE|Y|15
+1|CHIL|Y|Carol Macias
+2|AGE|Y|25
+1|CHIL|Y|Maria Macias
+2|AGE|Y|21
+1|INCOME|Y|39700
+0|FAM|Y|@F412@
+1|HUSB|Y|Cody Schmitt
+1|WIFE|Y|Toni Lynch
+1|CHIL|Y|Barbara Schmitt
+2|AGE|Y|10
+1|CHIL|Y|Steven Schmitt
+2|AGE|Y|4
+1|INCOME|Y|51800
+0|FAM|Y|@F413@
+1|HUSB|Y|Gary Teasley
+1|WIFE|Y|Mildred Rice
+1|CHIL|Y|Kristi Teasley
+2|AGE|Y|20
+1|CHIL|Y|Terrance Teasley
+2|AGE|Y|14
+1|CHIL|Y|Andrew Teasley
+2|AGE|Y|16
+1|CHIL|Y|Gary Teasley
+2|AGE|Y|13
+1|CHIL|Y|Lee Teasley
+2|AGE|Y|17
+1|INCOME|Y|22200
+0|FAM|Y|@F414@
+1|HUSB|Y|Terrence Lynch
+1|WIFE|Y|Bernice Godwin
+1|CHIL|Y|Patricia Lynch
+2|AGE|Y|4
+1|INCOME|Y|22100
+0|FAM|Y|@F415@
+1|HUSB|Y|Jeremy Gist
+1|WIFE|Y|Chastity Brownie
+1|CHIL|Y|Jesus Gist
+2|AGE|Y|20
+1|INCOME|Y|37000
+0|FAM|Y|@F416@
+1|HUSB|Y|Jimmie Filippini
+1|WIFE|Y|Kathleen Dennis
+1|CHIL|Y|Jason Filippini
+2|AGE|Y|17
+1|CHIL|Y|Bobbie Filippini
+2|AGE|Y|16
+1|CHIL|Y|John Filippini
+2|AGE|Y|6
+1|CHIL|Y|Diana Filippini
+2|AGE|Y|23
+1|INCOME|Y|44800
+0|FAM|Y|@F417@
+1|HUSB|Y|Charlie Graves
+1|WIFE|Y|Edna Hoffman
+1|CHIL|Y|Santiago Graves
+2|AGE|Y|4
+1|INCOME|Y|25100
+0|FAM|Y|@F418@
+1|HUSB|Y|Nathan Battles
+1|WIFE|Y|Karen Castaneda
+1|CHIL|Y|Jerry Battles
+2|AGE|Y|9
+1|CHIL|Y|Kara Battles
+2|AGE|Y|9
+1|CHIL|Y|Emily Battles
+2|AGE|Y|12
+1|CHIL|Y|Sharon Battles
+2|AGE|Y|16
+1|INCOME|Y|48200
+0|FAM|Y|@F419@
+1|HUSB|Y|Archie Pruett
+1|WIFE|Y|Roma Patterson
+1|CHIL|Y|Harold Pruett
+2|AGE|Y|16
+1|CHIL|Y|Joe Pruett
+2|AGE|Y|16
+1|CHIL|Y|Jonathan Pruett
+2|AGE|Y|7
+1|INCOME|Y|44000
+0|FAM|Y|@F420@
+1|HUSB|Y|Vincent Lamb
+1|WIFE|Y|Carrie Hays
+1|CHIL|Y|Joseph Lamb
+2|AGE|Y|21
+1|INCOME|Y|25500
+0|FAM|Y|@F421@
+1|HUSB|Y|Jessie Rodriguez
+1|WIFE|Y|Lana Smith
+1|CHIL|Y|Johanna Rodriguez
+2|AGE|Y|6
+1|CHIL|Y|Jean Rodriguez
+2|AGE|Y|21
+1|CHIL|Y|James Rodriguez
+2|AGE|Y|24
+1|CHIL|Y|Richard Rodriguez
+2|AGE|Y|17
+1|CHIL|Y|Jay Rodriguez
+2|AGE|Y|13
+1|INCOME|Y|39400
+0|FAM|Y|@F422@
+1|HUSB|Y|Bobby Murray
+1|WIFE|Y|Margaret Rivers
+1|CHIL|Y|Brenda Murray
+2|AGE|Y|18
+1|CHIL|Y|Jackie Murray
+2|AGE|Y|2
+1|CHIL|Y|John Murray
+2|AGE|Y|20
+1|CHIL|Y|Beatrice Murray
+2|AGE|Y|16
+1|INCOME|Y|51700
+0|FAM|Y|@F423@
+1|HUSB|Y|Carlos Howard
+1|WIFE|Y|Edith Long
+1|CHIL|Y|Sylvia Howard
+2|AGE|Y|21
+1|INCOME|Y|43400
+0|FAM|Y|@F424@
+1|HUSB|Y|Jerry Canelo
+1|WIFE|Y|Susan Horner
+1|CHIL|Y|William Canelo
+2|AGE|Y|18
+1|INCOME|Y|45800
+0|FAM|Y|@F425@
+1|HUSB|Y|Jason Rama
+1|WIFE|Y|Sadie Jock
+1|CHIL|Y|Joshua Rama
+2|AGE|Y|15
+1|INCOME|Y|60800
+0|FAM|Y|@F426@
+1|HUSB|Y|Jason Mitchell
+1|WIFE|Y|Emma Yuro
+1|CHIL|Y|Rosario Mitchell
+2|AGE|Y|20
+1|CHIL|Y|Larry Mitchell
+2|AGE|Y|17
+1|CHIL|Y|Pam Mitchell
+2|AGE|Y|24
+1|CHIL|Y|Jaime Mitchell
+2|AGE|Y|25
+1|CHIL|Y|Michelle Mitchell
+2|AGE|Y|25
+1|INCOME|Y|45800
+0|FAM|Y|@F427@
+1|HUSB|Y|Sydney Colton
+1|WIFE|Y|Deann Camps
+1|CHIL|Y|John Colton
+2|AGE|Y|21
+1|CHIL|Y|Stephen Colton
+2|AGE|Y|20
+1|CHIL|Y|Travis Colton
+2|AGE|Y|19
+1|CHIL|Y|Dean Colton
+2|AGE|Y|10
+1|INCOME|Y|53800
+0|FAM|Y|@F428@
+1|HUSB|Y|John Gonzalez
+1|WIFE|Y|Kimberly Caple
+1|CHIL|Y|Rachel Gonzalez
+2|AGE|Y|6
+1|INCOME|Y|29300
+0|FAM|Y|@F429@
+1|HUSB|Y|Pete Edwards
+1|WIFE|Y|Michelle Seay
+1|CHIL|Y|Arlene Edwards
+2|AGE|Y|22
+1|CHIL|Y|Terry Edwards
+2|AGE|Y|14
+1|INCOME|Y|24700
+0|FAM|Y|@F430@
+1|HUSB|Y|Nick Thomas
+1|WIFE|Y|Pat Hartsock
+1|CHIL|Y|Odessa Thomas
+2|AGE|Y|15
+1|CHIL|Y|Sarah Thomas
+2|AGE|Y|23
+1|CHIL|Y|Bianca Thomas
+2|AGE|Y|18
+1|CHIL|Y|Lawrence Thomas
+2|AGE|Y|12
+1|INCOME|Y|60700
+0|FAM|Y|@F431@
+1|HUSB|Y|Carl Sharp
+1|WIFE|Y|Yvonne Solares
+1|CHIL|Y|Henry Sharp
+2|AGE|Y|4
+1|CHIL|Y|Robert Sharp
+2|AGE|Y|19
+1|CHIL|Y|Kenneth Sharp
+2|AGE|Y|14
+1|CHIL|Y|Allison Sharp
+2|AGE|Y|8
+1|INCOME|Y|48800
+0|FAM|Y|@F432@
+1|HUSB|Y|Eric Carver
+1|WIFE|Y|Hannah Cook
+1|CHIL|Y|Beverly Carver
+2|AGE|Y|8
+1|INCOME|Y|61400
+0|FAM|Y|@F433@
+1|HUSB|Y|Arthur Martin
+1|WIFE|Y|Ruth Crawford
+1|CHIL|Y|Diana Martin
+2|AGE|Y|12
+1|CHIL|Y|Delora Martin
+2|AGE|Y|11
+1|CHIL|Y|Michael Martin
+2|AGE|Y|23
+1|CHIL|Y|Mary Martin
+2|AGE|Y|24
+1|INCOME|Y|46200
+0|FAM|Y|@F434@
+1|HUSB|Y|Andrew Louque
+1|WIFE|Y|Jessica Holliday
+1|CHIL|Y|Maria Louque
+2|AGE|Y|1
+1|CHIL|Y|Gene Louque
+2|AGE|Y|15
+1|CHIL|Y|Joanna Louque
+2|AGE|Y|6
+1|CHIL|Y|Robyn Louque
+2|AGE|Y|13
+1|CHIL|Y|Abraham Louque
+2|AGE|Y|22
+1|INCOME|Y|38200
+0|FAM|Y|@F435@
+1|HUSB|Y|Joseph Michaels
+1|WIFE|Y|Sally Allen
+1|CHIL|Y|Harry Michaels
+2|AGE|Y|5
+1|CHIL|Y|Jane Michaels
+2|AGE|Y|17
+1|INCOME|Y|27600
+0|FAM|Y|@F436@
+1|HUSB|Y|Robert Putman
+1|WIFE|Y|Veronica Hale
+1|CHIL|Y|Marilyn Putman
+2|AGE|Y|13
+1|CHIL|Y|Cora Putman
+2|AGE|Y|18
+1|CHIL|Y|David Putman
+2|AGE|Y|5
+1|CHIL|Y|Matt Putman
+2|AGE|Y|16
+1|CHIL|Y|Tommy Putman
+2|AGE|Y|25
+1|INCOME|Y|27800
+0|FAM|Y|@F437@
+1|HUSB|Y|Richard Rivera
+1|WIFE|Y|Frances Tenda
+1|CHIL|Y|Anthony Rivera
+2|AGE|Y|10
+1|CHIL|Y|Donald Rivera
+2|AGE|Y|9
+1|CHIL|Y|Mary Rivera
+2|AGE|Y|11
+1|CHIL|Y|Joe Rivera
+2|AGE|Y|25
+1|INCOME|Y|43500
+0|FAM|Y|@F438@
+1|HUSB|Y|Marty Kain
+1|WIFE|Y|Jill Head
+1|CHIL|Y|Nancy Kain
+2|AGE|Y|7
+1|INCOME|Y|24700
+0|FAM|Y|@F439@
+1|HUSB|Y|Michael Gorman
+1|WIFE|Y|Kimberly Houston
+1|CHIL|Y|Joyce Gorman
+2|AGE|Y|6
+1|CHIL|Y|William Gorman
+2|AGE|Y|22
+1|INCOME|Y|65200
+0|FAM|Y|@F440@
+1|HUSB|Y|Archie Matias
+1|WIFE|Y|Melissa Green
+1|CHIL|Y|Dana Matias
+2|AGE|Y|3
+1|CHIL|Y|Willie Matias
+2|AGE|Y|17
+1|CHIL|Y|Della Matias
+2|AGE|Y|24
+1|INCOME|Y|60100
+0|FAM|Y|@F441@
+1|HUSB|Y|Robert Coffey
+1|WIFE|Y|Kim Dufilho
+1|CHIL|Y|Paul Coffey
+2|AGE|Y|15
+1|CHIL|Y|Harry Coffey
+2|AGE|Y|13
+1|INCOME|Y|52600
+0|FAM|Y|@F442@
+1|HUSB|Y|Aaron Hornbacher
+1|WIFE|Y|Tracy Richardson
+1|CHIL|Y|Alba Hornbacher
+2|AGE|Y|4
+1|CHIL|Y|Katherine Hornbacher
+2|AGE|Y|9
+1|CHIL|Y|Arnold Hornbacher
+2|AGE|Y|24
+1|INCOME|Y|26100
+0|FAM|Y|@F443@
+1|HUSB|Y|Ricky Farley
+1|WIFE|Y|Jerrica Flowers
+1|CHIL|Y|Ricardo Farley
+2|AGE|Y|22
+1|INCOME|Y|48000
+0|FAM|Y|@F444@
+1|HUSB|Y|Dale Charles
+1|WIFE|Y|Breanne Wilson
+1|CHIL|Y|Beverly Charles
+2|AGE|Y|25
+1|INCOME|Y|32700
+0|FAM|Y|@F445@
+1|HUSB|Y|Joseph Weilbacher
+1|WIFE|Y|Amanda Blizzard
+1|CHIL|Y|Annie Weilbacher
+2|AGE|Y|9
+1|CHIL|Y|James Weilbacher
+2|AGE|Y|2
+1|CHIL|Y|Tim Weilbacher
+2|AGE|Y|17
+1|CHIL|Y|Thomas Weilbacher
+2|AGE|Y|19
+1|CHIL|Y|Lasonya Weilbacher
+2|AGE|Y|9
+1|INCOME|Y|32300
+0|FAM|Y|@F446@
+1|HUSB|Y|Paul Martinez
+1|WIFE|Y|Heather Sarracino
+1|CHIL|Y|Jason Martinez
+2|AGE|Y|17
+1|INCOME|Y|52000
+0|FAM|Y|@F447@
+1|HUSB|Y|Gary Padilla
+1|WIFE|Y|Rhonda Gerlach
+1|CHIL|Y|Sherry Padilla
+2|AGE|Y|22
+1|CHIL|Y|Dustin Padilla
+2|AGE|Y|12
+1|INCOME|Y|29000
+0|FAM|Y|@F448@
+1|HUSB|Y|Matthew Guerrette
+1|WIFE|Y|Rebecca Williams
+1|CHIL|Y|Travis Guerrette
+2|AGE|Y|25
+1|CHIL|Y|Linda Guerrette
+2|AGE|Y|24
+1|INCOME|Y|58700
+0|FAM|Y|@F449@
+1|HUSB|Y|Charles Carrillo
+1|WIFE|Y|Ruth Patterson
+1|CHIL|Y|David Carrillo
+2|AGE|Y|13
+1|CHIL|Y|Donald Carrillo
+2|AGE|Y|7
+1|CHIL|Y|Paul Carrillo
+2|AGE|Y|15
+1|INCOME|Y|40900
+0|FAM|Y|@F450@
+1|HUSB|Y|Craig Lilly
+1|WIFE|Y|Mary Dicks
+1|CHIL|Y|James Lilly
+2|AGE|Y|1
+1|CHIL|Y|Bernice Lilly
+2|AGE|Y|22
+1|CHIL|Y|Rob Lilly
+2|AGE|Y|24
+1|INCOME|Y|39300
+0|FAM|Y|@F451@
+1|HUSB|Y|Delbert Williams
+1|WIFE|Y|Cynthia Fournier
+1|CHIL|Y|Michelle Williams
+2|AGE|Y|2
+1|CHIL|Y|Jane Williams
+2|AGE|Y|1
+1|CHIL|Y|Kayla Williams
+2|AGE|Y|16
+1|CHIL|Y|Sylvia Williams
+2|AGE|Y|15
+1|INCOME|Y|51600
+0|FAM|Y|@F452@
+1|HUSB|Y|Boyd Price
+1|WIFE|Y|Betty Thomas
+1|CHIL|Y|Violet Price
+2|AGE|Y|3
+1|CHIL|Y|Bennie Price
+2|AGE|Y|2
+1|CHIL|Y|Michael Price
+2|AGE|Y|18
+1|CHIL|Y|Gail Price
+2|AGE|Y|21
+1|CHIL|Y|Ronald Price
+2|AGE|Y|9
+1|INCOME|Y|55700
+0|FAM|Y|@F453@
+1|HUSB|Y|Mitchell Monahan
+1|WIFE|Y|Dorothy Leavins
+1|CHIL|Y|Jon Monahan
+2|AGE|Y|22
+1|INCOME|Y|33100
+0|FAM|Y|@F454@
+1|HUSB|Y|Jack Peake
+1|WIFE|Y|Josephine Williams
+1|CHIL|Y|Amy Peake
+2|AGE|Y|25
+1|INCOME|Y|64700
+0|FAM|Y|@F455@
+1|HUSB|Y|Diego Skaggs
+1|WIFE|Y|Jane Jones
+1|CHIL|Y|Anna Skaggs
+2|AGE|Y|10
+1|CHIL|Y|Cassandra Skaggs
+2|AGE|Y|12
+1|CHIL|Y|Eliana Skaggs
+2|AGE|Y|22
+1|CHIL|Y|Felecia Skaggs
+2|AGE|Y|12
+1|INCOME|Y|31100
+0|FAM|Y|@F456@
+1|HUSB|Y|Norman Phillips
+1|WIFE|Y|Anna Cotton
+1|CHIL|Y|Jacquelyn Phillips
+2|AGE|Y|22
+1|INCOME|Y|60500
+0|FAM|Y|@F457@
+1|HUSB|Y|John Harvey
+1|WIFE|Y|Angeline Olivares
+1|CHIL|Y|Deborah Harvey
+2|AGE|Y|19
+1|CHIL|Y|Theresa Harvey
+2|AGE|Y|1
+1|CHIL|Y|Jose Harvey
+2|AGE|Y|11
+1|CHIL|Y|Lydia Harvey
+2|AGE|Y|10
+1|INCOME|Y|29300
+0|FAM|Y|@F458@
+1|HUSB|Y|Nicholas Swain
+1|WIFE|Y|Pauline Floyd
+1|CHIL|Y|Cynthia Swain
+2|AGE|Y|17
+1|CHIL|Y|Dorothy Swain
+2|AGE|Y|20
+1|CHIL|Y|Karissa Swain
+2|AGE|Y|15
+1|INCOME|Y|33200
+0|FAM|Y|@F459@
+1|HUSB|Y|John Longo
+1|WIFE|Y|Courtney Nerbonne
+1|CHIL|Y|Scott Longo
+2|AGE|Y|17
+1|CHIL|Y|Wayne Longo
+2|AGE|Y|17
+1|CHIL|Y|Etta Longo
+2|AGE|Y|16
+1|INCOME|Y|24900
+0|FAM|Y|@F460@
+1|HUSB|Y|Gerald Smith
+1|WIFE|Y|Sharon Scruggs
+1|CHIL|Y|Jason Smith
+2|AGE|Y|6
+1|INCOME|Y|62400
+0|FAM|Y|@F461@
+1|HUSB|Y|William Payne
+1|WIFE|Y|Virginia Revard
+1|CHIL|Y|Debra Payne
+2|AGE|Y|16
+1|CHIL|Y|Kirk Payne
+2|AGE|Y|8
+1|CHIL|Y|Carolyn Payne
+2|AGE|Y|14
+1|CHIL|Y|Andrew Payne
+2|AGE|Y|25
+1|CHIL|Y|Carrie Payne
+2|AGE|Y|16
+1|INCOME|Y|62200
+0|FAM|Y|@F462@
+1|HUSB|Y|Mike Brown
+1|WIFE|Y|Glenda Davies
+1|CHIL|Y|Steven Brown
+2|AGE|Y|16
+1|INCOME|Y|24800
+0|FAM|Y|@F463@
+1|HUSB|Y|Gary Jacobsen
+1|WIFE|Y|Jackie Mcphail
+1|CHIL|Y|Helen Jacobsen
+2|AGE|Y|22
+1|CHIL|Y|Shantell Jacobsen
+2|AGE|Y|6
+1|CHIL|Y|Frances Jacobsen
+2|AGE|Y|24
+1|INCOME|Y|37100
+0|FAM|Y|@F464@
+1|HUSB|Y|John Bullman
+1|WIFE|Y|Kathryn Kirby
+1|CHIL|Y|Kara Bullman
+2|AGE|Y|17
+1|INCOME|Y|54000
+0|FAM|Y|@F465@
+1|HUSB|Y|David Estep
+1|WIFE|Y|Mary Worthing
+1|CHIL|Y|Frankie Estep
+2|AGE|Y|10
+1|CHIL|Y|Kathy Estep
+2|AGE|Y|24
+1|CHIL|Y|Rosanne Estep
+2|AGE|Y|2
+1|INCOME|Y|34200
+0|FAM|Y|@F466@
+1|HUSB|Y|Henry Harp
+1|WIFE|Y|Maria Blechman
+1|CHIL|Y|William Harp
+2|AGE|Y|22
+1|CHIL|Y|Barbara Harp
+2|AGE|Y|12
+1|CHIL|Y|Hans Harp
+2|AGE|Y|11
+1|CHIL|Y|Gertrude Harp
+2|AGE|Y|24
+1|CHIL|Y|David Harp
+2|AGE|Y|1
+1|INCOME|Y|59500
+0|FAM|Y|@F467@
+1|HUSB|Y|Hubert Elston
+1|WIFE|Y|Maude Amos
+1|CHIL|Y|Paul Elston
+2|AGE|Y|5
+1|CHIL|Y|Virginia Elston
+2|AGE|Y|3
+1|INCOME|Y|24400
+0|FAM|Y|@F468@
+1|HUSB|Y|Robert Bergeron
+1|WIFE|Y|Tami White
+1|CHIL|Y|Mary Bergeron
+2|AGE|Y|1
+1|CHIL|Y|Richard Bergeron
+2|AGE|Y|15
+1|INCOME|Y|52300
+0|FAM|Y|@F469@
+1|HUSB|Y|Bryan Berlin
+1|WIFE|Y|Eloise Carey
+1|CHIL|Y|James Berlin
+2|AGE|Y|23
+1|CHIL|Y|Shirley Berlin
+2|AGE|Y|9
+1|CHIL|Y|Kenneth Berlin
+2|AGE|Y|5
+1|INCOME|Y|34000
+0|FAM|Y|@F470@
+1|HUSB|Y|Marcus Luthi
+1|WIFE|Y|Eva Whaley
+1|CHIL|Y|Kenneth Luthi
+2|AGE|Y|14
+1|CHIL|Y|Suzanne Luthi
+2|AGE|Y|6
+1|CHIL|Y|Doris Luthi
+2|AGE|Y|16
+1|INCOME|Y|64500
+0|FAM|Y|@F471@
+1|HUSB|Y|Mike Holden
+1|WIFE|Y|Michelle Pinto
+1|CHIL|Y|Merri Holden
+2|AGE|Y|2
+1|CHIL|Y|Gale Holden
+2|AGE|Y|1
+1|CHIL|Y|Sharon Holden
+2|AGE|Y|5
+1|INCOME|Y|61000
+0|FAM|Y|@F472@
+1|HUSB|Y|Herbert Foster
+1|WIFE|Y|Wanda Mccaskill
+1|CHIL|Y|Michelle Foster
+2|AGE|Y|7
+1|CHIL|Y|Leslie Foster
+2|AGE|Y|22
+1|CHIL|Y|Todd Foster
+2|AGE|Y|17
+1|INCOME|Y|24800
+0|FAM|Y|@F473@
+1|HUSB|Y|Dewayne Weiner
+1|WIFE|Y|Cynthia Smith
+1|CHIL|Y|Matthew Weiner
+2|AGE|Y|18
+1|CHIL|Y|James Weiner
+2|AGE|Y|14
+1|INCOME|Y|61100
+0|FAM|Y|@F474@
+1|HUSB|Y|Robert Larson
+1|WIFE|Y|Alexandria Reed
+1|CHIL|Y|Beatrice Larson
+2|AGE|Y|14
+1|CHIL|Y|Frank Larson
+2|AGE|Y|12
+1|CHIL|Y|Mary Larson
+2|AGE|Y|2
+1|CHIL|Y|Kelli Larson
+2|AGE|Y|1
+1|CHIL|Y|Kelli Larson
+2|AGE|Y|9
+1|INCOME|Y|64300
+0|FAM|Y|@F475@
+1|HUSB|Y|Earl Goodson
+1|WIFE|Y|Joyce Carolina
+1|CHIL|Y|Patricia Goodson
+2|AGE|Y|10
+1|CHIL|Y|Meghann Goodson
+2|AGE|Y|2
+1|CHIL|Y|Lillian Goodson
+2|AGE|Y|20
+1|INCOME|Y|35200
+0|FAM|Y|@F476@
+1|HUSB|Y|James Koenitzer
+1|WIFE|Y|Margaret Mahoney
+1|CHIL|Y|Candace Koenitzer
+2|AGE|Y|22
+1|CHIL|Y|Rose Koenitzer
+2|AGE|Y|16
+1|CHIL|Y|Lindsey Koenitzer
+2|AGE|Y|19
+1|INCOME|Y|60200
+0|FAM|Y|@F477@
+1|HUSB|Y|Gary Oneill
+1|WIFE|Y|Clara Rudman
+1|CHIL|Y|Amy Oneill
+2|AGE|Y|2
+1|CHIL|Y|Elizabeth Oneill
+2|AGE|Y|21
+1|CHIL|Y|Nicole Oneill
+2|AGE|Y|23
+1|CHIL|Y|Lorraine Oneill
+2|AGE|Y|11
+1|CHIL|Y|Robert Oneill
+2|AGE|Y|18
+1|INCOME|Y|37600
+0|FAM|Y|@F478@
+1|HUSB|Y|Victor Harris
+1|WIFE|Y|Josephine Bennett
+1|CHIL|Y|Rita Harris
+2|AGE|Y|9
+1|INCOME|Y|46000
+0|FAM|Y|@F479@
+1|HUSB|Y|Rodney Nance
+1|WIFE|Y|Janice Sanders
+1|CHIL|Y|Jose Nance
+2|AGE|Y|17
+1|CHIL|Y|Dorothy Nance
+2|AGE|Y|10
+1|INCOME|Y|46300
+0|FAM|Y|@F480@
+1|HUSB|Y|James Adams
+1|WIFE|Y|Ardith Cassel
+1|CHIL|Y|Ruth Adams
+2|AGE|Y|19
+1|CHIL|Y|Flossie Adams
+2|AGE|Y|18
+1|CHIL|Y|Vada Adams
+2|AGE|Y|24
+1|CHIL|Y|Constance Adams
+2|AGE|Y|1
+1|CHIL|Y|Cheryl Adams
+2|AGE|Y|7
+1|INCOME|Y|36700
+0|FAM|Y|@F481@
+1|HUSB|Y|Russ Crozier
+1|WIFE|Y|Rachel Caldwell
+1|CHIL|Y|Ruth Crozier
+2|AGE|Y|18
+1|CHIL|Y|Daniel Crozier
+2|AGE|Y|19
+1|CHIL|Y|Rose Crozier
+2|AGE|Y|11
+1|CHIL|Y|Thomas Crozier
+2|AGE|Y|17
+1|INCOME|Y|23200
+0|FAM|Y|@F482@
+1|HUSB|Y|James Husk
+1|WIFE|Y|Cheryl Scott
+1|CHIL|Y|Vera Husk
+2|AGE|Y|16
+1|CHIL|Y|Kurt Husk
+2|AGE|Y|22
+1|CHIL|Y|Thalia Husk
+2|AGE|Y|8
+1|CHIL|Y|Richard Husk
+2|AGE|Y|20
+1|CHIL|Y|Robert Husk
+2|AGE|Y|25
+1|INCOME|Y|32500
+0|FAM|Y|@F483@
+1|HUSB|Y|Martin Torres
+1|WIFE|Y|Mary Newton
+1|CHIL|Y|Theodore Torres
+2|AGE|Y|4
+1|CHIL|Y|Michael Torres
+2|AGE|Y|23
+1|CHIL|Y|Stanley Torres
+2|AGE|Y|15
+1|INCOME|Y|39100
+0|FAM|Y|@F484@
+1|HUSB|Y|Jack Harvey
+1|WIFE|Y|Aundrea Whitmire
+1|CHIL|Y|Kevin Harvey
+2|AGE|Y|22
+1|CHIL|Y|Dorothy Harvey
+2|AGE|Y|2
+1|CHIL|Y|Armando Harvey
+2|AGE|Y|18
+1|CHIL|Y|David Harvey
+2|AGE|Y|11
+1|CHIL|Y|Maria Harvey
+2|AGE|Y|5
+1|INCOME|Y|53600
+0|FAM|Y|@F485@
+1|HUSB|Y|Norman Kerr
+1|WIFE|Y|Helen Vanderwal
+1|CHIL|Y|William Kerr
+2|AGE|Y|4
+1|INCOME|Y|43900
+0|FAM|Y|@F486@
+1|HUSB|Y|Lawrence Honse
+1|WIFE|Y|Jennifer Helton
+1|CHIL|Y|Herbert Honse
+2|AGE|Y|20
+1|INCOME|Y|25600
+0|FAM|Y|@F487@
+1|HUSB|Y|Anthony Krasley
+1|WIFE|Y|Darla Phillip
+1|CHIL|Y|Peter Krasley
+2|AGE|Y|18
+1|CHIL|Y|Phyllis Krasley
+2|AGE|Y|23
+1|CHIL|Y|Blanche Krasley
+2|AGE|Y|21
+1|CHIL|Y|Jeffrey Krasley
+2|AGE|Y|15
+1|CHIL|Y|Martin Krasley
+2|AGE|Y|10
+1|INCOME|Y|45000
+0|FAM|Y|@F488@
+1|HUSB|Y|William Tlumacki
+1|WIFE|Y|Jan Byers
+1|CHIL|Y|Margaret Tlumacki
+2|AGE|Y|14
+1|CHIL|Y|Tiffany Tlumacki
+2|AGE|Y|24
+1|INCOME|Y|52700
+0|FAM|Y|@F489@
+1|HUSB|Y|Richard Beiler
+1|WIFE|Y|Tonia Nadeau
+1|CHIL|Y|Linda Beiler
+2|AGE|Y|4
+1|CHIL|Y|Steven Beiler
+2|AGE|Y|4
+1|CHIL|Y|Brenda Beiler
+2|AGE|Y|7
+1|CHIL|Y|William Beiler
+2|AGE|Y|4
+1|INCOME|Y|53400
+0|FAM|Y|@F490@
+1|HUSB|Y|Anthony Sanchez
+1|WIFE|Y|Melissa Bogan
+1|CHIL|Y|Frank Sanchez
+2|AGE|Y|9
+1|CHIL|Y|Jimmy Sanchez
+2|AGE|Y|3
+1|CHIL|Y|Deborah Sanchez
+2|AGE|Y|6
+1|CHIL|Y|Stella Sanchez
+2|AGE|Y|2
+1|INCOME|Y|32600
+0|FAM|Y|@F491@
+1|HUSB|Y|Jason Cain
+1|WIFE|Y|Martha Rosas
+1|CHIL|Y|Zoe Cain
+2|AGE|Y|14
+1|CHIL|Y|Margaret Cain
+2|AGE|Y|24
+1|CHIL|Y|Anita Cain
+2|AGE|Y|10
+1|CHIL|Y|Virginia Cain
+2|AGE|Y|11
+1|INCOME|Y|64000
+0|FAM|Y|@F492@
+1|HUSB|Y|Rodney Hatton
+1|WIFE|Y|Renee Bonner
+1|CHIL|Y|Catherine Hatton
+2|AGE|Y|11
+1|CHIL|Y|Jim Hatton
+2|AGE|Y|3
+1|INCOME|Y|65500
+0|FAM|Y|@F493@
+1|HUSB|Y|Allan Germano
+1|WIFE|Y|Mary Parise
+1|CHIL|Y|Patricia Germano
+2|AGE|Y|19
+1|CHIL|Y|Kathy Germano
+2|AGE|Y|16
+1|CHIL|Y|Connie Germano
+2|AGE|Y|25
+1|INCOME|Y|52900
+0|FAM|Y|@F494@
+1|HUSB|Y|Abraham Bickley
+1|WIFE|Y|Diane Nunez
+1|CHIL|Y|Lucille Bickley
+2|AGE|Y|17
+1|INCOME|Y|60100
+0|FAM|Y|@F495@
+1|HUSB|Y|Daren Thomas
+1|WIFE|Y|Angelia Atkinson
+1|CHIL|Y|William Thomas
+2|AGE|Y|19
+1|CHIL|Y|Jeraldine Thomas
+2|AGE|Y|10
+1|INCOME|Y|40800
+0|FAM|Y|@F496@
+1|HUSB|Y|Robert Jenkins
+1|WIFE|Y|Elizabeth Knox
+1|CHIL|Y|Barbara Jenkins
+2|AGE|Y|15
+1|CHIL|Y|Margaret Jenkins
+2|AGE|Y|1
+1|CHIL|Y|Luis Jenkins
+2|AGE|Y|6
+1|CHIL|Y|Michael Jenkins
+2|AGE|Y|15
+1|CHIL|Y|Lorraine Jenkins
+2|AGE|Y|5
+1|INCOME|Y|57800
+0|FAM|Y|@F497@
+1|HUSB|Y|Jeffrey Tabor
+1|WIFE|Y|Margarita Easley
+1|CHIL|Y|Jeremy Tabor
+2|AGE|Y|23
+1|INCOME|Y|42800
+0|FAM|Y|@F498@
+1|HUSB|Y|John Smith
+1|WIFE|Y|Felicia Christopher
+1|CHIL|Y|Brandon Smith
+2|AGE|Y|25
+1|CHIL|Y|William Smith
+2|AGE|Y|1
+1|CHIL|Y|Chad Smith
+2|AGE|Y|9
+1|CHIL|Y|Quinn Smith
+2|AGE|Y|13
+1|INCOME|Y|36700
+0|FAM|Y|@F499@
+1|HUSB|Y|James Zavala
+1|WIFE|Y|Freda Smith
+1|CHIL|Y|Belinda Zavala
+2|AGE|Y|4
+1|CHIL|Y|Tammy Zavala
+2|AGE|Y|20
+1|CHIL|Y|Cynthia Zavala
+2|AGE|Y|8
+1|INCOME|Y|54500
+0|FAM|Y|@F500@
+1|HUSB|Y|Gregory Gillenwater
+1|WIFE|Y|Georgia Colburn
+1|CHIL|Y|Mark Gillenwater
+2|AGE|Y|5
+1|CHIL|Y|Jenifer Gillenwater
+2|AGE|Y|6
+1|CHIL|Y|Rosemary Gillenwater
+2|AGE|Y|1
+1|CHIL|Y|Charles Gillenwater
+2|AGE|Y|19
+1|INCOME|Y|58900
+0|FAM|Y|@F501@
+1|HUSB|Y|Daniel Draughn
+1|WIFE|Y|Dorothy Mahoney
+1|CHIL|Y|Jamison Draughn
+2|AGE|Y|19
+1|CHIL|Y|Henry Draughn
+2|AGE|Y|12
+1|CHIL|Y|Martha Draughn
+2|AGE|Y|24
+1|CHIL|Y|Patrick Draughn
+2|AGE|Y|5
+1|INCOME|Y|52200
+0|FAM|Y|@F502@
+1|HUSB|Y|Leroy Holland
+1|WIFE|Y|Desiree Hidalgo
+1|CHIL|Y|Jesse Holland
+2|AGE|Y|6
+1|INCOME|Y|49500
+0|FAM|Y|@F503@
+1|HUSB|Y|James Moorefield
+1|WIFE|Y|Pauline Klemm
+1|CHIL|Y|Beverly Moorefield
+2|AGE|Y|11
+1|CHIL|Y|Joseph Moorefield
+2|AGE|Y|16
+1|CHIL|Y|David Moorefield
+2|AGE|Y|17
+1|CHIL|Y|Jorge Moorefield
+2|AGE|Y|7
+1|CHIL|Y|Reggie Moorefield
+2|AGE|Y|2
+1|INCOME|Y|56400
+0|FAM|Y|@F504@
+1|HUSB|Y|Andrew Patterson
+1|WIFE|Y|Adrienne Malick
+1|CHIL|Y|Rowena Patterson
+2|AGE|Y|20
+1|CHIL|Y|Betty Patterson
+2|AGE|Y|21
+1|INCOME|Y|31800
+0|FAM|Y|@F505@
+1|HUSB|Y|Fredric Ervin
+1|WIFE|Y|Kami Hall
+1|CHIL|Y|John Ervin
+2|AGE|Y|25
+1|INCOME|Y|28200
+0|FAM|Y|@F506@
+1|HUSB|Y|Ray Regalado
+1|WIFE|Y|Toni Beck
+1|CHIL|Y|Louis Regalado
+2|AGE|Y|10
+1|INCOME|Y|55700
+0|FAM|Y|@F507@
+1|HUSB|Y|Steven Wylie
+1|WIFE|Y|Tyra Ruiz
+1|CHIL|Y|Robert Wylie
+2|AGE|Y|21
+1|CHIL|Y|Jose Wylie
+2|AGE|Y|4
+1|CHIL|Y|Loretta Wylie
+2|AGE|Y|16
+1|INCOME|Y|69400
+0|FAM|Y|@F508@
+1|HUSB|Y|Paul Burns
+1|WIFE|Y|Beverly Castillo
+1|CHIL|Y|Jared Burns
+2|AGE|Y|19
+1|CHIL|Y|Young Burns
+2|AGE|Y|1
+1|CHIL|Y|Mary Burns
+2|AGE|Y|12
+1|CHIL|Y|Issac Burns
+2|AGE|Y|6
+1|CHIL|Y|Dorothy Burns
+2|AGE|Y|7
+1|INCOME|Y|20000
+0|FAM|Y|@F509@
+1|HUSB|Y|Nicholas Cowan
+1|WIFE|Y|Martha Parada
+1|CHIL|Y|Amber Cowan
+2|AGE|Y|3
+1|CHIL|Y|Cynthia Cowan
+2|AGE|Y|21
+1|CHIL|Y|Joyce Cowan
+2|AGE|Y|14
+1|CHIL|Y|Gregory Cowan
+2|AGE|Y|12
+1|INCOME|Y|40200
+0|FAM|Y|@F510@
+1|HUSB|Y|Kieth Hickman
+1|WIFE|Y|Pamela Goldberger
+1|CHIL|Y|Dominique Hickman
+2|AGE|Y|16
+1|CHIL|Y|Carroll Hickman
+2|AGE|Y|19
+1|CHIL|Y|James Hickman
+2|AGE|Y|23
+1|INCOME|Y|43500
+0|FAM|Y|@F511@
+1|HUSB|Y|William Collier
+1|WIFE|Y|Eldora Malton
+1|CHIL|Y|George Collier
+2|AGE|Y|19
+1|INCOME|Y|51100
+0|FAM|Y|@F512@
+1|HUSB|Y|John Mallon
+1|WIFE|Y|Ruth Hollar
+1|CHIL|Y|Shawn Mallon
+2|AGE|Y|21
+1|INCOME|Y|29500
+0|FAM|Y|@F513@
+1|HUSB|Y|James Santos
+1|WIFE|Y|Clara Jackson
+1|CHIL|Y|Charles Santos
+2|AGE|Y|19
+1|CHIL|Y|Michelle Santos
+2|AGE|Y|22
+1|INCOME|Y|27400
+0|FAM|Y|@F514@
+1|HUSB|Y|William Prechtl
+1|WIFE|Y|Angela Sellers
+1|CHIL|Y|Joaquin Prechtl
+2|AGE|Y|17
+1|CHIL|Y|Ruth Prechtl
+2|AGE|Y|23
+1|CHIL|Y|Connie Prechtl
+2|AGE|Y|16
+1|CHIL|Y|Howard Prechtl
+2|AGE|Y|8
+1|CHIL|Y|Glenda Prechtl
+2|AGE|Y|1
+1|INCOME|Y|57400
+0|FAM|Y|@F515@
+1|HUSB|Y|Murray Tomlinson
+1|WIFE|Y|Mary Gaines
+1|CHIL|Y|Michael Tomlinson
+2|AGE|Y|4
+1|CHIL|Y|Wayne Tomlinson
+2|AGE|Y|21
+1|CHIL|Y|Connie Tomlinson
+2|AGE|Y|3
+1|CHIL|Y|Melissa Tomlinson
+2|AGE|Y|8
+1|INCOME|Y|54000
+0|FAM|Y|@F516@
+1|HUSB|Y|Charles Gebhard
+1|WIFE|Y|Kimberly Steele
+1|CHIL|Y|Chelsea Gebhard
+2|AGE|Y|15
+1|CHIL|Y|Ralph Gebhard
+2|AGE|Y|10
+1|CHIL|Y|Kanisha Gebhard
+2|AGE|Y|10
+1|INCOME|Y|41300
+0|FAM|Y|@F517@
+1|HUSB|Y|Daniel Culligan
+1|WIFE|Y|Vicki Nixon
+1|CHIL|Y|Muriel Culligan
+2|AGE|Y|2
+1|INCOME|Y|39800
+0|FAM|Y|@F518@
+1|HUSB|Y|Robert Hilton
+1|WIFE|Y|Patricia Helms
+1|CHIL|Y|Clara Hilton
+2|AGE|Y|23
+1|CHIL|Y|Elizabeth Hilton
+2|AGE|Y|12
+1|CHIL|Y|Antoinette Hilton
+2|AGE|Y|6
+1|CHIL|Y|Norma Hilton
+2|AGE|Y|7
+1|INCOME|Y|47700
+0|FAM|Y|@F519@
+1|HUSB|Y|Lee Minton
+1|WIFE|Y|Nina Reif
+1|CHIL|Y|Brad Minton
+2|AGE|Y|8
+1|CHIL|Y|Jeff Minton
+2|AGE|Y|19
+1|CHIL|Y|Marianne Minton
+2|AGE|Y|2
+1|CHIL|Y|Odis Minton
+2|AGE|Y|9
+1|INCOME|Y|46200
+0|FAM|Y|@F520@
+1|HUSB|Y|Leroy Gay
+1|WIFE|Y|Margaret Bowers
+1|CHIL|Y|Genoveva Gay
+2|AGE|Y|25
+1|INCOME|Y|30000
+0|FAM|Y|@F521@
+1|HUSB|Y|Craig Charity
+1|WIFE|Y|Francis Dineen
+1|CHIL|Y|Carol Charity
+2|AGE|Y|7
+1|CHIL|Y|Juan Charity
+2|AGE|Y|13
+1|CHIL|Y|Mark Charity
+2|AGE|Y|11
+1|INCOME|Y|57700
+0|FAM|Y|@F522@
+1|HUSB|Y|Michael Gomez
+1|WIFE|Y|Dorothy Charles
+1|CHIL|Y|Mary Gomez
+2|AGE|Y|18
+1|CHIL|Y|Rachel Gomez
+2|AGE|Y|15
+1|CHIL|Y|Allen Gomez
+2|AGE|Y|3
+1|CHIL|Y|Gilbert Gomez
+2|AGE|Y|19
+1|INCOME|Y|38900
+0|FAM|Y|@F523@
+1|HUSB|Y|Robert Starr
+1|WIFE|Y|Leslie Gauger
+1|CHIL|Y|Wilbur Starr
+2|AGE|Y|12
+1|CHIL|Y|Charles Starr
+2|AGE|Y|17
+1|CHIL|Y|Jody Starr
+2|AGE|Y|18
+1|INCOME|Y|26000
+0|FAM|Y|@F524@
+1|HUSB|Y|Kelvin Pooler
+1|WIFE|Y|Debra Harper
+1|CHIL|Y|Dustin Pooler
+2|AGE|Y|24
+1|CHIL|Y|Sandra Pooler
+2|AGE|Y|12
+1|CHIL|Y|Ruben Pooler
+2|AGE|Y|16
+1|CHIL|Y|Stephanie Pooler
+2|AGE|Y|8
+1|INCOME|Y|48100
+0|FAM|Y|@F525@
+1|HUSB|Y|Kevin Williams
+1|WIFE|Y|Amy Garcia
+1|CHIL|Y|Ted Williams
+2|AGE|Y|16
+1|CHIL|Y|Randy Williams
+2|AGE|Y|21
+1|INCOME|Y|26400
+0|FAM|Y|@F526@
+1|HUSB|Y|Frank Robinson
+1|WIFE|Y|Evelyn Kut
+1|CHIL|Y|Chelsea Robinson
+2|AGE|Y|13
+1|CHIL|Y|Kenneth Robinson
+2|AGE|Y|10
+1|INCOME|Y|54100
+0|FAM|Y|@F527@
+1|HUSB|Y|Michael Mann
+1|WIFE|Y|Barbara Winograd
+1|CHIL|Y|Armanda Mann
+2|AGE|Y|10
+1|CHIL|Y|Joyce Mann
+2|AGE|Y|21
+1|CHIL|Y|Christopher Mann
+2|AGE|Y|19
+1|CHIL|Y|Michael Mann
+2|AGE|Y|7
+1|INCOME|Y|68100
+0|FAM|Y|@F528@
+1|HUSB|Y|James Tyree
+1|WIFE|Y|Linda Stogsdill
+1|CHIL|Y|Emily Tyree
+2|AGE|Y|22
+1|CHIL|Y|Claude Tyree
+2|AGE|Y|3
+1|CHIL|Y|Jennifer Tyree
+2|AGE|Y|7
+1|CHIL|Y|Claude Tyree
+2|AGE|Y|16
+1|CHIL|Y|Duane Tyree
+2|AGE|Y|20
+1|INCOME|Y|21600
+0|FAM|Y|@F529@
+1|HUSB|Y|Fred Sears
+1|WIFE|Y|Dorothy Brace
+1|CHIL|Y|Robert Sears
+2|AGE|Y|11
+1|CHIL|Y|Felicia Sears
+2|AGE|Y|24
+1|CHIL|Y|Jesse Sears
+2|AGE|Y|5
+1|CHIL|Y|Brian Sears
+2|AGE|Y|3
+1|CHIL|Y|Charles Sears
+2|AGE|Y|21
+1|INCOME|Y|67400
+0|FAM|Y|@F530@
+1|HUSB|Y|Christopher Pfaff
+1|WIFE|Y|Jasmine Whitt
+1|CHIL|Y|Paul Pfaff
+2|AGE|Y|7
+1|CHIL|Y|Joline Pfaff
+2|AGE|Y|5
+1|CHIL|Y|Maria Pfaff
+2|AGE|Y|14
+1|CHIL|Y|Penny Pfaff
+2|AGE|Y|9
+1|INCOME|Y|54300
+0|FAM|Y|@F531@
+1|HUSB|Y|Joel Gill
+1|WIFE|Y|Annmarie Rabb
+1|CHIL|Y|Sally Gill
+2|AGE|Y|11
+1|CHIL|Y|Ralph Gill
+2|AGE|Y|15
+1|CHIL|Y|Scott Gill
+2|AGE|Y|10
+1|INCOME|Y|32900
+0|FAM|Y|@F532@
+1|HUSB|Y|Edward Hillman
+1|WIFE|Y|Marie Lingle
+1|CHIL|Y|Ruben Hillman
+2|AGE|Y|8
+1|INCOME|Y|32000
+0|FAM|Y|@F533@
+1|HUSB|Y|Brett Hoang
+1|WIFE|Y|Janice Sawyer
+1|CHIL|Y|Evelyn Hoang
+2|AGE|Y|25
+1|CHIL|Y|Roman Hoang
+2|AGE|Y|17
+1|INCOME|Y|56900
+0|FAM|Y|@F534@
+1|HUSB|Y|James Harnois
+1|WIFE|Y|Elvia Hernandez
+1|CHIL|Y|Norman Harnois
+2|AGE|Y|12
+1|CHIL|Y|Billy Harnois
+2|AGE|Y|24
+1|INCOME|Y|47800
+0|FAM|Y|@F535@
+1|HUSB|Y|Lamont Barber
+1|WIFE|Y|Emma Burns
+1|CHIL|Y|Lavina Barber
+2|AGE|Y|10
+1|CHIL|Y|Edward Barber
+2|AGE|Y|6
+1|CHIL|Y|Barbara Barber
+2|AGE|Y|10
+1|CHIL|Y|Raymond Barber
+2|AGE|Y|20
+1|CHIL|Y|Angie Barber
+2|AGE|Y|1
+1|INCOME|Y|64200
+0|FAM|Y|@F536@
+1|HUSB|Y|Armando Kelash
+1|WIFE|Y|Michelle White
+1|CHIL|Y|Philip Kelash
+2|AGE|Y|12
+1|INCOME|Y|38200
+0|FAM|Y|@F537@
+1|HUSB|Y|Charles Garcia
+1|WIFE|Y|Delores Broussard
+1|CHIL|Y|Judy Garcia
+2|AGE|Y|5
+1|CHIL|Y|Edna Garcia
+2|AGE|Y|13
+1|CHIL|Y|Kenneth Garcia
+2|AGE|Y|20
+1|INCOME|Y|52400
+0|FAM|Y|@F538@
+1|HUSB|Y|Chris Thomas
+1|WIFE|Y|Marla Stukel
+1|CHIL|Y|Marvin Thomas
+2|AGE|Y|20
+1|CHIL|Y|Evette Thomas
+2|AGE|Y|1
+1|CHIL|Y|Steven Thomas
+2|AGE|Y|18
+1|CHIL|Y|Rosalva Thomas
+2|AGE|Y|12
+1|CHIL|Y|Traci Thomas
+2|AGE|Y|8
+1|INCOME|Y|63200
+0|FAM|Y|@F539@
+1|HUSB|Y|Donald Linthicum
+1|WIFE|Y|Kristen Pickelsimer
+1|CHIL|Y|David Linthicum
+2|AGE|Y|21
+1|CHIL|Y|William Linthicum
+2|AGE|Y|17
+1|CHIL|Y|Charles Linthicum
+2|AGE|Y|12
+1|CHIL|Y|Theodore Linthicum
+2|AGE|Y|2
+1|CHIL|Y|David Linthicum
+2|AGE|Y|11
+1|INCOME|Y|29500
+0|FAM|Y|@F540@
+1|HUSB|Y|Christopher Flores
+1|WIFE|Y|Rosemary Roe
+1|CHIL|Y|John Flores
+2|AGE|Y|12
+1|CHIL|Y|Brandi Flores
+2|AGE|Y|22
+1|CHIL|Y|Greg Flores
+2|AGE|Y|4
+1|INCOME|Y|40600
+0|FAM|Y|@F541@
+1|HUSB|Y|Daniel Boulanger
+1|WIFE|Y|Bridget Pelkey
+1|CHIL|Y|Fredrick Boulanger
+2|AGE|Y|23
+1|CHIL|Y|Nicole Boulanger
+2|AGE|Y|4
+1|CHIL|Y|William Boulanger
+2|AGE|Y|22
+1|CHIL|Y|Marie Boulanger
+2|AGE|Y|2
+1|INCOME|Y|36600
+0|FAM|Y|@F542@
+1|HUSB|Y|John Collier
+1|WIFE|Y|Courtney Wattles
+1|CHIL|Y|Patricia Collier
+2|AGE|Y|22
+1|CHIL|Y|John Collier
+2|AGE|Y|16
+1|INCOME|Y|41200
+0|FAM|Y|@F543@
+1|HUSB|Y|Tracey Holmes
+1|WIFE|Y|Barbara Petrillo
+1|CHIL|Y|Jon Holmes
+2|AGE|Y|12
+1|CHIL|Y|Jeffrey Holmes
+2|AGE|Y|3
+1|CHIL|Y|James Holmes
+2|AGE|Y|12
+1|INCOME|Y|51600
+0|FAM|Y|@F544@
+1|HUSB|Y|Sandy Dunn
+1|WIFE|Y|Margaret Vega
+1|CHIL|Y|Roma Dunn
+2|AGE|Y|12
+1|CHIL|Y|Margaret Dunn
+2|AGE|Y|22
+1|CHIL|Y|Jonathan Dunn
+2|AGE|Y|3
+1|CHIL|Y|Cecil Dunn
+2|AGE|Y|12
+1|CHIL|Y|Rhonda Dunn
+2|AGE|Y|19
+1|INCOME|Y|40600
+0|FAM|Y|@F545@
+1|HUSB|Y|Geoffrey Turkel
+1|WIFE|Y|Patricia Drayton
+1|CHIL|Y|Ernestine Turkel
+2|AGE|Y|16
+1|CHIL|Y|Julia Turkel
+2|AGE|Y|2
+1|CHIL|Y|Teresa Turkel
+2|AGE|Y|3
+1|INCOME|Y|49400
+0|FAM|Y|@F546@
+1|HUSB|Y|Don Delnero
+1|WIFE|Y|Theresa Mooney
+1|CHIL|Y|Scott Delnero
+2|AGE|Y|21
+1|CHIL|Y|Betty Delnero
+2|AGE|Y|21
+1|CHIL|Y|Patricia Delnero
+2|AGE|Y|18
+1|CHIL|Y|Barbara Delnero
+2|AGE|Y|3
+1|CHIL|Y|Janet Delnero
+2|AGE|Y|10
+1|INCOME|Y|34500
+0|FAM|Y|@F547@
+1|HUSB|Y|Bruce Hazelhurst
+1|WIFE|Y|Adrienne Thomas
+1|CHIL|Y|Kayla Hazelhurst
+2|AGE|Y|18
+1|CHIL|Y|Kristen Hazelhurst
+2|AGE|Y|1
+1|CHIL|Y|Wava Hazelhurst
+2|AGE|Y|8
+1|CHIL|Y|Jill Hazelhurst
+2|AGE|Y|1
+1|INCOME|Y|65300
+0|FAM|Y|@F548@
+1|HUSB|Y|Arthur Vann
+1|WIFE|Y|Helen Phillips
+1|CHIL|Y|Sylvia Vann
+2|AGE|Y|25
+1|CHIL|Y|Shawna Vann
+2|AGE|Y|11
+1|CHIL|Y|Morris Vann
+2|AGE|Y|15
+1|INCOME|Y|55800
+0|FAM|Y|@F549@
+1|HUSB|Y|Randall Brown
+1|WIFE|Y|Jane Bonnett
+1|CHIL|Y|Phyllis Brown
+2|AGE|Y|20
+1|CHIL|Y|Larry Brown
+2|AGE|Y|1
+1|INCOME|Y|42600
+0|FAM|Y|@F550@
+1|HUSB|Y|Robert Lopez
+1|WIFE|Y|Dixie March
+1|CHIL|Y|Kyle Lopez
+2|AGE|Y|13
+1|CHIL|Y|Beth Lopez
+2|AGE|Y|11
+1|CHIL|Y|Frances Lopez
+2|AGE|Y|5
+1|CHIL|Y|Jamal Lopez
+2|AGE|Y|4
+1|CHIL|Y|Jacqueline Lopez
+2|AGE|Y|20
+1|INCOME|Y|42200
+0|FAM|Y|@F551@
+1|HUSB|Y|Charlie Smith
+1|WIFE|Y|Christine Lane
+1|CHIL|Y|Stacia Smith
+2|AGE|Y|16
+1|CHIL|Y|Kenny Smith
+2|AGE|Y|23
+1|INCOME|Y|49600
+0|FAM|Y|@F552@
+1|HUSB|Y|Andrew Woolem
+1|WIFE|Y|Lore Martinez
+1|CHIL|Y|Norman Woolem
+2|AGE|Y|2
+1|CHIL|Y|Harry Woolem
+2|AGE|Y|9
+1|CHIL|Y|Howard Woolem
+2|AGE|Y|11
+1|INCOME|Y|25900
+0|FAM|Y|@F553@
+1|HUSB|Y|Jason Brunner
+1|WIFE|Y|Sheri Autry
+1|CHIL|Y|Kimberly Brunner
+2|AGE|Y|15
+1|CHIL|Y|Laura Brunner
+2|AGE|Y|6
+1|CHIL|Y|Annette Brunner
+2|AGE|Y|5
+1|CHIL|Y|Treva Brunner
+2|AGE|Y|6
+1|CHIL|Y|Judith Brunner
+2|AGE|Y|20
+1|INCOME|Y|33400
+0|FAM|Y|@F554@
+1|HUSB|Y|Margarito Edson
+1|WIFE|Y|Phyllis Mchenry
+1|CHIL|Y|Ryan Edson
+2|AGE|Y|11
+1|CHIL|Y|Dean Edson
+2|AGE|Y|5
+1|CHIL|Y|Ray Edson
+2|AGE|Y|6
+1|INCOME|Y|22800
+0|FAM|Y|@F555@
+1|HUSB|Y|Steven Monske
+1|WIFE|Y|Paula Hinkle
+1|CHIL|Y|Willie Monske
+2|AGE|Y|2
+1|CHIL|Y|Kathleen Monske
+2|AGE|Y|2
+1|CHIL|Y|Jennifer Monske
+2|AGE|Y|20
+1|CHIL|Y|Gladys Monske
+2|AGE|Y|3
+1|INCOME|Y|62400
+0|FAM|Y|@F556@
+1|HUSB|Y|Antonio Littleton
+1|WIFE|Y|Judith Peno
+1|CHIL|Y|James Littleton
+2|AGE|Y|9
+1|CHIL|Y|Donna Littleton
+2|AGE|Y|15
+1|CHIL|Y|Zelma Littleton
+2|AGE|Y|8
+1|INCOME|Y|36100
+0|FAM|Y|@F557@
+1|HUSB|Y|Thomas Frenz
+1|WIFE|Y|Marla Hogue
+1|CHIL|Y|Almeda Frenz
+2|AGE|Y|5
+1|CHIL|Y|Alan Frenz
+2|AGE|Y|5
+1|CHIL|Y|Anna Frenz
+2|AGE|Y|16
+1|INCOME|Y|51600
+0|FAM|Y|@F558@
+1|HUSB|Y|Jackson Bennett
+1|WIFE|Y|Carrie Taylor
+1|CHIL|Y|Jessica Bennett
+2|AGE|Y|15
+1|CHIL|Y|Matthew Bennett
+2|AGE|Y|18
+1|CHIL|Y|Joseph Bennett
+2|AGE|Y|7
+1|CHIL|Y|Martha Bennett
+2|AGE|Y|15
+1|CHIL|Y|Norma Bennett
+2|AGE|Y|7
+1|INCOME|Y|58300
+0|FAM|Y|@F559@
+1|HUSB|Y|Shaun Davis
+1|WIFE|Y|Migdalia Caldwell
+1|CHIL|Y|Bill Davis
+2|AGE|Y|15
+1|CHIL|Y|Ladonna Davis
+2|AGE|Y|23
+1|INCOME|Y|25300
+0|FAM|Y|@F560@
+1|HUSB|Y|Dan Kelson
+1|WIFE|Y|Courtney Studivant
+1|CHIL|Y|Cheryl Kelson
+2|AGE|Y|14
+1|CHIL|Y|Patricia Kelson
+2|AGE|Y|14
+1|CHIL|Y|Brandy Kelson
+2|AGE|Y|5
+1|INCOME|Y|49700
+0|FAM|Y|@F561@
+1|HUSB|Y|Dustin Stevens
+1|WIFE|Y|Marilyn Stacy
+1|CHIL|Y|Jerry Stevens
+2|AGE|Y|13
+1|CHIL|Y|Virgie Stevens
+2|AGE|Y|24
+1|INCOME|Y|26400
+0|FAM|Y|@F562@
+1|HUSB|Y|Charles Dumas
+1|WIFE|Y|Corinna Jimenez
+1|CHIL|Y|Eunice Dumas
+2|AGE|Y|9
+1|CHIL|Y|Mabel Dumas
+2|AGE|Y|9
+1|CHIL|Y|Larry Dumas
+2|AGE|Y|12
+1|CHIL|Y|Robert Dumas
+2|AGE|Y|24
+1|CHIL|Y|Connie Dumas
+2|AGE|Y|3
+1|INCOME|Y|38300
+0|FAM|Y|@F563@
+1|HUSB|Y|Floyd Mcswain
+1|WIFE|Y|Angela Stewart
+1|CHIL|Y|Christina Mcswain
+2|AGE|Y|11
+1|CHIL|Y|Amber Mcswain
+2|AGE|Y|6
+1|INCOME|Y|68000
+0|FAM|Y|@F564@
+1|HUSB|Y|John Madrid
+1|WIFE|Y|Carolyn Carvajal
+1|CHIL|Y|Hubert Madrid
+2|AGE|Y|2
+1|CHIL|Y|Kenneth Madrid
+2|AGE|Y|19
+1|CHIL|Y|Maria Madrid
+2|AGE|Y|12
+1|INCOME|Y|21600
+0|FAM|Y|@F565@
+1|HUSB|Y|Michael Paterniti
+1|WIFE|Y|Leah Land
+1|CHIL|Y|Stanley Paterniti
+2|AGE|Y|13
+1|INCOME|Y|33600
+0|FAM|Y|@F566@
+1|HUSB|Y|Mark Manuel
+1|WIFE|Y|Muriel Gregg
+1|CHIL|Y|Sandra Manuel
+2|AGE|Y|25
+1|CHIL|Y|Elizebeth Manuel
+2|AGE|Y|2
+1|INCOME|Y|43100
+0|FAM|Y|@F567@
+1|HUSB|Y|Paul Mehtani
+1|WIFE|Y|Tina Ben
+1|CHIL|Y|David Mehtani
+2|AGE|Y|3
+1|CHIL|Y|Kenneth Mehtani
+2|AGE|Y|11
+1|INCOME|Y|24100
+0|FAM|Y|@F568@
+1|HUSB|Y|Patrick Palomares
+1|WIFE|Y|Bonnie Becker
+1|CHIL|Y|Clifford Palomares
+2|AGE|Y|8
+1|CHIL|Y|Jermaine Palomares
+2|AGE|Y|2
+1|CHIL|Y|Arnita Palomares
+2|AGE|Y|15
+1|CHIL|Y|Mark Palomares
+2|AGE|Y|2
+1|CHIL|Y|Kenneth Palomares
+2|AGE|Y|15
+1|INCOME|Y|34900
+0|FAM|Y|@F569@
+1|HUSB|Y|Robert Falls
+1|WIFE|Y|Francis Brookshire
+1|CHIL|Y|Mary Falls
+2|AGE|Y|4
+1|CHIL|Y|Jeffery Falls
+2|AGE|Y|20
+1|CHIL|Y|Alexander Falls
+2|AGE|Y|1
+1|CHIL|Y|Ernest Falls
+2|AGE|Y|7
+1|CHIL|Y|Leslie Falls
+2|AGE|Y|5
+1|INCOME|Y|64000
+0|FAM|Y|@F570@
+1|HUSB|Y|William Ellis
+1|WIFE|Y|Christine Pledger
+1|CHIL|Y|Carl Ellis
+2|AGE|Y|19
+1|CHIL|Y|Daniel Ellis
+2|AGE|Y|16
+1|CHIL|Y|Barbara Ellis
+2|AGE|Y|8
+1|INCOME|Y|42800
+0|FAM|Y|@F571@
+1|HUSB|Y|Ralph Cooper
+1|WIFE|Y|Joy Lewis
+1|CHIL|Y|Leo Cooper
+2|AGE|Y|17
+1|CHIL|Y|Carol Cooper
+2|AGE|Y|24
+1|INCOME|Y|32300
+0|FAM|Y|@F572@
+1|HUSB|Y|Andrew Espinoza
+1|WIFE|Y|Sharon Daley
+1|CHIL|Y|Stephaine Espinoza
+2|AGE|Y|3
+1|INCOME|Y|69600
+0|FAM|Y|@F573@
+1|HUSB|Y|Henry Roddam
+1|WIFE|Y|Mee Thompson
+1|CHIL|Y|Christina Roddam
+2|AGE|Y|18
+1|CHIL|Y|Robert Roddam
+2|AGE|Y|11
+1|CHIL|Y|Stanley Roddam
+2|AGE|Y|21
+1|CHIL|Y|Lisa Roddam
+2|AGE|Y|17
+1|CHIL|Y|Judy Roddam
+2|AGE|Y|14
+1|INCOME|Y|24400
+0|FAM|Y|@F574@
+1|HUSB|Y|Joseph Kleven
+1|WIFE|Y|Jessica Voskamp
+1|CHIL|Y|Tina Kleven
+2|AGE|Y|12
+1|CHIL|Y|Catherine Kleven
+2|AGE|Y|20
+1|CHIL|Y|Jeremy Kleven
+2|AGE|Y|11
+1|CHIL|Y|Shannon Kleven
+2|AGE|Y|3
+1|CHIL|Y|Roy Kleven
+2|AGE|Y|24
+1|INCOME|Y|34900
+0|FAM|Y|@F575@
+1|HUSB|Y|Brian Guthrie
+1|WIFE|Y|Gladys Stetler
+1|CHIL|Y|Vada Guthrie
+2|AGE|Y|8
+1|CHIL|Y|Mattie Guthrie
+2|AGE|Y|23
+1|CHIL|Y|Thomas Guthrie
+2|AGE|Y|18
+1|CHIL|Y|Darius Guthrie
+2|AGE|Y|14
+1|CHIL|Y|Rose Guthrie
+2|AGE|Y|4
+1|INCOME|Y|61200
+0|FAM|Y|@F576@
+1|HUSB|Y|Derrick Manganaro
+1|WIFE|Y|Marcella Robertson
+1|CHIL|Y|Deborah Manganaro
+2|AGE|Y|13
+1|INCOME|Y|60200
+0|FAM|Y|@F577@
+1|HUSB|Y|Ruben Glover
+1|WIFE|Y|Marlena James
+1|CHIL|Y|Jacob Glover
+2|AGE|Y|1
+1|CHIL|Y|Ricky Glover
+2|AGE|Y|16
+1|INCOME|Y|47500
+0|FAM|Y|@F578@
+1|HUSB|Y|Delbert Baxter
+1|WIFE|Y|Karen Pickett
+1|CHIL|Y|Clayton Baxter
+2|AGE|Y|1
+1|CHIL|Y|Lonnie Baxter
+2|AGE|Y|24
+1|CHIL|Y|Laquita Baxter
+2|AGE|Y|9
+1|CHIL|Y|Ann Baxter
+2|AGE|Y|14
+1|CHIL|Y|Maxwell Baxter
+2|AGE|Y|2
+1|INCOME|Y|27900
+0|FAM|Y|@F579@
+1|HUSB|Y|Joseph Catron
+1|WIFE|Y|Nancy Lawlor
+1|CHIL|Y|James Catron
+2|AGE|Y|8
+1|CHIL|Y|Timothy Catron
+2|AGE|Y|13
+1|CHIL|Y|John Catron
+2|AGE|Y|18
+1|CHIL|Y|Donald Catron
+2|AGE|Y|10
+1|INCOME|Y|57200
+0|FAM|Y|@F580@
+1|HUSB|Y|Joseph Rios
+1|WIFE|Y|Lisa Ellis
+1|CHIL|Y|Jack Rios
+2|AGE|Y|25
+1|CHIL|Y|Andrea Rios
+2|AGE|Y|7
+1|CHIL|Y|Max Rios
+2|AGE|Y|24
+1|INCOME|Y|62300
+0|FAM|Y|@F581@
+1|HUSB|Y|James Speed
+1|WIFE|Y|Carol Bragg
+1|CHIL|Y|James Speed
+2|AGE|Y|4
+1|CHIL|Y|Peggy Speed
+2|AGE|Y|22
+1|CHIL|Y|Diane Speed
+2|AGE|Y|24
+1|INCOME|Y|34000
+0|FAM|Y|@F582@
+1|HUSB|Y|Jesse Leather
+1|WIFE|Y|Michelle Devoe
+1|CHIL|Y|Roy Leather
+2|AGE|Y|19
+1|CHIL|Y|Mary Leather
+2|AGE|Y|16
+1|CHIL|Y|David Leather
+2|AGE|Y|11
+1|INCOME|Y|20100
+0|FAM|Y|@F583@
+1|HUSB|Y|Donald Morgan
+1|WIFE|Y|Josephine Castillo
+1|CHIL|Y|Toshiko Morgan
+2|AGE|Y|25
+1|CHIL|Y|Allegra Morgan
+2|AGE|Y|1
+1|CHIL|Y|Connie Morgan
+2|AGE|Y|22
+1|CHIL|Y|Leslie Morgan
+2|AGE|Y|8
+1|CHIL|Y|Benjamin Morgan
+2|AGE|Y|3
+1|INCOME|Y|55300
+0|FAM|Y|@F584@
+1|HUSB|Y|Timothy Montiel
+1|WIFE|Y|Robin Gantt
+1|CHIL|Y|Laura Montiel
+2|AGE|Y|6
+1|CHIL|Y|Kerry Montiel
+2|AGE|Y|23
+1|CHIL|Y|Diane Montiel
+2|AGE|Y|20
+1|INCOME|Y|37800
+0|FAM|Y|@F585@
+1|HUSB|Y|Aaron Nation
+1|WIFE|Y|Sarah Martin
+1|CHIL|Y|Jessie Nation
+2|AGE|Y|4
+1|INCOME|Y|53000
+0|FAM|Y|@F586@
+1|HUSB|Y|Donald Rieger
+1|WIFE|Y|Tracy Turnbull
+1|CHIL|Y|Ernest Rieger
+2|AGE|Y|25
+1|INCOME|Y|41600
+0|FAM|Y|@F587@
+1|HUSB|Y|Richard Swain
+1|WIFE|Y|Amber Reinoso
+1|CHIL|Y|Perry Swain
+2|AGE|Y|13
+1|CHIL|Y|Benjamin Swain
+2|AGE|Y|23
+1|CHIL|Y|Doris Swain
+2|AGE|Y|14
+1|CHIL|Y|Ian Swain
+2|AGE|Y|15
+1|INCOME|Y|25400
+0|FAM|Y|@F588@
+1|HUSB|Y|Chad Roberts
+1|WIFE|Y|Linda Bratcher
+1|CHIL|Y|Melody Roberts
+2|AGE|Y|16
+1|CHIL|Y|Thomas Roberts
+2|AGE|Y|14
+1|INCOME|Y|63800
+0|FAM|Y|@F589@
+1|HUSB|Y|Charles Herrman
+1|WIFE|Y|Roma Peak
+1|CHIL|Y|Irwin Herrman
+2|AGE|Y|5
+1|CHIL|Y|Max Herrman
+2|AGE|Y|10
+1|CHIL|Y|Yolanda Herrman
+2|AGE|Y|12
+1|CHIL|Y|Kimberly Herrman
+2|AGE|Y|22
+1|CHIL|Y|Samuel Herrman
+2|AGE|Y|19
+1|INCOME|Y|62700
+0|FAM|Y|@F590@
+1|HUSB|Y|Christopher Matthews
+1|WIFE|Y|Mayme Dickey
+1|CHIL|Y|Helene Matthews
+2|AGE|Y|5
+1|INCOME|Y|30400
+0|FAM|Y|@F591@
+1|HUSB|Y|Dennis Heatly
+1|WIFE|Y|Eleanor Toney
+1|CHIL|Y|Thomas Heatly
+2|AGE|Y|14
+1|CHIL|Y|Gary Heatly
+2|AGE|Y|4
+1|INCOME|Y|46700
+0|FAM|Y|@F592@
+1|HUSB|Y|Richard Garland
+1|WIFE|Y|Patricia Michels
+1|CHIL|Y|Ramona Garland
+2|AGE|Y|11
+1|CHIL|Y|Claire Garland
+2|AGE|Y|19
+1|CHIL|Y|Lara Garland
+2|AGE|Y|9
+1|INCOME|Y|55800
+0|FAM|Y|@F593@
+1|HUSB|Y|Joshua Brading
+1|WIFE|Y|Victoria Sloan
+1|CHIL|Y|Darren Brading
+2|AGE|Y|20
+1|CHIL|Y|Lena Brading
+2|AGE|Y|10
+1|CHIL|Y|Linda Brading
+2|AGE|Y|22
+1|CHIL|Y|Ria Brading
+2|AGE|Y|17
+1|INCOME|Y|41300
+0|FAM|Y|@F594@
+1|HUSB|Y|Eddie Larkin
+1|WIFE|Y|Jo Drake
+1|CHIL|Y|Samuel Larkin
+2|AGE|Y|12
+1|CHIL|Y|Anne Larkin
+2|AGE|Y|2
+1|CHIL|Y|Randell Larkin
+2|AGE|Y|9
+1|INCOME|Y|32900
+0|FAM|Y|@F595@
+1|HUSB|Y|James Delgado
+1|WIFE|Y|Sudie Hayden
+1|CHIL|Y|Vincent Delgado
+2|AGE|Y|25
+1|CHIL|Y|Richard Delgado
+2|AGE|Y|11
+1|CHIL|Y|Virginia Delgado
+2|AGE|Y|3
+1|CHIL|Y|Renita Delgado
+2|AGE|Y|3
+1|INCOME|Y|67200
+0|FAM|Y|@F596@
+1|HUSB|Y|Herbert Cameron
+1|WIFE|Y|Karen Curtis
+1|CHIL|Y|Benjamin Cameron
+2|AGE|Y|13
+1|CHIL|Y|Sharon Cameron
+2|AGE|Y|21
+1|CHIL|Y|Heidi Cameron
+2|AGE|Y|25
+1|CHIL|Y|Kathryn Cameron
+2|AGE|Y|8
+1|CHIL|Y|Karen Cameron
+2|AGE|Y|15
+1|INCOME|Y|64400
+0|FAM|Y|@F597@
+1|HUSB|Y|James Simmons
+1|WIFE|Y|Martha Carroll
+1|CHIL|Y|Robert Simmons
+2|AGE|Y|24
+1|CHIL|Y|Shawn Simmons
+2|AGE|Y|24
+1|CHIL|Y|Juan Simmons
+2|AGE|Y|19
+1|CHIL|Y|Kristy Simmons
+2|AGE|Y|14
+1|CHIL|Y|Robert Simmons
+2|AGE|Y|17
+1|INCOME|Y|23100
+0|FAM|Y|@F598@
+1|HUSB|Y|Daniel Foster
+1|WIFE|Y|Maxine Cirone
+1|CHIL|Y|Joseph Foster
+2|AGE|Y|5
+1|CHIL|Y|Sarah Foster
+2|AGE|Y|10
+1|INCOME|Y|39600
+0|FAM|Y|@F599@
+1|HUSB|Y|Randall Murat
+1|WIFE|Y|Nia Larosa
+1|CHIL|Y|Wendy Murat
+2|AGE|Y|23
+1|CHIL|Y|Jayne Murat
+2|AGE|Y|22
+1|INCOME|Y|42600
+0|FAM|Y|@F600@
+1|HUSB|Y|Brent Kyles
+1|WIFE|Y|Denise Easterling
+1|CHIL|Y|Florence Kyles
+2|AGE|Y|5
+1|INCOME|Y|47900
+0|FAM|Y|@F601@
+1|HUSB|Y|Douglas Bradford
+1|CHIL|Y|Larry Bradford
+2|AGE|Y|5
+1|CHIL|Y|Tommy Bradford
+2|AGE|Y|5
+1|INCOME|Y|63700
+0|FAM|Y|@F602@
+1|HUSB|Y|Heriberto Gattison
+1|CHIL|Y|Alvin Gattison
+2|AGE|Y|2
+1|INCOME|Y|28300
+0|FAM|Y|@F603@
+1|HUSB|Y|Justin Healy
+1|CHIL|Y|Timothy Healy
+2|AGE|Y|18
+1|INCOME|Y|65900
+0|FAM|Y|@F604@
+1|HUSB|Y|Donald Taylor
+1|CHIL|Y|Anthony Taylor
+2|AGE|Y|21
+1|CHIL|Y|Viola Taylor
+2|AGE|Y|19
+1|CHIL|Y|Jack Taylor
+2|AGE|Y|5
+1|CHIL|Y|Virginia Taylor
+2|AGE|Y|7
+1|INCOME|Y|45600
+0|FAM|Y|@F605@
+1|HUSB|Y|Orlando Williams
+1|CHIL|Y|James Williams
+2|AGE|Y|21
+1|INCOME|Y|36900
+0|FAM|Y|@F606@
+1|HUSB|Y|Ronald Waller
+1|CHIL|Y|Iola Waller
+2|AGE|Y|3
+1|CHIL|Y|Sydney Waller
+2|AGE|Y|7
+1|INCOME|Y|33500
+0|FAM|Y|@F607@
+1|HUSB|Y|Roy Green
+1|CHIL|Y|Larry Green
+2|AGE|Y|17
+1|CHIL|Y|Linda Green
+2|AGE|Y|7
+1|CHIL|Y|Rashida Green
+2|AGE|Y|15
+1|CHIL|Y|Priscilla Green
+2|AGE|Y|12
+1|CHIL|Y|Theo Green
+2|AGE|Y|11
+1|INCOME|Y|66500
+0|FAM|Y|@F608@
+1|HUSB|Y|Noah Snow
+1|CHIL|Y|Daniel Snow
+2|AGE|Y|4
+1|CHIL|Y|Dawn Snow
+2|AGE|Y|1
+1|CHIL|Y|Daniel Snow
+2|AGE|Y|2
+1|CHIL|Y|Johnny Snow
+2|AGE|Y|10
+1|CHIL|Y|James Snow
+2|AGE|Y|23
+1|INCOME|Y|36400
+0|FAM|Y|@F609@
+1|HUSB|Y|Dale Finney
+1|CHIL|Y|Daniel Finney
+2|AGE|Y|2
+1|CHIL|Y|Ernest Finney
+2|AGE|Y|18
+1|CHIL|Y|Angelina Finney
+2|AGE|Y|16
+1|CHIL|Y|Helen Finney
+2|AGE|Y|2
+1|INCOME|Y|48900
+0|FAM|Y|@F610@
+1|HUSB|Y|Jamar Alexandra
+1|CHIL|Y|Socorro Alexandra
+2|AGE|Y|23
+1|CHIL|Y|Marianne Alexandra
+2|AGE|Y|5
+1|INCOME|Y|42700
+0|FAM|Y|@F611@
+1|HUSB|Y|Joseph Thomas
+1|CHIL|Y|Juan Thomas
+2|AGE|Y|1
+1|CHIL|Y|Frankie Thomas
+2|AGE|Y|18
+1|CHIL|Y|Mary Thomas
+2|AGE|Y|17
+1|INCOME|Y|44800
+0|FAM|Y|@F612@
+1|HUSB|Y|Jefferson Jackson
+1|CHIL|Y|Rebecca Jackson
+2|AGE|Y|12
+1|CHIL|Y|Doris Jackson
+2|AGE|Y|14
+1|CHIL|Y|Matthew Jackson
+2|AGE|Y|25
+1|CHIL|Y|Janet Jackson
+2|AGE|Y|15
+1|INCOME|Y|62400
+0|FAM|Y|@F613@
+1|HUSB|Y|Cody Forrest
+1|CHIL|Y|Ruth Forrest
+2|AGE|Y|16
+1|CHIL|Y|Tommy Forrest
+2|AGE|Y|25
+1|CHIL|Y|Melinda Forrest
+2|AGE|Y|2
+1|CHIL|Y|Alta Forrest
+2|AGE|Y|8
+1|CHIL|Y|Gladys Forrest
+2|AGE|Y|2
+1|INCOME|Y|46700
+0|FAM|Y|@F614@
+1|HUSB|Y|Todd Crim
+1|CHIL|Y|Edward Crim
+2|AGE|Y|6
+1|INCOME|Y|48700
+0|FAM|Y|@F615@
+1|HUSB|Y|Grady Twombley
+1|CHIL|Y|Von Twombley
+2|AGE|Y|17
+1|CHIL|Y|Toni Twombley
+2|AGE|Y|5
+1|CHIL|Y|Wallace Twombley
+2|AGE|Y|23
+1|CHIL|Y|Lance Twombley
+2|AGE|Y|21
+1|INCOME|Y|68500
+0|FAM|Y|@F616@
+1|HUSB|Y|Robert Anderson
+1|CHIL|Y|Mary Anderson
+2|AGE|Y|1
+1|CHIL|Y|Ashley Anderson
+2|AGE|Y|3
+1|INCOME|Y|56400
+0|FAM|Y|@F617@
+1|HUSB|Y|Justin Mathews
+1|CHIL|Y|Amy Mathews
+2|AGE|Y|9
+1|INCOME|Y|48900
+0|FAM|Y|@F618@
+1|HUSB|Y|Aaron Troyer
+1|CHIL|Y|Walter Troyer
+2|AGE|Y|4
+1|CHIL|Y|Robert Troyer
+2|AGE|Y|13
+1|INCOME|Y|62400
+0|FAM|Y|@F619@
+1|HUSB|Y|Steve Williams
+1|CHIL|Y|Sarah Williams
+2|AGE|Y|18
+1|CHIL|Y|Brandon Williams
+2|AGE|Y|7
+1|INCOME|Y|58700
+0|FAM|Y|@F620@
+1|HUSB|Y|James Pickering
+1|CHIL|Y|Jessica Pickering
+2|AGE|Y|14
+1|CHIL|Y|Robert Pickering
+2|AGE|Y|24
+1|CHIL|Y|Shirley Pickering
+2|AGE|Y|14
+1|CHIL|Y|Wanda Pickering
+2|AGE|Y|22
+1|CHIL|Y|Willie Pickering
+2|AGE|Y|24
+1|INCOME|Y|21300
+0|FAM|Y|@F621@
+1|HUSB|Y|Robert Brown
+1|CHIL|Y|Joshua Brown
+2|AGE|Y|5
+1|CHIL|Y|Robert Brown
+2|AGE|Y|1
+1|CHIL|Y|Theresa Brown
+2|AGE|Y|13
+1|CHIL|Y|Keith Brown
+2|AGE|Y|7
+1|CHIL|Y|Bobbie Brown
+2|AGE|Y|25
+1|INCOME|Y|27800
+0|FAM|Y|@F622@
+1|HUSB|Y|Jacob Alexander
+1|CHIL|Y|Alice Alexander
+2|AGE|Y|18
+1|CHIL|Y|Irene Alexander
+2|AGE|Y|10
+1|CHIL|Y|Patricia Alexander
+2|AGE|Y|24
+1|CHIL|Y|Kathryn Alexander
+2|AGE|Y|9
+1|INCOME|Y|52300
+0|FAM|Y|@F623@
+1|HUSB|Y|Basil Abbott
+1|CHIL|Y|Chris Abbott
+2|AGE|Y|19
+1|INCOME|Y|32700
+0|FAM|Y|@F624@
+1|HUSB|Y|Kevin Mcmullen
+1|CHIL|Y|Juliet Mcmullen
+2|AGE|Y|22
+1|CHIL|Y|Dorothy Mcmullen
+2|AGE|Y|3
+1|CHIL|Y|Don Mcmullen
+2|AGE|Y|5
+1|INCOME|Y|49500
+0|FAM|Y|@F625@
+1|HUSB|Y|Randall Davenport
+1|CHIL|Y|Victoria Davenport
+2|AGE|Y|6
+1|CHIL|Y|John Davenport
+2|AGE|Y|1
+1|CHIL|Y|Juanita Davenport
+2|AGE|Y|8
+1|CHIL|Y|George Davenport
+2|AGE|Y|12
+1|INCOME|Y|63300
+0|FAM|Y|@F626@
+1|HUSB|Y|Raymond Mullinix
+1|CHIL|Y|William Mullinix
+2|AGE|Y|15
+1|CHIL|Y|Bennie Mullinix
+2|AGE|Y|2
+1|CHIL|Y|Anna Mullinix
+2|AGE|Y|3
+1|INCOME|Y|38300
+0|FAM|Y|@F627@
+1|HUSB|Y|Randall Noriega
+1|CHIL|Y|Robert Noriega
+2|AGE|Y|10
+1|CHIL|Y|Eddie Noriega
+2|AGE|Y|22
+1|CHIL|Y|Jeanette Noriega
+2|AGE|Y|8
+1|CHIL|Y|Eddie Noriega
+2|AGE|Y|24
+1|INCOME|Y|22200
+0|FAM|Y|@F628@
+1|HUSB|Y|Cody Lee
+1|CHIL|Y|Arthur Lee
+2|AGE|Y|21
+1|CHIL|Y|Gisela Lee
+2|AGE|Y|1
+1|CHIL|Y|Will Lee
+2|AGE|Y|13
+1|INCOME|Y|27300
+0|FAM|Y|@F629@
+1|HUSB|Y|Lonnie Orlando
+1|CHIL|Y|Mark Orlando
+2|AGE|Y|14
+1|CHIL|Y|Thomas Orlando
+2|AGE|Y|20
+1|CHIL|Y|Frances Orlando
+2|AGE|Y|19
+1|INCOME|Y|32300
+0|FAM|Y|@F630@
+1|HUSB|Y|Clarence Scott
+1|CHIL|Y|Leonel Scott
+2|AGE|Y|24
+1|CHIL|Y|Albert Scott
+2|AGE|Y|23
+1|CHIL|Y|Ellen Scott
+2|AGE|Y|10
+1|CHIL|Y|David Scott
+2|AGE|Y|1
+1|INCOME|Y|58800
+0|FAM|Y|@F631@
+1|HUSB|Y|John Angelocci
+1|CHIL|Y|Susie Angelocci
+2|AGE|Y|21
+1|CHIL|Y|Linda Angelocci
+2|AGE|Y|14
+1|CHIL|Y|David Angelocci
+2|AGE|Y|24
+1|CHIL|Y|Timothy Angelocci
+2|AGE|Y|5
+1|CHIL|Y|James Angelocci
+2|AGE|Y|16
+1|INCOME|Y|33700
+0|FAM|Y|@F632@
+1|HUSB|Y|Michael Cales
+1|CHIL|Y|William Cales
+2|AGE|Y|12
+1|INCOME|Y|42000
+0|FAM|Y|@F633@
+1|HUSB|Y|Michael Bellman
+1|CHIL|Y|David Bellman
+2|AGE|Y|5
+1|INCOME|Y|50800
+0|FAM|Y|@F634@
+1|HUSB|Y|Antonio Pontious
+1|CHIL|Y|Nancy Pontious
+2|AGE|Y|8
+1|CHIL|Y|Eileen Pontious
+2|AGE|Y|9
+1|CHIL|Y|Abraham Pontious
+2|AGE|Y|18
+1|INCOME|Y|66900
+0|FAM|Y|@F635@
+1|HUSB|Y|Chase Chambliss
+1|CHIL|Y|Jennifer Chambliss
+2|AGE|Y|1
+1|CHIL|Y|Darlene Chambliss
+2|AGE|Y|9
+1|CHIL|Y|Diana Chambliss
+2|AGE|Y|22
+1|INCOME|Y|45000
+0|FAM|Y|@F636@
+1|HUSB|Y|Ronald Plourde
+1|CHIL|Y|James Plourde
+2|AGE|Y|3
+1|CHIL|Y|Christopher Plourde
+2|AGE|Y|12
+1|CHIL|Y|Tarah Plourde
+2|AGE|Y|17
+1|CHIL|Y|Jordan Plourde
+2|AGE|Y|17
+1|CHIL|Y|Kyle Plourde
+2|AGE|Y|22
+1|INCOME|Y|34200
+0|FAM|Y|@F637@
+1|HUSB|Y|Ernesto Lawson
+1|CHIL|Y|Richie Lawson
+2|AGE|Y|17
+1|INCOME|Y|23500
+0|FAM|Y|@F638@
+1|HUSB|Y|Daniel Fischer
+1|CHIL|Y|Esperanza Fischer
+2|AGE|Y|20
+1|CHIL|Y|James Fischer
+2|AGE|Y|11
+1|INCOME|Y|23500
+0|FAM|Y|@F639@
+1|HUSB|Y|Frederick Scheffler
+1|CHIL|Y|Michael Scheffler
+2|AGE|Y|12
+1|CHIL|Y|Kathy Scheffler
+2|AGE|Y|17
+1|CHIL|Y|Jose Scheffler
+2|AGE|Y|2
+1|CHIL|Y|Jack Scheffler
+2|AGE|Y|7
+1|INCOME|Y|64100
+0|FAM|Y|@F640@
+1|HUSB|Y|Jose Gelston
+1|CHIL|Y|Fern Gelston
+2|AGE|Y|10
+1|CHIL|Y|Fred Gelston
+2|AGE|Y|9
+1|CHIL|Y|Adam Gelston
+2|AGE|Y|2
+1|CHIL|Y|Jason Gelston
+2|AGE|Y|24
+1|INCOME|Y|33000
+0|FAM|Y|@F641@
+1|HUSB|Y|Clayton Brown
+1|CHIL|Y|Lula Brown
+2|AGE|Y|3
+1|INCOME|Y|26400
+0|FAM|Y|@F642@
+1|HUSB|Y|John Quintana
+1|CHIL|Y|David Quintana
+2|AGE|Y|10
+1|INCOME|Y|31100
+0|FAM|Y|@F643@
+1|HUSB|Y|James Devine
+1|CHIL|Y|Gordon Devine
+2|AGE|Y|25
+1|CHIL|Y|Dustin Devine
+2|AGE|Y|2
+1|CHIL|Y|Matthew Devine
+2|AGE|Y|9
+1|CHIL|Y|Roxanne Devine
+2|AGE|Y|10
+1|INCOME|Y|54800
+0|FAM|Y|@F644@
+1|HUSB|Y|Genaro Knight
+1|CHIL|Y|Beatrice Knight
+2|AGE|Y|5
+1|CHIL|Y|Jacob Knight
+2|AGE|Y|20
+1|CHIL|Y|Florence Knight
+2|AGE|Y|24
+1|INCOME|Y|22600
+0|FAM|Y|@F645@
+1|HUSB|Y|Roy Long
+1|CHIL|Y|Michelle Long
+2|AGE|Y|8
+1|CHIL|Y|Claude Long
+2|AGE|Y|6
+1|INCOME|Y|35500
+0|FAM|Y|@F646@
+1|HUSB|Y|Jeffrey Vaughn
+1|CHIL|Y|Gregg Vaughn
+2|AGE|Y|8
+1|CHIL|Y|Anthony Vaughn
+2|AGE|Y|3
+1|CHIL|Y|Rebecca Vaughn
+2|AGE|Y|25
+1|CHIL|Y|Laverne Vaughn
+2|AGE|Y|25
+1|CHIL|Y|Beverly Vaughn
+2|AGE|Y|1
+1|INCOME|Y|42900
+0|FAM|Y|@F647@
+1|HUSB|Y|Paul Norris
+1|CHIL|Y|Susan Norris
+2|AGE|Y|19
+1|CHIL|Y|Charles Norris
+2|AGE|Y|1
+1|INCOME|Y|68700
+0|FAM|Y|@F648@
+1|HUSB|Y|Brian Brangers
+1|CHIL|Y|Oda Brangers
+2|AGE|Y|10
+1|CHIL|Y|Sharon Brangers
+2|AGE|Y|6
+1|INCOME|Y|38800
+0|FAM|Y|@F649@
+1|HUSB|Y|Mark Beckstrom
+1|CHIL|Y|Pamela Beckstrom
+2|AGE|Y|22
+1|CHIL|Y|Terry Beckstrom
+2|AGE|Y|9
+1|INCOME|Y|23500
+0|FAM|Y|@F650@
+1|HUSB|Y|Stephen Glazener
+1|CHIL|Y|Robert Glazener
+2|AGE|Y|2
+1|CHIL|Y|Darrel Glazener
+2|AGE|Y|25
+1|INCOME|Y|27900
+0|FAM|Y|@F651@
+1|HUSB|Y|Gary Mccrary
+1|CHIL|Y|Rory Mccrary
+2|AGE|Y|6
+1|CHIL|Y|Matthew Mccrary
+2|AGE|Y|19
+1|CHIL|Y|Oliva Mccrary
+2|AGE|Y|22
+1|CHIL|Y|Cathy Mccrary
+2|AGE|Y|2
+1|CHIL|Y|James Mccrary
+2|AGE|Y|18
+1|INCOME|Y|49900
+0|FAM|Y|@F652@
+1|HUSB|Y|Lowell Russell
+1|CHIL|Y|Jeffrey Russell
+2|AGE|Y|24
+1|CHIL|Y|Cheryl Russell
+2|AGE|Y|15
+1|CHIL|Y|Patrick Russell
+2|AGE|Y|4
+1|CHIL|Y|Bonnie Russell
+2|AGE|Y|12
+1|INCOME|Y|22400
+0|FAM|Y|@F653@
+1|HUSB|Y|Ronald Mandrell
+1|CHIL|Y|Amy Mandrell
+2|AGE|Y|23
+1|INCOME|Y|54200
+0|FAM|Y|@F654@
+1|HUSB|Y|Michael Diaz
+1|CHIL|Y|Louie Diaz
+2|AGE|Y|20
+1|CHIL|Y|Brain Diaz
+2|AGE|Y|6
+1|CHIL|Y|Tina Diaz
+2|AGE|Y|22
+1|CHIL|Y|Cathy Diaz
+2|AGE|Y|13
+1|CHIL|Y|Elizabeth Diaz
+2|AGE|Y|8
+1|INCOME|Y|24600
+0|FAM|Y|@F655@
+1|HUSB|Y|Gregory Tamura
+1|CHIL|Y|Justin Tamura
+2|AGE|Y|19
+1|INCOME|Y|21900
+0|FAM|Y|@F656@
+1|HUSB|Y|Jesus Watson
+1|CHIL|Y|Paulette Watson
+2|AGE|Y|18
+1|CHIL|Y|John Watson
+2|AGE|Y|17
+1|CHIL|Y|Heidi Watson
+2|AGE|Y|16
+1|CHIL|Y|Janet Watson
+2|AGE|Y|10
+1|INCOME|Y|46200
+0|FAM|Y|@F657@
+1|HUSB|Y|George Kelley
+1|CHIL|Y|Henry Kelley
+2|AGE|Y|4
+1|INCOME|Y|54300
+0|FAM|Y|@F658@
+1|HUSB|Y|Ira Bowlin
+1|CHIL|Y|Micheal Bowlin
+2|AGE|Y|12
+1|CHIL|Y|Richard Bowlin
+2|AGE|Y|24
+1|CHIL|Y|Jamila Bowlin
+2|AGE|Y|17
+1|CHIL|Y|Thomas Bowlin
+2|AGE|Y|3
+1|INCOME|Y|52300
+0|FAM|Y|@F659@
+1|HUSB|Y|James Duskey
+1|CHIL|Y|Dustin Duskey
+2|AGE|Y|19
+1|CHIL|Y|Adam Duskey
+2|AGE|Y|8
+1|CHIL|Y|John Duskey
+2|AGE|Y|16
+1|CHIL|Y|Floyd Duskey
+2|AGE|Y|2
+1|CHIL|Y|Abbie Duskey
+2|AGE|Y|17
+1|INCOME|Y|28300
+0|FAM|Y|@F660@
+1|HUSB|Y|Glenn Turner
+1|CHIL|Y|Robert Turner
+2|AGE|Y|12
+1|CHIL|Y|Ruby Turner
+2|AGE|Y|18
+1|CHIL|Y|William Turner
+2|AGE|Y|24
+1|INCOME|Y|58600
+0|FAM|Y|@F661@
+1|HUSB|Y|Gustavo Watt
+1|CHIL|Y|Jeff Watt
+2|AGE|Y|21
+1|CHIL|Y|Thomas Watt
+2|AGE|Y|1
+1|CHIL|Y|Sue Watt
+2|AGE|Y|12
+1|CHIL|Y|Mary Watt
+2|AGE|Y|16
+1|INCOME|Y|64300
+0|FAM|Y|@F662@
+1|HUSB|Y|Robert Williams
+1|CHIL|Y|Billy Williams
+2|AGE|Y|21
+1|CHIL|Y|Thomas Williams
+2|AGE|Y|12
+1|CHIL|Y|Yan Williams
+2|AGE|Y|16
+1|CHIL|Y|Alvin Williams
+2|AGE|Y|21
+1|INCOME|Y|56700
+0|FAM|Y|@F663@
+1|HUSB|Y|Kenneth Mcleod
+1|CHIL|Y|Thomas Mcleod
+2|AGE|Y|18
+1|CHIL|Y|Amanda Mcleod
+2|AGE|Y|19
+1|INCOME|Y|40900
+0|FAM|Y|@F664@
+1|HUSB|Y|Ronny Scheel
+1|CHIL|Y|Stephanie Scheel
+2|AGE|Y|23
+1|CHIL|Y|Joseph Scheel
+2|AGE|Y|1
+1|CHIL|Y|Carolyn Scheel
+2|AGE|Y|15
+1|CHIL|Y|Vernita Scheel
+2|AGE|Y|9
+1|CHIL|Y|Dennis Scheel
+2|AGE|Y|25
+1|INCOME|Y|49800
+0|FAM|Y|@F665@
+1|HUSB|Y|Giovanni Camacho
+1|CHIL|Y|Marty Camacho
+2|AGE|Y|16
+1|CHIL|Y|Douglas Camacho
+2|AGE|Y|25
+1|CHIL|Y|Charles Camacho
+2|AGE|Y|3
+1|CHIL|Y|Stuart Camacho
+2|AGE|Y|10
+1|CHIL|Y|Arthur Camacho
+2|AGE|Y|2
+1|INCOME|Y|20800
+0|FAM|Y|@F666@
+1|HUSB|Y|William Gilman
+1|CHIL|Y|Alice Gilman
+2|AGE|Y|21
+1|INCOME|Y|65200
+0|FAM|Y|@F667@
+1|HUSB|Y|Dennis Kempker
+1|CHIL|Y|Dennis Kempker
+2|AGE|Y|10
+1|INCOME|Y|42900
+0|FAM|Y|@F668@
+1|HUSB|Y|Steven Nipper
+1|CHIL|Y|Ruth Nipper
+2|AGE|Y|6
+1|CHIL|Y|Virginia Nipper
+2|AGE|Y|4
+1|CHIL|Y|Scott Nipper
+2|AGE|Y|8
+1|CHIL|Y|Chance Nipper
+2|AGE|Y|2
+1|INCOME|Y|54500
+0|FAM|Y|@F669@
+1|HUSB|Y|Richard Culver
+1|CHIL|Y|Richard Culver
+2|AGE|Y|15
+1|CHIL|Y|Elsie Culver
+2|AGE|Y|1
+1|CHIL|Y|Sean Culver
+2|AGE|Y|5
+1|CHIL|Y|Curt Culver
+2|AGE|Y|9
+1|INCOME|Y|29700
+0|FAM|Y|@F670@
+1|HUSB|Y|Wayne Blackman
+1|CHIL|Y|Raquel Blackman
+2|AGE|Y|15
+1|CHIL|Y|James Blackman
+2|AGE|Y|22
+1|CHIL|Y|Hilary Blackman
+2|AGE|Y|4
+1|CHIL|Y|Lowell Blackman
+2|AGE|Y|16
+1|INCOME|Y|21500
+0|FAM|Y|@F671@
+1|HUSB|Y|Evan Bade
+1|CHIL|Y|Dorothy Bade
+2|AGE|Y|19
+1|INCOME|Y|28400
+0|FAM|Y|@F672@
+1|HUSB|Y|Edward Hansen
+1|CHIL|Y|Michael Hansen
+2|AGE|Y|21
+1|CHIL|Y|Margaret Hansen
+2|AGE|Y|19
+1|INCOME|Y|52900
+0|FAM|Y|@F673@
+1|HUSB|Y|Willis Fuston
+1|CHIL|Y|Elsie Fuston
+2|AGE|Y|18
+1|CHIL|Y|Kevin Fuston
+2|AGE|Y|4
+1|INCOME|Y|50200
+0|FAM|Y|@F674@
+1|HUSB|Y|Chase Gowans
+1|CHIL|Y|Carrie Gowans
+2|AGE|Y|20
+1|CHIL|Y|Dave Gowans
+2|AGE|Y|2
+1|INCOME|Y|59200
+0|FAM|Y|@F675@
+1|HUSB|Y|Adam Kounthapanya
+1|CHIL|Y|Shelby Kounthapanya
+2|AGE|Y|1
+1|INCOME|Y|65000
+0|FAM|Y|@F676@
+1|HUSB|Y|Andrew Jones
+1|CHIL|Y|Chance Jones
+2|AGE|Y|5
+1|INCOME|Y|66400
+0|FAM|Y|@F677@
+1|HUSB|Y|Timothy Hassard
+1|CHIL|Y|Stacy Hassard
+2|AGE|Y|8
+1|INCOME|Y|69500
+0|FAM|Y|@F678@
+1|HUSB|Y|John Nedd
+1|CHIL|Y|James Nedd
+2|AGE|Y|4
+1|CHIL|Y|Jackie Nedd
+2|AGE|Y|8
+1|CHIL|Y|Rodney Nedd
+2|AGE|Y|14
+1|CHIL|Y|Luke Nedd
+2|AGE|Y|17
+1|INCOME|Y|42900
+0|FAM|Y|@F679@
+1|HUSB|Y|Rick Delara
+1|CHIL|Y|Anthony Delara
+2|AGE|Y|23
+1|CHIL|Y|Michael Delara
+2|AGE|Y|10
+1|CHIL|Y|Lorraine Delara
+2|AGE|Y|10
+1|INCOME|Y|62600
+0|FAM|Y|@F680@
+1|HUSB|Y|Juan Cox
+1|CHIL|Y|Vance Cox
+2|AGE|Y|14
+1|CHIL|Y|Rafael Cox
+2|AGE|Y|18
+1|CHIL|Y|Glen Cox
+2|AGE|Y|16
+1|CHIL|Y|Carolyn Cox
+2|AGE|Y|14
+1|INCOME|Y|39600
+0|FAM|Y|@F681@
+1|HUSB|Y|John Watson
+1|CHIL|Y|Stephanie Watson
+2|AGE|Y|11
+1|CHIL|Y|Lila Watson
+2|AGE|Y|1
+1|CHIL|Y|Joshua Watson
+2|AGE|Y|16
+1|CHIL|Y|Alfred Watson
+2|AGE|Y|16
+1|INCOME|Y|60300
+0|FAM|Y|@F682@
+1|HUSB|Y|Jarod Hitchcock
+1|CHIL|Y|Ramona Hitchcock
+2|AGE|Y|18
+1|CHIL|Y|Herbert Hitchcock
+2|AGE|Y|8
+1|CHIL|Y|Dorothy Hitchcock
+2|AGE|Y|16
+1|CHIL|Y|William Hitchcock
+2|AGE|Y|12
+1|INCOME|Y|23200
+0|FAM|Y|@F683@
+1|HUSB|Y|Shelton Pikula
+1|CHIL|Y|Angie Pikula
+2|AGE|Y|18
+1|INCOME|Y|33800
+0|FAM|Y|@F684@
+1|HUSB|Y|Gary Lake
+1|CHIL|Y|Brett Lake
+2|AGE|Y|8
+1|CHIL|Y|Cynthia Lake
+2|AGE|Y|18
+1|CHIL|Y|James Lake
+2|AGE|Y|25
+1|INCOME|Y|54200
+0|FAM|Y|@F685@
+1|HUSB|Y|Karl Propps
+1|CHIL|Y|Marissa Propps
+2|AGE|Y|16
+1|CHIL|Y|Darwin Propps
+2|AGE|Y|25
+1|CHIL|Y|Steve Propps
+2|AGE|Y|3
+1|INCOME|Y|60900
+0|FAM|Y|@F686@
+1|HUSB|Y|Joel Grande
+1|CHIL|Y|Ora Grande
+2|AGE|Y|12
+1|CHIL|Y|Lewis Grande
+2|AGE|Y|23
+1|CHIL|Y|Sharon Grande
+2|AGE|Y|9
+1|CHIL|Y|Cara Grande
+2|AGE|Y|8
+1|CHIL|Y|Lucille Grande
+2|AGE|Y|7
+1|INCOME|Y|58200
+0|FAM|Y|@F687@
+1|HUSB|Y|Tim Opland
+1|CHIL|Y|Kristen Opland
+2|AGE|Y|17
+1|CHIL|Y|Alex Opland
+2|AGE|Y|19
+1|CHIL|Y|William Opland
+2|AGE|Y|25
+1|CHIL|Y|Alphonso Opland
+2|AGE|Y|10
+1|INCOME|Y|51400
+0|FAM|Y|@F688@
+1|HUSB|Y|Antonio Midgett
+1|CHIL|Y|Teresa Midgett
+2|AGE|Y|13
+1|CHIL|Y|Donald Midgett
+2|AGE|Y|18
+1|CHIL|Y|Leo Midgett
+2|AGE|Y|1
+1|INCOME|Y|25800
+0|FAM|Y|@F689@
+1|HUSB|Y|Todd Doyle
+1|CHIL|Y|Deanna Doyle
+2|AGE|Y|8
+1|CHIL|Y|Harry Doyle
+2|AGE|Y|16
+1|CHIL|Y|Irene Doyle
+2|AGE|Y|23
+1|CHIL|Y|Andrew Doyle
+2|AGE|Y|3
+1|INCOME|Y|36100
+0|FAM|Y|@F690@
+1|HUSB|Y|David Keith
+1|CHIL|Y|Randy Keith
+2|AGE|Y|14
+1|CHIL|Y|Matthew Keith
+2|AGE|Y|13
+1|CHIL|Y|Maria Keith
+2|AGE|Y|23
+1|INCOME|Y|46800
+0|FAM|Y|@F691@
+1|HUSB|Y|Robert Roblow
+1|CHIL|Y|Crystal Roblow
+2|AGE|Y|12
+1|CHIL|Y|Stella Roblow
+2|AGE|Y|18
+1|CHIL|Y|Joseph Roblow
+2|AGE|Y|23
+1|CHIL|Y|Reba Roblow
+2|AGE|Y|24
+1|CHIL|Y|Ernest Roblow
+2|AGE|Y|5
+1|INCOME|Y|44700
+0|FAM|Y|@F692@
+1|HUSB|Y|Daniel Randle
+1|CHIL|Y|Tasha Randle
+2|AGE|Y|17
+1|CHIL|Y|Phyllis Randle
+2|AGE|Y|13
+1|CHIL|Y|Matthew Randle
+2|AGE|Y|19
+1|CHIL|Y|Barbara Randle
+2|AGE|Y|6
+1|CHIL|Y|Hector Randle
+2|AGE|Y|12
+1|INCOME|Y|30800
+0|FAM|Y|@F693@
+1|HUSB|Y|Billy Jennings
+1|CHIL|Y|Greg Jennings
+2|AGE|Y|10
+1|CHIL|Y|Jeremy Jennings
+2|AGE|Y|15
+1|CHIL|Y|Jason Jennings
+2|AGE|Y|8
+1|CHIL|Y|Carol Jennings
+2|AGE|Y|4
+1|INCOME|Y|45900
+0|FAM|Y|@F694@
+1|HUSB|Y|Donald Martinez
+1|CHIL|Y|Martha Martinez
+2|AGE|Y|9
+1|INCOME|Y|37000
+0|FAM|Y|@F695@
+1|HUSB|Y|James Stone
+1|CHIL|Y|Terrance Stone
+2|AGE|Y|3
+1|CHIL|Y|Anna Stone
+2|AGE|Y|10
+1|CHIL|Y|Mark Stone
+2|AGE|Y|20
+1|INCOME|Y|46200
+0|FAM|Y|@F696@
+1|HUSB|Y|Alvin Satterfield
+1|CHIL|Y|Jeffery Satterfield
+2|AGE|Y|6
+1|INCOME|Y|62400
+0|FAM|Y|@F697@
+1|HUSB|Y|Jeff Stalcup
+1|CHIL|Y|Joelle Stalcup
+2|AGE|Y|7
+1|CHIL|Y|Jennifer Stalcup
+2|AGE|Y|6
+1|INCOME|Y|42900
+0|FAM|Y|@F698@
+1|HUSB|Y|Jason Melvin
+1|CHIL|Y|Susan Melvin
+2|AGE|Y|14
+1|CHIL|Y|Stephen Melvin
+2|AGE|Y|5
+1|CHIL|Y|Alicia Melvin
+2|AGE|Y|2
+1|CHIL|Y|Joseph Melvin
+2|AGE|Y|20
+1|CHIL|Y|Shirley Melvin
+2|AGE|Y|17
+1|INCOME|Y|36800
+0|FAM|Y|@F699@
+1|HUSB|Y|James Steiner
+1|CHIL|Y|Nellie Steiner
+2|AGE|Y|8
+1|CHIL|Y|Cynthia Steiner
+2|AGE|Y|4
+1|INCOME|Y|52800
+0|FAM|Y|@F700@
+1|HUSB|Y|Brandon Dewald
+1|CHIL|Y|Jeffrey Dewald
+2|AGE|Y|15
+1|CHIL|Y|Mark Dewald
+2|AGE|Y|4
+1|INCOME|Y|57300
+0|FAM|Y|@F701@
+1|HUSB|Y|Charles Schweizer
+1|CHIL|Y|Rudolph Schweizer
+2|AGE|Y|4
+1|INCOME|Y|64100
+0|FAM|Y|@F702@
+1|HUSB|Y|James Frame
+1|CHIL|Y|Karen Frame
+2|AGE|Y|12
+1|CHIL|Y|Kathleen Frame
+2|AGE|Y|16
+1|INCOME|Y|56800
+0|FAM|Y|@F703@
+1|HUSB|Y|Jerry Vasquez
+1|CHIL|Y|Daniel Vasquez
+2|AGE|Y|9
+1|INCOME|Y|41700
+0|FAM|Y|@F704@
+1|HUSB|Y|Lance Calderon
+1|CHIL|Y|Andrew Calderon
+2|AGE|Y|3
+1|INCOME|Y|68100
+0|FAM|Y|@F705@
+1|HUSB|Y|Steven Holtzman
+1|CHIL|Y|Santiago Holtzman
+2|AGE|Y|18
+1|CHIL|Y|Clayton Holtzman
+2|AGE|Y|23
+1|CHIL|Y|Estefana Holtzman
+2|AGE|Y|10
+1|CHIL|Y|Mary Holtzman
+2|AGE|Y|7
+1|CHIL|Y|Jason Holtzman
+2|AGE|Y|2
+1|INCOME|Y|46000
+0|FAM|Y|@F706@
+1|HUSB|Y|Larry Anderson
+1|CHIL|Y|John Anderson
+2|AGE|Y|24
+1|CHIL|Y|Stephen Anderson
+2|AGE|Y|10
+1|INCOME|Y|38400
+0|FAM|Y|@F707@
+1|HUSB|Y|Larry Trump
+1|CHIL|Y|Timothy Trump
+2|AGE|Y|7
+1|CHIL|Y|Christopher Trump
+2|AGE|Y|21
+1|CHIL|Y|Claire Trump
+2|AGE|Y|24
+1|INCOME|Y|22500
+0|FAM|Y|@F708@
+1|HUSB|Y|Tyrone Astorga
+1|CHIL|Y|Gabriel Astorga
+2|AGE|Y|3
+1|INCOME|Y|25100
+0|FAM|Y|@F709@
+1|HUSB|Y|Frank Howington
+1|CHIL|Y|Yen Howington
+2|AGE|Y|4
+1|CHIL|Y|Renee Howington
+2|AGE|Y|21
+1|CHIL|Y|Edwin Howington
+2|AGE|Y|15
+1|CHIL|Y|Rick Howington
+2|AGE|Y|23
+1|CHIL|Y|Joseph Howington
+2|AGE|Y|19
+1|INCOME|Y|59300
+0|FAM|Y|@F710@
+1|HUSB|Y|Steve Dehaven
+1|CHIL|Y|Patricia Dehaven
+2|AGE|Y|10
+1|CHIL|Y|Isaac Dehaven
+2|AGE|Y|8
+1|CHIL|Y|Patricia Dehaven
+2|AGE|Y|2
+1|INCOME|Y|30100
+0|FAM|Y|@F711@
+1|HUSB|Y|Jose Blaine
+1|CHIL|Y|Gavin Blaine
+2|AGE|Y|4
+1|CHIL|Y|Alba Blaine
+2|AGE|Y|6
+1|CHIL|Y|Sandra Blaine
+2|AGE|Y|25
+1|CHIL|Y|James Blaine
+2|AGE|Y|22
+1|INCOME|Y|21100
+0|FAM|Y|@F712@
+1|HUSB|Y|Alfred Birkey
+1|CHIL|Y|Louise Birkey
+2|AGE|Y|7
+1|CHIL|Y|Howard Birkey
+2|AGE|Y|24
+1|CHIL|Y|Delia Birkey
+2|AGE|Y|8
+1|CHIL|Y|Suzanne Birkey
+2|AGE|Y|4
+1|INCOME|Y|36700
+0|FAM|Y|@F713@
+1|HUSB|Y|Jerome Williams
+1|CHIL|Y|Carol Williams
+2|AGE|Y|25
+1|CHIL|Y|Rosemarie Williams
+2|AGE|Y|13
+1|CHIL|Y|Cedric Williams
+2|AGE|Y|9
+1|INCOME|Y|34100
+0|FAM|Y|@F714@
+1|HUSB|Y|Cory Becerra
+1|CHIL|Y|Jonathan Becerra
+2|AGE|Y|12
+1|CHIL|Y|Natashia Becerra
+2|AGE|Y|5
+1|CHIL|Y|Ashley Becerra
+2|AGE|Y|25
+1|CHIL|Y|Steve Becerra
+2|AGE|Y|1
+1|CHIL|Y|Robert Becerra
+2|AGE|Y|16
+1|INCOME|Y|55700
+0|FAM|Y|@F715@
+1|HUSB|Y|Jonas Holmes
+1|CHIL|Y|Harold Holmes
+2|AGE|Y|18
+1|CHIL|Y|Donna Holmes
+2|AGE|Y|7
+1|INCOME|Y|46400
+0|FAM|Y|@F716@
+1|HUSB|Y|Joshua Thompson
+1|CHIL|Y|Rosalie Thompson
+2|AGE|Y|5
+1|CHIL|Y|Katrina Thompson
+2|AGE|Y|19
+1|CHIL|Y|Neil Thompson
+2|AGE|Y|25
+1|CHIL|Y|Kelly Thompson
+2|AGE|Y|6
+1|CHIL|Y|Berneice Thompson
+2|AGE|Y|11
+1|INCOME|Y|69700
+0|FAM|Y|@F717@
+1|HUSB|Y|Brain Medcalf
+1|CHIL|Y|Tyler Medcalf
+2|AGE|Y|19
+1|CHIL|Y|Jason Medcalf
+2|AGE|Y|9
+1|INCOME|Y|63200
+0|FAM|Y|@F718@
+1|HUSB|Y|James Brockhaus
+1|CHIL|Y|Jose Brockhaus
+2|AGE|Y|20
+1|CHIL|Y|Anthony Brockhaus
+2|AGE|Y|20
+1|CHIL|Y|Lauren Brockhaus
+2|AGE|Y|14
+1|CHIL|Y|Benjamin Brockhaus
+2|AGE|Y|1
+1|CHIL|Y|Delores Brockhaus
+2|AGE|Y|9
+1|INCOME|Y|24600
+0|FAM|Y|@F719@
+1|HUSB|Y|Harry Carrasquillo
+1|CHIL|Y|Michael Carrasquillo
+2|AGE|Y|18
+1|INCOME|Y|59100
+0|FAM|Y|@F720@
+1|HUSB|Y|Patrick Kohn
+1|CHIL|Y|Rachel Kohn
+2|AGE|Y|20
+1|INCOME|Y|48200
+0|FAM|Y|@F721@
+1|HUSB|Y|Zachary Salas
+1|CHIL|Y|Richard Salas
+2|AGE|Y|7
+1|INCOME|Y|23300
+0|FAM|Y|@F722@
+1|HUSB|Y|Bryan Pollock
+1|CHIL|Y|Morris Pollock
+2|AGE|Y|24
+1|CHIL|Y|Jose Pollock
+2|AGE|Y|8
+1|CHIL|Y|Robert Pollock
+2|AGE|Y|14
+1|INCOME|Y|25600
+0|FAM|Y|@F723@
+1|HUSB|Y|Odell Dunn
+1|CHIL|Y|Joseph Dunn
+2|AGE|Y|8
+1|CHIL|Y|Clarence Dunn
+2|AGE|Y|5
+1|CHIL|Y|Derek Dunn
+2|AGE|Y|22
+1|CHIL|Y|Kevin Dunn
+2|AGE|Y|22
+1|INCOME|Y|37400
+0|FAM|Y|@F724@
+1|HUSB|Y|Randy Martinez
+1|CHIL|Y|Adam Martinez
+2|AGE|Y|1
+1|CHIL|Y|Blake Martinez
+2|AGE|Y|18
+1|CHIL|Y|Felicia Martinez
+2|AGE|Y|8
+1|CHIL|Y|Jayson Martinez
+2|AGE|Y|4
+1|INCOME|Y|41400
+0|FAM|Y|@F725@
+1|HUSB|Y|Derek Bentley
+1|CHIL|Y|Timothy Bentley
+2|AGE|Y|24
+1|CHIL|Y|Christian Bentley
+2|AGE|Y|7
+1|INCOME|Y|68300
+0|FAM|Y|@F726@
+1|HUSB|Y|Joseph Smith
+1|CHIL|Y|Randy Smith
+2|AGE|Y|11
+1|CHIL|Y|Lori Smith
+2|AGE|Y|4
+1|INCOME|Y|57100
+0|FAM|Y|@F727@
+1|HUSB|Y|John Bocci
+1|CHIL|Y|Jack Bocci
+2|AGE|Y|10
+1|INCOME|Y|62200
+0|FAM|Y|@F728@
+1|HUSB|Y|James Whitesell
+1|CHIL|Y|Trent Whitesell
+2|AGE|Y|3
+1|CHIL|Y|Naomi Whitesell
+2|AGE|Y|2
+1|CHIL|Y|Timothy Whitesell
+2|AGE|Y|1
+1|CHIL|Y|Jack Whitesell
+2|AGE|Y|6
+1|INCOME|Y|60500
+0|FAM|Y|@F729@
+1|HUSB|Y|James Clark
+1|CHIL|Y|Cory Clark
+2|AGE|Y|22
+1|INCOME|Y|49800
+0|FAM|Y|@F730@
+1|HUSB|Y|Kerry White
+1|CHIL|Y|Lora White
+2|AGE|Y|7
+1|CHIL|Y|Ronald White
+2|AGE|Y|1
+1|CHIL|Y|William White
+2|AGE|Y|2
+1|CHIL|Y|Jay White
+2|AGE|Y|10
+1|INCOME|Y|27100
+0|FAM|Y|@F731@
+1|HUSB|Y|John Terry
+1|CHIL|Y|Charles Terry
+2|AGE|Y|1
+1|CHIL|Y|John Terry
+2|AGE|Y|10
+1|CHIL|Y|Andrew Terry
+2|AGE|Y|21
+1|CHIL|Y|Aurora Terry
+2|AGE|Y|9
+1|CHIL|Y|Jan Terry
+2|AGE|Y|17
+1|INCOME|Y|20900
+0|FAM|Y|@F732@
+1|HUSB|Y|Mark Phillips
+1|CHIL|Y|Janet Phillips
+2|AGE|Y|11
+1|INCOME|Y|26400
+0|FAM|Y|@F733@
+1|HUSB|Y|James Wilson
+1|CHIL|Y|Ruby Wilson
+2|AGE|Y|10
+1|INCOME|Y|35500
+0|FAM|Y|@F734@
+1|HUSB|Y|Michael Velez
+1|CHIL|Y|Megan Velez
+2|AGE|Y|17
+1|CHIL|Y|Joe Velez
+2|AGE|Y|4
+1|CHIL|Y|Michael Velez
+2|AGE|Y|21
+1|CHIL|Y|Sylvia Velez
+2|AGE|Y|2
+1|CHIL|Y|Erma Velez
+2|AGE|Y|4
+1|INCOME|Y|57200
+0|FAM|Y|@F735@
+1|HUSB|Y|Randall Jarzombek
+1|CHIL|Y|David Jarzombek
+2|AGE|Y|16
+1|CHIL|Y|William Jarzombek
+2|AGE|Y|13
+1|CHIL|Y|Arleen Jarzombek
+2|AGE|Y|18
+1|INCOME|Y|31100
+0|FAM|Y|@F736@
+1|HUSB|Y|William Ringhouse
+1|CHIL|Y|Marguerite Ringhouse
+2|AGE|Y|3
+1|CHIL|Y|Ruth Ringhouse
+2|AGE|Y|25
+1|CHIL|Y|Dorothy Ringhouse
+2|AGE|Y|24
+1|CHIL|Y|David Ringhouse
+2|AGE|Y|7
+1|CHIL|Y|Elizabeth Ringhouse
+2|AGE|Y|21
+1|INCOME|Y|33900
+0|FAM|Y|@F737@
+1|HUSB|Y|James Horn
+1|CHIL|Y|Amanda Horn
+2|AGE|Y|17
+1|INCOME|Y|69900
+0|FAM|Y|@F738@
+1|HUSB|Y|William Edwards
+1|CHIL|Y|Manuel Edwards
+2|AGE|Y|6
+1|CHIL|Y|Charles Edwards
+2|AGE|Y|16
+1|CHIL|Y|Steven Edwards
+2|AGE|Y|19
+1|INCOME|Y|39900
+0|FAM|Y|@F739@
+1|HUSB|Y|John Arp
+1|CHIL|Y|Judy Arp
+2|AGE|Y|13
+1|CHIL|Y|Catherine Arp
+2|AGE|Y|20
+1|CHIL|Y|Christopher Arp
+2|AGE|Y|20
+1|CHIL|Y|Michael Arp
+2|AGE|Y|18
+1|CHIL|Y|William Arp
+2|AGE|Y|16
+1|INCOME|Y|44100
+0|FAM|Y|@F740@
+1|HUSB|Y|Jay Conroy
+1|CHIL|Y|Gladys Conroy
+2|AGE|Y|14
+1|CHIL|Y|Stanley Conroy
+2|AGE|Y|12
+1|CHIL|Y|Dustin Conroy
+2|AGE|Y|19
+1|INCOME|Y|38000
+0|FAM|Y|@F741@
+1|HUSB|Y|Leslie Melgar
+1|CHIL|Y|Gary Melgar
+2|AGE|Y|15
+1|CHIL|Y|Betty Melgar
+2|AGE|Y|23
+1|CHIL|Y|Shirley Melgar
+2|AGE|Y|21
+1|INCOME|Y|63700
+0|FAM|Y|@F742@
+1|HUSB|Y|Edward Smith
+1|CHIL|Y|Opal Smith
+2|AGE|Y|20
+1|CHIL|Y|Edward Smith
+2|AGE|Y|7
+1|CHIL|Y|Peggy Smith
+2|AGE|Y|1
+1|CHIL|Y|Shirley Smith
+2|AGE|Y|2
+1|INCOME|Y|27900
+0|FAM|Y|@F743@
+1|HUSB|Y|John Call
+1|CHIL|Y|Jarrod Call
+2|AGE|Y|11
+1|CHIL|Y|Louisa Call
+2|AGE|Y|19
+1|CHIL|Y|Jonathan Call
+2|AGE|Y|8
+1|CHIL|Y|Nina Call
+2|AGE|Y|5
+1|INCOME|Y|44800
+0|FAM|Y|@F744@
+1|HUSB|Y|Lorenzo White
+1|CHIL|Y|Joseph White
+2|AGE|Y|5
+1|CHIL|Y|Pamela White
+2|AGE|Y|6
+1|INCOME|Y|41600
+0|FAM|Y|@F745@
+1|HUSB|Y|Matthew Weigand
+1|CHIL|Y|Linda Weigand
+2|AGE|Y|5
+1|CHIL|Y|Ahmad Weigand
+2|AGE|Y|9
+1|CHIL|Y|Rosa Weigand
+2|AGE|Y|15
+1|CHIL|Y|Dean Weigand
+2|AGE|Y|10
+1|CHIL|Y|Margaret Weigand
+2|AGE|Y|13
+1|INCOME|Y|20000
+0|FAM|Y|@F746@
+1|HUSB|Y|Christopher Oswalt
+1|CHIL|Y|Laura Oswalt
+2|AGE|Y|21
+1|INCOME|Y|63800
+0|FAM|Y|@F747@
+1|HUSB|Y|Thomas Perkins
+1|CHIL|Y|Marc Perkins
+2|AGE|Y|21
+1|CHIL|Y|Francis Perkins
+2|AGE|Y|7
+1|CHIL|Y|James Perkins
+2|AGE|Y|14
+1|CHIL|Y|Mary Perkins
+2|AGE|Y|13
+1|CHIL|Y|Archie Perkins
+2|AGE|Y|16
+1|INCOME|Y|38200
+0|FAM|Y|@F748@
+1|HUSB|Y|Bill Williams
+1|CHIL|Y|Harry Williams
+2|AGE|Y|13
+1|CHIL|Y|Calvin Williams
+2|AGE|Y|12
+1|CHIL|Y|Michael Williams
+2|AGE|Y|23
+1|INCOME|Y|25200
+0|FAM|Y|@F749@
+1|HUSB|Y|Richard Chin
+1|CHIL|Y|Mildred Chin
+2|AGE|Y|14
+1|CHIL|Y|Doris Chin
+2|AGE|Y|17
+1|CHIL|Y|Hester Chin
+2|AGE|Y|2
+1|CHIL|Y|Ricky Chin
+2|AGE|Y|14
+1|INCOME|Y|32100
+0|FAM|Y|@F750@
+1|HUSB|Y|Walter Ogara
+1|CHIL|Y|Claude Ogara
+2|AGE|Y|2
+1|CHIL|Y|Angela Ogara
+2|AGE|Y|16
+1|CHIL|Y|Robert Ogara
+2|AGE|Y|12
+1|CHIL|Y|Daniel Ogara
+2|AGE|Y|23
+1|CHIL|Y|Jessie Ogara
+2|AGE|Y|14
+1|INCOME|Y|40500
+0|FAM|Y|@F751@
+1|HUSB|Y|John Dolejsi
+1|CHIL|Y|Gertrude Dolejsi
+2|AGE|Y|2
+1|CHIL|Y|Harry Dolejsi
+2|AGE|Y|6
+1|CHIL|Y|Noel Dolejsi
+2|AGE|Y|22
+1|CHIL|Y|Aaron Dolejsi
+2|AGE|Y|19
+1|CHIL|Y|Albert Dolejsi
+2|AGE|Y|12
+1|INCOME|Y|35700
+0|FAM|Y|@F752@
+1|HUSB|Y|Daryl Thorp
+1|CHIL|Y|Lena Thorp
+2|AGE|Y|10
+1|INCOME|Y|35100
+0|FAM|Y|@F753@
+1|HUSB|Y|Larry Florence
+1|CHIL|Y|Christine Florence
+2|AGE|Y|7
+1|INCOME|Y|23000
+0|FAM|Y|@F754@
+1|HUSB|Y|Willie Tirado
+1|CHIL|Y|Roger Tirado
+2|AGE|Y|11
+1|CHIL|Y|Tammy Tirado
+2|AGE|Y|20
+1|INCOME|Y|60200
+0|FAM|Y|@F755@
+1|HUSB|Y|Joseph Clouse
+1|CHIL|Y|Dolores Clouse
+2|AGE|Y|17
+1|INCOME|Y|52900
+0|FAM|Y|@F756@
+1|HUSB|Y|Christopher Moore
+1|CHIL|Y|Peggy Moore
+2|AGE|Y|15
+1|CHIL|Y|William Moore
+2|AGE|Y|20
+1|CHIL|Y|Ann Moore
+2|AGE|Y|2
+1|CHIL|Y|Jamie Moore
+2|AGE|Y|9
+1|INCOME|Y|49600
+0|FAM|Y|@F757@
+1|HUSB|Y|Jeffrey Miller
+1|CHIL|Y|Dorothy Miller
+2|AGE|Y|17
+1|CHIL|Y|Alfred Miller
+2|AGE|Y|23
+1|CHIL|Y|Kevin Miller
+2|AGE|Y|20
+1|INCOME|Y|51400
+0|FAM|Y|@F758@
+1|HUSB|Y|Jose Korczynski
+1|CHIL|Y|Albert Korczynski
+2|AGE|Y|3
+1|CHIL|Y|Jose Korczynski
+2|AGE|Y|4
+1|CHIL|Y|Elizabeth Korczynski
+2|AGE|Y|23
+1|INCOME|Y|33500
+0|FAM|Y|@F759@
+1|HUSB|Y|John Mermis
+1|CHIL|Y|Tammy Mermis
+2|AGE|Y|20
+1|INCOME|Y|56100
+0|FAM|Y|@F760@
+1|HUSB|Y|Garry Kissell
+1|CHIL|Y|Boris Kissell
+2|AGE|Y|22
+1|CHIL|Y|Cristen Kissell
+2|AGE|Y|11
+1|CHIL|Y|Steve Kissell
+2|AGE|Y|6
+1|INCOME|Y|35900
+0|FAM|Y|@F761@
+1|HUSB|Y|Michael Gaines
+1|CHIL|Y|Rhonda Gaines
+2|AGE|Y|25
+1|CHIL|Y|David Gaines
+2|AGE|Y|22
+1|CHIL|Y|Eric Gaines
+2|AGE|Y|3
+1|CHIL|Y|Linda Gaines
+2|AGE|Y|14
+1|CHIL|Y|Judith Gaines
+2|AGE|Y|10
+1|INCOME|Y|42100
+0|FAM|Y|@F762@
+1|HUSB|Y|Jackson Barrett
+1|CHIL|Y|Tracy Barrett
+2|AGE|Y|20
+1|CHIL|Y|Diane Barrett
+2|AGE|Y|22
+1|CHIL|Y|Rodney Barrett
+2|AGE|Y|7
+1|CHIL|Y|Helen Barrett
+2|AGE|Y|12
+1|INCOME|Y|43000
+0|FAM|Y|@F763@
+1|HUSB|Y|Gary Spitler
+1|CHIL|Y|David Spitler
+2|AGE|Y|18
+1|CHIL|Y|Laura Spitler
+2|AGE|Y|6
+1|CHIL|Y|Geraldine Spitler
+2|AGE|Y|17
+1|CHIL|Y|Joe Spitler
+2|AGE|Y|3
+1|CHIL|Y|Margaret Spitler
+2|AGE|Y|7
+1|INCOME|Y|21700
+0|FAM|Y|@F764@
+1|HUSB|Y|Gordon Mcgrew
+1|CHIL|Y|Steven Mcgrew
+2|AGE|Y|4
+1|CHIL|Y|Jean Mcgrew
+2|AGE|Y|5
+1|CHIL|Y|Tiera Mcgrew
+2|AGE|Y|7
+1|CHIL|Y|Justin Mcgrew
+2|AGE|Y|23
+1|INCOME|Y|41500
+0|FAM|Y|@F765@
+1|HUSB|Y|William Henderson
+1|CHIL|Y|John Henderson
+2|AGE|Y|10
+1|INCOME|Y|34400
+0|FAM|Y|@F766@
+1|HUSB|Y|Donald Blair
+1|CHIL|Y|Demetria Blair
+2|AGE|Y|6
+1|CHIL|Y|Leslie Blair
+2|AGE|Y|4
+1|CHIL|Y|Chad Blair
+2|AGE|Y|14
+1|INCOME|Y|46500
+0|FAM|Y|@F767@
+1|HUSB|Y|Rudolph Thompson
+1|CHIL|Y|Danny Thompson
+2|AGE|Y|24
+1|CHIL|Y|Anita Thompson
+2|AGE|Y|11
+1|INCOME|Y|27600
+0|FAM|Y|@F768@
+1|HUSB|Y|Larry Howell
+1|CHIL|Y|Mark Howell
+2|AGE|Y|12
+1|CHIL|Y|Patricia Howell
+2|AGE|Y|3
+1|INCOME|Y|57100
+0|FAM|Y|@F769@
+1|HUSB|Y|Carlos Tiemens
+1|CHIL|Y|Wendy Tiemens
+2|AGE|Y|2
+1|CHIL|Y|Jacob Tiemens
+2|AGE|Y|6
+1|INCOME|Y|64200
+0|FAM|Y|@F770@
+1|HUSB|Y|Ronald Powers
+1|CHIL|Y|Sandy Powers
+2|AGE|Y|6
+1|CHIL|Y|Lisa Powers
+2|AGE|Y|1
+1|CHIL|Y|Robert Powers
+2|AGE|Y|23
+1|CHIL|Y|Michelle Powers
+2|AGE|Y|20
+1|CHIL|Y|Gary Powers
+2|AGE|Y|16
+1|INCOME|Y|24700
+0|FAM|Y|@F771@
+1|HUSB|Y|Frank Jones
+1|CHIL|Y|Anna Jones
+2|AGE|Y|8
+1|CHIL|Y|Eugene Jones
+2|AGE|Y|18
+1|CHIL|Y|Robert Jones
+2|AGE|Y|17
+1|CHIL|Y|Benjamin Jones
+2|AGE|Y|3
+1|INCOME|Y|64100
+0|FAM|Y|@F772@
+1|HUSB|Y|Omar Scovill
+1|CHIL|Y|Wayne Scovill
+2|AGE|Y|12
+1|CHIL|Y|Randy Scovill
+2|AGE|Y|23
+1|CHIL|Y|Grace Scovill
+2|AGE|Y|5
+1|INCOME|Y|58100
+0|FAM|Y|@F773@
+1|HUSB|Y|Dustin Harris
+1|CHIL|Y|Rosemarie Harris
+2|AGE|Y|23
+1|CHIL|Y|Regina Harris
+2|AGE|Y|21
+1|CHIL|Y|Corey Harris
+2|AGE|Y|13
+1|INCOME|Y|35200
+0|FAM|Y|@F774@
+1|HUSB|Y|Dennis Lashley
+1|CHIL|Y|Luis Lashley
+2|AGE|Y|23
+1|CHIL|Y|Annemarie Lashley
+2|AGE|Y|7
+1|INCOME|Y|43700
+0|FAM|Y|@F775@
+1|HUSB|Y|Douglas Schaunaman
+1|CHIL|Y|Frankie Schaunaman
+2|AGE|Y|15
+1|CHIL|Y|Pamela Schaunaman
+2|AGE|Y|15
+1|CHIL|Y|Mary Schaunaman
+2|AGE|Y|11
+1|INCOME|Y|44700
+0|FAM|Y|@F776@
+1|HUSB|Y|Michael Cunningham
+1|CHIL|Y|Reginald Cunningham
+2|AGE|Y|10
+1|CHIL|Y|Erica Cunningham
+2|AGE|Y|24
+1|CHIL|Y|Andrea Cunningham
+2|AGE|Y|7
+1|INCOME|Y|32700
+0|FAM|Y|@F777@
+1|HUSB|Y|Ryan Gurke
+1|CHIL|Y|Kenneth Gurke
+2|AGE|Y|1
+1|CHIL|Y|Diane Gurke
+2|AGE|Y|3
+1|INCOME|Y|63900
+0|FAM|Y|@F778@
+1|HUSB|Y|John Nicholson
+1|CHIL|Y|Christopher Nicholson
+2|AGE|Y|19
+1|CHIL|Y|Raylene Nicholson
+2|AGE|Y|1
+1|INCOME|Y|52300
+0|FAM|Y|@F779@
+1|HUSB|Y|James Oconnell
+1|CHIL|Y|John Oconnell
+2|AGE|Y|7
+1|CHIL|Y|Mark Oconnell
+2|AGE|Y|9
+1|CHIL|Y|Josefina Oconnell
+2|AGE|Y|3
+1|CHIL|Y|Earl Oconnell
+2|AGE|Y|20
+1|CHIL|Y|Roger Oconnell
+2|AGE|Y|2
+1|INCOME|Y|20100
+0|FAM|Y|@F780@
+1|HUSB|Y|Sheldon Haines
+1|CHIL|Y|Jaclyn Haines
+2|AGE|Y|7
+1|CHIL|Y|Luz Haines
+2|AGE|Y|14
+1|INCOME|Y|44700
+0|FAM|Y|@F781@
+1|HUSB|Y|Randolph Pennington
+1|CHIL|Y|John Pennington
+2|AGE|Y|13
+1|CHIL|Y|Dustin Pennington
+2|AGE|Y|14
+1|CHIL|Y|Raquel Pennington
+2|AGE|Y|22
+1|CHIL|Y|Mohamed Pennington
+2|AGE|Y|11
+1|INCOME|Y|54600
+0|FAM|Y|@F782@
+1|HUSB|Y|Howard Wekenborg
+1|CHIL|Y|Jeannette Wekenborg
+2|AGE|Y|18
+1|CHIL|Y|Wayne Wekenborg
+2|AGE|Y|20
+1|CHIL|Y|Kara Wekenborg
+2|AGE|Y|4
+1|INCOME|Y|24000
+0|FAM|Y|@F783@
+1|HUSB|Y|Roger Bonham
+1|CHIL|Y|Chad Bonham
+2|AGE|Y|11
+1|CHIL|Y|Marian Bonham
+2|AGE|Y|15
+1|INCOME|Y|65600
+0|FAM|Y|@F784@
+1|HUSB|Y|Brent Little
+1|CHIL|Y|Marguerite Little
+2|AGE|Y|3
+1|CHIL|Y|Jack Little
+2|AGE|Y|9
+1|CHIL|Y|Jeana Little
+2|AGE|Y|11
+1|CHIL|Y|Wesley Little
+2|AGE|Y|3
+1|CHIL|Y|Noel Little
+2|AGE|Y|10
+1|INCOME|Y|30000
+0|FAM|Y|@F785@
+1|HUSB|Y|James Jones
+1|CHIL|Y|Harold Jones
+2|AGE|Y|21
+1|CHIL|Y|Roy Jones
+2|AGE|Y|19
+1|INCOME|Y|32800
+0|FAM|Y|@F786@
+1|HUSB|Y|Guadalupe Weston
+1|CHIL|Y|Steven Weston
+2|AGE|Y|14
+1|CHIL|Y|Ronald Weston
+2|AGE|Y|10
+1|CHIL|Y|Jeffery Weston
+2|AGE|Y|5
+1|CHIL|Y|Florence Weston
+2|AGE|Y|3
+1|CHIL|Y|Andy Weston
+2|AGE|Y|14
+1|INCOME|Y|40600
+0|FAM|Y|@F787@
+1|HUSB|Y|Brian Ranney
+1|CHIL|Y|Vicki Ranney
+2|AGE|Y|7
+1|INCOME|Y|36800
+0|FAM|Y|@F788@
+1|HUSB|Y|James Kelley
+1|CHIL|Y|Teresa Kelley
+2|AGE|Y|7
+1|CHIL|Y|Tommye Kelley
+2|AGE|Y|21
+1|INCOME|Y|32700
+0|FAM|Y|@F789@
+1|HUSB|Y|Douglas Underdown
+1|CHIL|Y|William Underdown
+2|AGE|Y|21
+1|CHIL|Y|Jean Underdown
+2|AGE|Y|23
+1|CHIL|Y|Roberto Underdown
+2|AGE|Y|21
+1|CHIL|Y|Toney Underdown
+2|AGE|Y|20
+1|CHIL|Y|Douglas Underdown
+2|AGE|Y|8
+1|INCOME|Y|61400
+0|FAM|Y|@F790@
+1|HUSB|Y|John Hall
+1|CHIL|Y|Andy Hall
+2|AGE|Y|22
+1|INCOME|Y|53800
+0|FAM|Y|@F791@
+1|HUSB|Y|Samuel Edwards
+1|CHIL|Y|Peter Edwards
+2|AGE|Y|9
+1|CHIL|Y|Keith Edwards
+2|AGE|Y|25
+1|CHIL|Y|Allison Edwards
+2|AGE|Y|25
+1|CHIL|Y|Robin Edwards
+2|AGE|Y|21
+1|CHIL|Y|Kenneth Edwards
+2|AGE|Y|2
+1|INCOME|Y|34700
+0|FAM|Y|@F792@
+1|HUSB|Y|Len Murphy
+1|CHIL|Y|Michael Murphy
+2|AGE|Y|8
+1|CHIL|Y|Marie Murphy
+2|AGE|Y|24
+1|CHIL|Y|Jacob Murphy
+2|AGE|Y|20
+1|CHIL|Y|Marvin Murphy
+2|AGE|Y|21
+1|CHIL|Y|Travis Murphy
+2|AGE|Y|12
+1|INCOME|Y|31600
+0|FAM|Y|@F793@
+1|HUSB|Y|Jeremy Schull
+1|CHIL|Y|Helen Schull
+2|AGE|Y|14
+1|CHIL|Y|Connie Schull
+2|AGE|Y|8
+1|CHIL|Y|Paul Schull
+2|AGE|Y|19
+1|INCOME|Y|37200
+0|FAM|Y|@F794@
+1|HUSB|Y|Vito Garrett
+1|CHIL|Y|Paul Garrett
+2|AGE|Y|6
+1|CHIL|Y|Gerald Garrett
+2|AGE|Y|15
+1|INCOME|Y|50100
+0|FAM|Y|@F795@
+1|HUSB|Y|Jim Voorhees
+1|CHIL|Y|Robin Voorhees
+2|AGE|Y|15
+1|CHIL|Y|Marguerita Voorhees
+2|AGE|Y|20
+1|CHIL|Y|Jane Voorhees
+2|AGE|Y|23
+1|INCOME|Y|33800
+0|FAM|Y|@F796@
+1|HUSB|Y|Christopher Howard
+1|CHIL|Y|Kenneth Howard
+2|AGE|Y|6
+1|INCOME|Y|34400
+0|FAM|Y|@F797@
+1|HUSB|Y|Patrick Student
+1|CHIL|Y|Marie Student
+2|AGE|Y|21
+1|CHIL|Y|Cecelia Student
+2|AGE|Y|8
+1|CHIL|Y|Jacob Student
+2|AGE|Y|10
+1|CHIL|Y|James Student
+2|AGE|Y|10
+1|CHIL|Y|Elizabeth Student
+2|AGE|Y|23
+1|INCOME|Y|28500
+0|FAM|Y|@F798@
+1|HUSB|Y|Matthew Baeza
+1|CHIL|Y|Nancy Baeza
+2|AGE|Y|11
+1|CHIL|Y|Armando Baeza
+2|AGE|Y|20
+1|CHIL|Y|Krystyna Baeza
+2|AGE|Y|22
+1|CHIL|Y|John Baeza
+2|AGE|Y|8
+1|CHIL|Y|Carroll Baeza
+2|AGE|Y|9
+1|INCOME|Y|42100
+0|FAM|Y|@F799@
+1|HUSB|Y|Carlos Sage
+1|CHIL|Y|Mike Sage
+2|AGE|Y|12
+1|INCOME|Y|63800
+0|FAM|Y|@F800@
+1|HUSB|Y|Douglas Marshall
+1|CHIL|Y|Robert Marshall
+2|AGE|Y|4
+1|CHIL|Y|Daniel Marshall
+2|AGE|Y|24
+1|CHIL|Y|Jerome Marshall
+2|AGE|Y|12
+1|CHIL|Y|Ann Marshall
+2|AGE|Y|5
+1|CHIL|Y|Anthony Marshall
+2|AGE|Y|25
+1|INCOME|Y|53800
+0|FAM|Y|@F801@
+1|WIFE|Y|Dorothy Yacko
+1|CHIL|Y|Marion Glenn
+2|AGE|Y|4
+1|INCOME|Y|36600
+0|FAM|Y|@F802@
+1|WIFE|Y|Mae Price
+1|CHIL|Y|Anthony Melanson
+2|AGE|Y|12
+1|CHIL|Y|Denise Melanson
+2|AGE|Y|21
+1|CHIL|Y|Debbie Melanson
+2|AGE|Y|14
+1|CHIL|Y|William Melanson
+2|AGE|Y|9
+1|INCOME|Y|57400
+0|FAM|Y|@F803@
+1|WIFE|Y|Lillian Lavoy
+1|CHIL|Y|James Crist
+2|AGE|Y|14
+1|CHIL|Y|Stephen Crist
+2|AGE|Y|22
+1|CHIL|Y|Lila Crist
+2|AGE|Y|18
+1|CHIL|Y|Jerry Crist
+2|AGE|Y|5
+1|CHIL|Y|Stephanie Crist
+2|AGE|Y|9
+1|INCOME|Y|64800
+0|FAM|Y|@F804@
+1|WIFE|Y|Julia Cianciola
+1|CHIL|Y|Fred Huntley
+2|AGE|Y|10
+1|INCOME|Y|68200
+0|FAM|Y|@F805@
+1|WIFE|Y|Carol Platt
+1|CHIL|Y|Herbert Williams
+2|AGE|Y|22
+1|INCOME|Y|30400
+0|FAM|Y|@F806@
+1|WIFE|Y|Kathryn Gale
+1|CHIL|Y|Charles Bryant
+2|AGE|Y|10
+1|INCOME|Y|59600
+0|FAM|Y|@F807@
+1|WIFE|Y|Betty Mccutcheon
+1|CHIL|Y|Elwood Patterson
+2|AGE|Y|22
+1|CHIL|Y|Suzanne Patterson
+2|AGE|Y|9
+1|CHIL|Y|Melvin Patterson
+2|AGE|Y|4
+1|CHIL|Y|Jesse Patterson
+2|AGE|Y|10
+1|INCOME|Y|26800
+0|FAM|Y|@F808@
+1|WIFE|Y|Marie Rowland
+1|CHIL|Y|Kathryn Dirico
+2|AGE|Y|25
+1|INCOME|Y|43300
+0|FAM|Y|@F809@
+1|WIFE|Y|Tiffany Velazquez
+1|CHIL|Y|Lizzie Brown
+2|AGE|Y|19
+1|CHIL|Y|Edward Brown
+2|AGE|Y|6
+1|INCOME|Y|29600
+0|FAM|Y|@F810@
+1|WIFE|Y|Sherry Fritz
+1|CHIL|Y|Mary Laws
+2|AGE|Y|11
+1|CHIL|Y|Willie Laws
+2|AGE|Y|20
+1|CHIL|Y|Fernando Laws
+2|AGE|Y|10
+1|INCOME|Y|57600
+0|FAM|Y|@F811@
+1|WIFE|Y|Mary Spikes
+1|CHIL|Y|Christina Witherite
+2|AGE|Y|9
+1|CHIL|Y|Jack Witherite
+2|AGE|Y|9
+1|INCOME|Y|62900
+0|FAM|Y|@F812@
+1|WIFE|Y|Margaret Pace
+1|CHIL|Y|Melvin Cowart
+2|AGE|Y|14
+1|CHIL|Y|Gloria Cowart
+2|AGE|Y|5
+1|INCOME|Y|49500
+0|FAM|Y|@F813@
+1|WIFE|Y|Laura Kline
+1|CHIL|Y|James Jolly
+2|AGE|Y|11
+1|CHIL|Y|Vito Jolly
+2|AGE|Y|16
+1|CHIL|Y|Ronald Jolly
+2|AGE|Y|17
+1|CHIL|Y|Janie Jolly
+2|AGE|Y|2
+1|CHIL|Y|Gwendolyn Jolly
+2|AGE|Y|22
+1|INCOME|Y|66500
+0|FAM|Y|@F814@
+1|WIFE|Y|Judy Erickson
+1|CHIL|Y|Ryan Barron
+2|AGE|Y|19
+1|CHIL|Y|Gladys Barron
+2|AGE|Y|7
+1|CHIL|Y|Laura Barron
+2|AGE|Y|16
+1|CHIL|Y|Charlotte Barron
+2|AGE|Y|16
+1|INCOME|Y|45600
+0|FAM|Y|@F815@
+1|WIFE|Y|Kelli Hollins
+1|CHIL|Y|Guadalupe Treece
+2|AGE|Y|20
+1|CHIL|Y|Corine Treece
+2|AGE|Y|25
+1|CHIL|Y|Leigh Treece
+2|AGE|Y|8
+1|INCOME|Y|34800
+0|FAM|Y|@F816@
+1|WIFE|Y|Sarah Watson
+1|CHIL|Y|Jacqueline Derose
+2|AGE|Y|5
+1|CHIL|Y|Norma Derose
+2|AGE|Y|4
+1|CHIL|Y|Selena Derose
+2|AGE|Y|2
+1|INCOME|Y|54800
+0|FAM|Y|@F817@
+1|WIFE|Y|Tristan Swinton
+1|CHIL|Y|Nelson Kelly
+2|AGE|Y|2
+1|CHIL|Y|Barbara Kelly
+2|AGE|Y|23
+1|CHIL|Y|Frances Kelly
+2|AGE|Y|3
+1|CHIL|Y|Dave Kelly
+2|AGE|Y|6
+1|CHIL|Y|Kimberley Kelly
+2|AGE|Y|16
+1|INCOME|Y|47000
+0|FAM|Y|@F818@
+1|WIFE|Y|Cynthia Esposito
+1|CHIL|Y|Cynthia Bjork
+2|AGE|Y|19
+1|INCOME|Y|40500
+0|FAM|Y|@F819@
+1|WIFE|Y|Maria Chantler
+1|CHIL|Y|Michael Harris
+2|AGE|Y|7
+1|CHIL|Y|Carl Harris
+2|AGE|Y|9
+1|CHIL|Y|Debbie Harris
+2|AGE|Y|22
+1|INCOME|Y|52100
+0|FAM|Y|@F820@
+1|WIFE|Y|Florence Clune
+1|CHIL|Y|Laurie Scott
+2|AGE|Y|25
+1|CHIL|Y|Michael Scott
+2|AGE|Y|15
+1|CHIL|Y|Daniel Scott
+2|AGE|Y|22
+1|INCOME|Y|49500
+0|FAM|Y|@F821@
+1|WIFE|Y|Mary Elder
+1|CHIL|Y|Joshua Canal
+2|AGE|Y|19
+1|CHIL|Y|Gaynell Canal
+2|AGE|Y|6
+1|CHIL|Y|Jerome Canal
+2|AGE|Y|15
+1|INCOME|Y|31100
+0|FAM|Y|@F822@
+1|WIFE|Y|Phyllis Shackford
+1|CHIL|Y|Jennifer West
+2|AGE|Y|10
+1|CHIL|Y|Allen West
+2|AGE|Y|23
+1|CHIL|Y|Keith West
+2|AGE|Y|3
+1|CHIL|Y|Reynaldo West
+2|AGE|Y|8
+1|INCOME|Y|58400
+0|FAM|Y|@F823@
+1|WIFE|Y|Shasta Jennings
+1|CHIL|Y|Clemmie Dalessandro
+2|AGE|Y|5
+1|CHIL|Y|Douglas Dalessandro
+2|AGE|Y|13
+1|CHIL|Y|Sheena Dalessandro
+2|AGE|Y|14
+1|CHIL|Y|Bruce Dalessandro
+2|AGE|Y|19
+1|CHIL|Y|Jill Dalessandro
+2|AGE|Y|18
+1|INCOME|Y|67600
+0|FAM|Y|@F824@
+1|WIFE|Y|Mary Marino
+1|CHIL|Y|Mary Ortiz
+2|AGE|Y|5
+1|CHIL|Y|Willie Ortiz
+2|AGE|Y|15
+1|INCOME|Y|26600
+0|FAM|Y|@F825@
+1|WIFE|Y|Michelle Overton
+1|CHIL|Y|David Homza
+2|AGE|Y|2
+1|CHIL|Y|Micheal Homza
+2|AGE|Y|13
+1|CHIL|Y|Nina Homza
+2|AGE|Y|14
+1|INCOME|Y|41300
+0|FAM|Y|@F826@
+1|WIFE|Y|Dwana Paul
+1|CHIL|Y|Frankie Wood
+2|AGE|Y|25
+1|INCOME|Y|49600
+0|FAM|Y|@F827@
+1|WIFE|Y|Lillian Hunter
+1|CHIL|Y|Shelly Quintal
+2|AGE|Y|24
+1|CHIL|Y|Andrew Quintal
+2|AGE|Y|4
+1|INCOME|Y|47800
+0|FAM|Y|@F828@
+1|WIFE|Y|Margaret Nelson
+1|CHIL|Y|Juan Daniel
+2|AGE|Y|11
+1|CHIL|Y|Tom Daniel
+2|AGE|Y|9
+1|INCOME|Y|38100
+0|FAM|Y|@F829@
+1|WIFE|Y|Barbara Holloway
+1|CHIL|Y|Christopher Rogers
+2|AGE|Y|22
+1|INCOME|Y|33700
+0|FAM|Y|@F830@
+1|WIFE|Y|Donna Whitten
+1|CHIL|Y|Jose Holliman
+2|AGE|Y|22
+1|CHIL|Y|Elvira Holliman
+2|AGE|Y|1
+1|CHIL|Y|Oliva Holliman
+2|AGE|Y|15
+1|INCOME|Y|53900
+0|FAM|Y|@F831@
+1|WIFE|Y|Sharon Coates
+1|CHIL|Y|Darla Goodrich
+2|AGE|Y|13
+1|CHIL|Y|Heidi Goodrich
+2|AGE|Y|4
+1|CHIL|Y|Billy Goodrich
+2|AGE|Y|16
+1|CHIL|Y|Ethel Goodrich
+2|AGE|Y|6
+1|INCOME|Y|26900
+0|FAM|Y|@F832@
+1|WIFE|Y|Angela Klein
+1|CHIL|Y|Arnoldo Trinh
+2|AGE|Y|5
+1|CHIL|Y|Laurie Trinh
+2|AGE|Y|17
+1|CHIL|Y|Trinidad Trinh
+2|AGE|Y|10
+1|CHIL|Y|Lance Trinh
+2|AGE|Y|7
+1|CHIL|Y|Larry Trinh
+2|AGE|Y|11
+1|INCOME|Y|24200
+0|FAM|Y|@F833@
+1|WIFE|Y|Alaina Oliver
+1|CHIL|Y|Katherine Hemrich
+2|AGE|Y|10
+1|CHIL|Y|Dana Hemrich
+2|AGE|Y|24
+1|CHIL|Y|Roger Hemrich
+2|AGE|Y|13
+1|CHIL|Y|Kent Hemrich
+2|AGE|Y|14
+1|INCOME|Y|43900
+0|FAM|Y|@F834@
+1|WIFE|Y|Nancy Spangler
+1|CHIL|Y|Odell Blackman
+2|AGE|Y|17
+1|CHIL|Y|Randy Blackman
+2|AGE|Y|18
+1|CHIL|Y|Byron Blackman
+2|AGE|Y|21
+1|CHIL|Y|Bobbie Blackman
+2|AGE|Y|1
+1|CHIL|Y|Willetta Blackman
+2|AGE|Y|3
+1|INCOME|Y|65000
+0|FAM|Y|@F835@
+1|WIFE|Y|Tanya Wekenborg
+1|CHIL|Y|Mary Wolff
+2|AGE|Y|23
+1|CHIL|Y|Rose Wolff
+2|AGE|Y|8
+1|CHIL|Y|Conrad Wolff
+2|AGE|Y|20
+1|CHIL|Y|Ray Wolff
+2|AGE|Y|15
+1|INCOME|Y|59900
+0|FAM|Y|@F836@
+1|WIFE|Y|Aurea Patterson
+1|CHIL|Y|Antionette Conteh
+2|AGE|Y|13
+1|CHIL|Y|Nicholas Conteh
+2|AGE|Y|23
+1|CHIL|Y|Juanita Conteh
+2|AGE|Y|4
+1|CHIL|Y|Renee Conteh
+2|AGE|Y|6
+1|INCOME|Y|42700
+0|FAM|Y|@F837@
+1|WIFE|Y|Jana Walbridge
+1|CHIL|Y|Ross Wilkerson
+2|AGE|Y|15
+1|CHIL|Y|Anne Wilkerson
+2|AGE|Y|11
+1|INCOME|Y|50400
+0|FAM|Y|@F838@
+1|WIFE|Y|Valerie Hunter
+1|CHIL|Y|Dorothy Franco
+2|AGE|Y|2
+1|INCOME|Y|67300
+0|FAM|Y|@F839@
+1|WIFE|Y|Marion Eggleston
+1|CHIL|Y|Margarita Sink
+2|AGE|Y|4
+1|CHIL|Y|Eloise Sink
+2|AGE|Y|20
+1|CHIL|Y|Shannon Sink
+2|AGE|Y|21
+1|CHIL|Y|John Sink
+2|AGE|Y|3
+1|INCOME|Y|68200
+0|FAM|Y|@F840@
+1|WIFE|Y|Linda Wixom
+1|CHIL|Y|Agustin Allee
+2|AGE|Y|5
+1|CHIL|Y|Gerald Allee
+2|AGE|Y|10
+1|CHIL|Y|James Allee
+2|AGE|Y|2
+1|CHIL|Y|Soon Allee
+2|AGE|Y|17
+1|INCOME|Y|64100
+0|FAM|Y|@F841@
+1|WIFE|Y|Thelma Cully
+1|CHIL|Y|Sabrina Kazin
+2|AGE|Y|11
+1|CHIL|Y|Deanna Kazin
+2|AGE|Y|19
+1|INCOME|Y|37800
+0|FAM|Y|@F842@
+1|WIFE|Y|Ivy Botkin
+1|CHIL|Y|Jerry Nickerson
+2|AGE|Y|7
+1|CHIL|Y|Luis Nickerson
+2|AGE|Y|1
+1|CHIL|Y|Gerald Nickerson
+2|AGE|Y|2
+1|CHIL|Y|Maria Nickerson
+2|AGE|Y|15
+1|CHIL|Y|Elaine Nickerson
+2|AGE|Y|1
+1|INCOME|Y|28800
+0|FAM|Y|@F843@
+1|WIFE|Y|Alyssa Marquardt
+1|CHIL|Y|Daniel Abrams
+2|AGE|Y|24
+1|CHIL|Y|Gladys Abrams
+2|AGE|Y|9
+1|CHIL|Y|Barry Abrams
+2|AGE|Y|13
+1|CHIL|Y|Louis Abrams
+2|AGE|Y|15
+1|INCOME|Y|32900
+0|FAM|Y|@F844@
+1|WIFE|Y|Sandra Zavala
+1|CHIL|Y|Elva Hurley
+2|AGE|Y|21
+1|CHIL|Y|Wallace Hurley
+2|AGE|Y|2
+1|INCOME|Y|38800
+0|FAM|Y|@F845@
+1|WIFE|Y|Avery Smith
+1|CHIL|Y|Edward Rhodes
+2|AGE|Y|1
+1|CHIL|Y|Jacqueline Rhodes
+2|AGE|Y|22
+1|CHIL|Y|Dorothy Rhodes
+2|AGE|Y|21
+1|CHIL|Y|Adrienne Rhodes
+2|AGE|Y|5
+1|CHIL|Y|Carlos Rhodes
+2|AGE|Y|4
+1|INCOME|Y|35900
+0|FAM|Y|@F846@
+1|WIFE|Y|Shannon Hooper
+1|CHIL|Y|Laura Hinckley
+2|AGE|Y|22
+1|CHIL|Y|Dorothy Hinckley
+2|AGE|Y|1
+1|CHIL|Y|Tara Hinckley
+2|AGE|Y|18
+1|INCOME|Y|63700
+0|FAM|Y|@F847@
+1|WIFE|Y|Leonora Smith
+1|CHIL|Y|Mary Smith
+2|AGE|Y|22
+1|CHIL|Y|Pearl Smith
+2|AGE|Y|14
+1|CHIL|Y|Jason Smith
+2|AGE|Y|6
+1|INCOME|Y|35600
+0|FAM|Y|@F848@
+1|WIFE|Y|Ashley Shamapande
+1|CHIL|Y|Adela Dunn
+2|AGE|Y|8
+1|CHIL|Y|Matthew Dunn
+2|AGE|Y|10
+1|INCOME|Y|40600
+0|FAM|Y|@F849@
+1|WIFE|Y|Kristi Zeigler
+1|CHIL|Y|Alan Dyer
+2|AGE|Y|2
+1|CHIL|Y|Connie Dyer
+2|AGE|Y|19
+1|CHIL|Y|Mark Dyer
+2|AGE|Y|16
+1|CHIL|Y|Steven Dyer
+2|AGE|Y|24
+1|INCOME|Y|32600
+0|FAM|Y|@F850@
+1|WIFE|Y|Shannon Gioia
+1|CHIL|Y|Courtney Martell
+2|AGE|Y|12
+1|INCOME|Y|33200
+0|FAM|Y|@F851@
+1|WIFE|Y|Susan Diaz
+1|CHIL|Y|Janet Jordan
+2|AGE|Y|2
+1|CHIL|Y|Mary Jordan
+2|AGE|Y|25
+1|CHIL|Y|Brandon Jordan
+2|AGE|Y|3
+1|CHIL|Y|Jane Jordan
+2|AGE|Y|15
+1|INCOME|Y|44300
+0|FAM|Y|@F852@
+1|WIFE|Y|Connie Snyder
+1|CHIL|Y|Yvette Lindberg
+2|AGE|Y|25
+1|INCOME|Y|34900
+0|FAM|Y|@F853@
+1|WIFE|Y|Ray Tavana
+1|CHIL|Y|Zachary Valen
+2|AGE|Y|3
+1|CHIL|Y|Michael Valen
+2|AGE|Y|23
+1|CHIL|Y|Winston Valen
+2|AGE|Y|19
+1|INCOME|Y|69100
+0|FAM|Y|@F854@
+1|WIFE|Y|Regina Hodge
+1|CHIL|Y|Andrew Guthmiller
+2|AGE|Y|10
+1|INCOME|Y|53300
+0|FAM|Y|@F855@
+1|WIFE|Y|Elisa Simpson
+1|CHIL|Y|Rosetta Welborn
+2|AGE|Y|24
+1|CHIL|Y|Mary Welborn
+2|AGE|Y|16
+1|CHIL|Y|Deborah Welborn
+2|AGE|Y|3
+1|CHIL|Y|Charlie Welborn
+2|AGE|Y|23
+1|INCOME|Y|21800
+0|FAM|Y|@F856@
+1|WIFE|Y|Esther Gonzalez
+1|CHIL|Y|Robert Manzanarez
+2|AGE|Y|18
+1|INCOME|Y|36700
+0|FAM|Y|@F857@
+1|WIFE|Y|Dianna Ross
+1|CHIL|Y|Phyllis Carter
+2|AGE|Y|12
+1|CHIL|Y|Elizabeth Carter
+2|AGE|Y|25
+1|CHIL|Y|Ray Carter
+2|AGE|Y|23
+1|INCOME|Y|62600
+0|FAM|Y|@F858@
+1|WIFE|Y|Martha Maddox
+1|CHIL|Y|David Pittman
+2|AGE|Y|13
+1|CHIL|Y|Donald Pittman
+2|AGE|Y|20
+1|INCOME|Y|30000
+0|FAM|Y|@F859@
+1|WIFE|Y|Barbara Steadman
+1|CHIL|Y|Marlene Haddox
+2|AGE|Y|13
+1|CHIL|Y|Omer Haddox
+2|AGE|Y|14
+1|CHIL|Y|Mark Haddox
+2|AGE|Y|1
+1|CHIL|Y|Mellie Haddox
+2|AGE|Y|2
+1|CHIL|Y|James Haddox
+2|AGE|Y|3
+1|INCOME|Y|47200
+0|FAM|Y|@F860@
+1|WIFE|Y|Sharron Aiken
+1|CHIL|Y|Betty Bell
+2|AGE|Y|2
+1|CHIL|Y|Andy Bell
+2|AGE|Y|18
+1|CHIL|Y|Matthew Bell
+2|AGE|Y|22
+1|INCOME|Y|61900
+0|FAM|Y|@F861@
+1|WIFE|Y|Jeanette Wallace
+1|CHIL|Y|Colleen Kinnamon
+2|AGE|Y|23
+1|INCOME|Y|68800
+0|FAM|Y|@F862@
+1|WIFE|Y|Eloise Deaton
+1|CHIL|Y|Benjamin Bronson
+2|AGE|Y|3
+1|CHIL|Y|Jacob Bronson
+2|AGE|Y|22
+1|CHIL|Y|Doris Bronson
+2|AGE|Y|10
+1|CHIL|Y|Vernon Bronson
+2|AGE|Y|9
+1|CHIL|Y|Nita Bronson
+2|AGE|Y|18
+1|INCOME|Y|27600
+0|FAM|Y|@F863@
+1|WIFE|Y|Adelaide Allen
+1|CHIL|Y|Shane Franks
+2|AGE|Y|2
+1|CHIL|Y|Rebecca Franks
+2|AGE|Y|17
+1|CHIL|Y|Joshua Franks
+2|AGE|Y|3
+1|CHIL|Y|Gene Franks
+2|AGE|Y|23
+1|CHIL|Y|Steve Franks
+2|AGE|Y|24
+1|INCOME|Y|69400
+0|FAM|Y|@F864@
+1|WIFE|Y|Mary Metcalf
+1|CHIL|Y|Priscilla Kessler
+2|AGE|Y|12
+1|INCOME|Y|70000
+0|FAM|Y|@F865@
+1|WIFE|Y|Gracie Mancuso
+1|CHIL|Y|Matthew Gullixson
+2|AGE|Y|16
+1|INCOME|Y|32200
+0|FAM|Y|@F866@
+1|WIFE|Y|Karen Keen
+1|CHIL|Y|Helen Thompson
+2|AGE|Y|23
+1|CHIL|Y|David Thompson
+2|AGE|Y|22
+1|CHIL|Y|Douglas Thompson
+2|AGE|Y|16
+1|CHIL|Y|Brandon Thompson
+2|AGE|Y|16
+1|INCOME|Y|61100
+0|FAM|Y|@F867@
+1|WIFE|Y|Erin Elem
+1|CHIL|Y|Adam Moss
+2|AGE|Y|25
+1|CHIL|Y|Kathryn Moss
+2|AGE|Y|2
+1|CHIL|Y|Megan Moss
+2|AGE|Y|13
+1|CHIL|Y|Stephen Moss
+2|AGE|Y|21
+1|CHIL|Y|Juanita Moss
+2|AGE|Y|19
+1|INCOME|Y|25100
+0|FAM|Y|@F868@
+1|WIFE|Y|Lois Trammell
+1|CHIL|Y|Herman Clark
+2|AGE|Y|13
+1|CHIL|Y|Margaret Clark
+2|AGE|Y|3
+1|CHIL|Y|Jessie Clark
+2|AGE|Y|9
+1|CHIL|Y|Peggy Clark
+2|AGE|Y|9
+1|INCOME|Y|45900
+0|FAM|Y|@F869@
+1|WIFE|Y|Claudia Miller
+1|CHIL|Y|Janet Jensen
+2|AGE|Y|15
+1|CHIL|Y|David Jensen
+2|AGE|Y|6
+1|CHIL|Y|Tommy Jensen
+2|AGE|Y|2
+1|CHIL|Y|Steven Jensen
+2|AGE|Y|23
+1|INCOME|Y|21300
+0|FAM|Y|@F870@
+1|WIFE|Y|Nichole Moody
+1|CHIL|Y|Meagan Ayres
+2|AGE|Y|3
+1|CHIL|Y|Blake Ayres
+2|AGE|Y|5
+1|CHIL|Y|Kevin Ayres
+2|AGE|Y|1
+1|CHIL|Y|Keith Ayres
+2|AGE|Y|8
+1|INCOME|Y|39100
+0|FAM|Y|@F871@
+1|WIFE|Y|Karen Thomas
+1|CHIL|Y|Steve Harbin
+2|AGE|Y|25
+1|CHIL|Y|Marcus Harbin
+2|AGE|Y|22
+1|CHIL|Y|Irma Harbin
+2|AGE|Y|3
+1|CHIL|Y|Gwendolyn Harbin
+2|AGE|Y|21
+1|CHIL|Y|Anna Harbin
+2|AGE|Y|21
+1|INCOME|Y|61800
+0|FAM|Y|@F872@
+1|WIFE|Y|Jennifer Yates
+1|CHIL|Y|Arthur Osterstuck
+2|AGE|Y|17
+1|CHIL|Y|Eric Osterstuck
+2|AGE|Y|5
+1|CHIL|Y|Michel Osterstuck
+2|AGE|Y|20
+1|CHIL|Y|George Osterstuck
+2|AGE|Y|9
+1|INCOME|Y|33600
+0|FAM|Y|@F873@
+1|WIFE|Y|Amber Davis
+1|CHIL|Y|Erica Mccoy
+2|AGE|Y|15
+1|CHIL|Y|Mary Mccoy
+2|AGE|Y|20
+1|CHIL|Y|Timothy Mccoy
+2|AGE|Y|6
+1|CHIL|Y|Agnes Mccoy
+2|AGE|Y|19
+1|CHIL|Y|Jon Mccoy
+2|AGE|Y|21
+1|INCOME|Y|42100
+0|FAM|Y|@F874@
+1|WIFE|Y|Amanda Shavers
+1|CHIL|Y|James Harris
+2|AGE|Y|1
+1|CHIL|Y|Laura Harris
+2|AGE|Y|7
+1|CHIL|Y|Sandra Harris
+2|AGE|Y|12
+1|INCOME|Y|32100
+0|FAM|Y|@F875@
+1|WIFE|Y|Beverly Diaz
+1|CHIL|Y|Loren Cason
+2|AGE|Y|11
+1|CHIL|Y|Allan Cason
+2|AGE|Y|25
+1|INCOME|Y|27400
+0|FAM|Y|@F876@
+1|WIFE|Y|Carole Mauk
+1|CHIL|Y|Johnny Crocker
+2|AGE|Y|12
+1|INCOME|Y|62300
+0|FAM|Y|@F877@
+1|WIFE|Y|Geneva Webb
+1|CHIL|Y|Tina Mercado
+2|AGE|Y|23
+1|CHIL|Y|John Mercado
+2|AGE|Y|4
+1|CHIL|Y|Ashley Mercado
+2|AGE|Y|3
+1|CHIL|Y|Kera Mercado
+2|AGE|Y|20
+1|INCOME|Y|32000
+0|FAM|Y|@F878@
+1|WIFE|Y|Barbara Picking
+1|CHIL|Y|Alejandra Walsh
+2|AGE|Y|10
+1|CHIL|Y|James Walsh
+2|AGE|Y|17
+1|CHIL|Y|James Walsh
+2|AGE|Y|15
+1|CHIL|Y|Alan Walsh
+2|AGE|Y|24
+1|INCOME|Y|54100
+0|FAM|Y|@F879@
+1|WIFE|Y|Arlene Marshall
+1|CHIL|Y|Jacob Bushee
+2|AGE|Y|7
+1|CHIL|Y|Jessica Bushee
+2|AGE|Y|17
+1|INCOME|Y|66100
+0|FAM|Y|@F880@
+1|WIFE|Y|Lori Sullivan
+1|CHIL|Y|David Kugler
+2|AGE|Y|7
+1|INCOME|Y|67000
+0|FAM|Y|@F881@
+1|WIFE|Y|Donna Roman
+1|CHIL|Y|Harold Teeter
+2|AGE|Y|20
+1|INCOME|Y|57100
+0|FAM|Y|@F882@
+1|WIFE|Y|Violet Hines
+1|CHIL|Y|Curtis Johnson
+2|AGE|Y|1
+1|CHIL|Y|William Johnson
+2|AGE|Y|9
+1|CHIL|Y|Fred Johnson
+2|AGE|Y|7
+1|CHIL|Y|Christina Johnson
+2|AGE|Y|9
+1|INCOME|Y|50800
+0|FAM|Y|@F883@
+1|WIFE|Y|Babette Chauvin
+1|CHIL|Y|Christy Griffin
+2|AGE|Y|7
+1|INCOME|Y|34600
+0|FAM|Y|@F884@
+1|WIFE|Y|Catherine Weitzman
+1|CHIL|Y|Douglas Mallory
+2|AGE|Y|22
+1|CHIL|Y|Andrea Mallory
+2|AGE|Y|13
+1|CHIL|Y|Richard Mallory
+2|AGE|Y|6
+1|CHIL|Y|Richard Mallory
+2|AGE|Y|7
+1|INCOME|Y|48200
+0|FAM|Y|@F885@
+1|WIFE|Y|Kelly Steiner
+1|CHIL|Y|Jerry Hyatt
+2|AGE|Y|12
+1|CHIL|Y|Joseph Hyatt
+2|AGE|Y|22
+1|CHIL|Y|Luis Hyatt
+2|AGE|Y|9
+1|INCOME|Y|66400
+0|FAM|Y|@F886@
+1|WIFE|Y|Dora Pitonyak
+1|CHIL|Y|Ronald Griffiths
+2|AGE|Y|7
+1|CHIL|Y|Gary Griffiths
+2|AGE|Y|23
+1|INCOME|Y|21000
+0|FAM|Y|@F887@
+1|WIFE|Y|Hannah Corrente
+1|CHIL|Y|Sandra Stephens
+2|AGE|Y|13
+1|INCOME|Y|51600
+0|FAM|Y|@F888@
+1|WIFE|Y|Sheila Calloway
+1|CHIL|Y|Ernest Hankinson
+2|AGE|Y|21
+1|CHIL|Y|Felicia Hankinson
+2|AGE|Y|23
+1|CHIL|Y|Phillip Hankinson
+2|AGE|Y|4
+1|CHIL|Y|Andrew Hankinson
+2|AGE|Y|18
+1|INCOME|Y|44600
+0|FAM|Y|@F889@
+1|WIFE|Y|Michele Steere
+1|CHIL|Y|Sandra Crisson
+2|AGE|Y|12
+1|CHIL|Y|Derrick Crisson
+2|AGE|Y|22
+1|CHIL|Y|Jeremiah Crisson
+2|AGE|Y|19
+1|CHIL|Y|Kathryn Crisson
+2|AGE|Y|20
+1|INCOME|Y|46400
+0|FAM|Y|@F890@
+1|WIFE|Y|Caroline Mcdonald
+1|CHIL|Y|Mario Oneil
+2|AGE|Y|2
+1|CHIL|Y|Peter Oneil
+2|AGE|Y|13
+1|CHIL|Y|Marcy Oneil
+2|AGE|Y|23
+1|INCOME|Y|31600
+0|FAM|Y|@F891@
+1|WIFE|Y|Brenda Demateo
+1|CHIL|Y|Paulette Lewis
+2|AGE|Y|8
+1|CHIL|Y|Toni Lewis
+2|AGE|Y|9
+1|CHIL|Y|Ronald Lewis
+2|AGE|Y|5
+1|INCOME|Y|34600
+0|FAM|Y|@F892@
+1|WIFE|Y|Lisa Clemon
+1|CHIL|Y|Anna Adams
+2|AGE|Y|15
+1|INCOME|Y|65200
+0|FAM|Y|@F893@
+1|WIFE|Y|Megan Gowins
+1|CHIL|Y|Mark Henderson
+2|AGE|Y|25
+1|CHIL|Y|David Henderson
+2|AGE|Y|10
+1|CHIL|Y|Francine Henderson
+2|AGE|Y|13
+1|CHIL|Y|Kimberly Henderson
+2|AGE|Y|6
+1|CHIL|Y|Christopher Henderson
+2|AGE|Y|11
+1|INCOME|Y|55900
+0|FAM|Y|@F894@
+1|WIFE|Y|Christina Farquhar
+1|CHIL|Y|Martha Greene
+2|AGE|Y|15
+1|CHIL|Y|Isabel Greene
+2|AGE|Y|24
+1|CHIL|Y|Jeffrey Greene
+2|AGE|Y|13
+1|INCOME|Y|55300
+0|FAM|Y|@F895@
+1|WIFE|Y|Andrea Hearon
+1|CHIL|Y|Heather Kulik
+2|AGE|Y|17
+1|CHIL|Y|Nora Kulik
+2|AGE|Y|14
+1|CHIL|Y|Jennie Kulik
+2|AGE|Y|1
+1|INCOME|Y|44700
+0|FAM|Y|@F896@
+1|WIFE|Y|Gracie Fiene
+1|CHIL|Y|Barbra Moe
+2|AGE|Y|6
+1|CHIL|Y|Barbara Moe
+2|AGE|Y|7
+1|CHIL|Y|William Moe
+2|AGE|Y|21
+1|CHIL|Y|Rachel Moe
+2|AGE|Y|11
+1|INCOME|Y|37500
+0|FAM|Y|@F897@
+1|WIFE|Y|Rosemary Miller
+1|CHIL|Y|Donna Crain
+2|AGE|Y|23
+1|INCOME|Y|48100
+0|FAM|Y|@F898@
+1|WIFE|Y|Rachel Rice
+1|CHIL|Y|Margie Drath
+2|AGE|Y|5
+1|CHIL|Y|Scott Drath
+2|AGE|Y|3
+1|INCOME|Y|63500
+0|FAM|Y|@F899@
+1|WIFE|Y|Doris Lococo
+1|CHIL|Y|Sheila Craig
+2|AGE|Y|1
+1|CHIL|Y|Joan Craig
+2|AGE|Y|13
+1|INCOME|Y|31200
+0|FAM|Y|@F900@
+1|WIFE|Y|Heather Gonzalez
+1|CHIL|Y|Joe Katz
+2|AGE|Y|6
+1|INCOME|Y|47700
+0|FAM|Y|@F901@
+1|WIFE|Y|Linda Feltus
+1|CHIL|Y|Jason Chapman
+2|AGE|Y|14
+1|CHIL|Y|Bobby Chapman
+2|AGE|Y|7
+1|CHIL|Y|Theodore Chapman
+2|AGE|Y|11
+1|INCOME|Y|52200
+0|FAM|Y|@F902@
+1|WIFE|Y|Sheila Valerio
+1|CHIL|Y|Edith Soares
+2|AGE|Y|21
+1|INCOME|Y|26700
+0|FAM|Y|@F903@
+1|WIFE|Y|Mary Wilson
+1|CHIL|Y|Mary Allred
+2|AGE|Y|5
+1|CHIL|Y|Peter Allred
+2|AGE|Y|8
+1|CHIL|Y|Deborah Allred
+2|AGE|Y|2
+1|CHIL|Y|Barbara Allred
+2|AGE|Y|24
+1|CHIL|Y|Alberto Allred
+2|AGE|Y|3
+1|INCOME|Y|67400
+0|FAM|Y|@F904@
+1|WIFE|Y|Bethany Harrison
+1|CHIL|Y|Jerry Tetterton
+2|AGE|Y|12
+1|INCOME|Y|57100
+0|FAM|Y|@F905@
+1|WIFE|Y|Stephanie Schuckert
+1|CHIL|Y|Denise Wiseman
+2|AGE|Y|1
+1|CHIL|Y|Jacque Wiseman
+2|AGE|Y|15
+1|CHIL|Y|John Wiseman
+2|AGE|Y|14
+1|INCOME|Y|25700
+0|FAM|Y|@F906@
+1|WIFE|Y|Laura Hughes
+1|CHIL|Y|Arnita Kessinger
+2|AGE|Y|22
+1|CHIL|Y|Jamie Kessinger
+2|AGE|Y|23
+1|CHIL|Y|Joan Kessinger
+2|AGE|Y|13
+1|CHIL|Y|Jean Kessinger
+2|AGE|Y|9
+1|INCOME|Y|47200
+0|FAM|Y|@F907@
+1|WIFE|Y|Estella Marks
+1|CHIL|Y|Denise Barker
+2|AGE|Y|1
+1|INCOME|Y|23200
+0|FAM|Y|@F908@
+1|WIFE|Y|Sarina Mitchell
+1|CHIL|Y|Jason Grill
+2|AGE|Y|18
+1|INCOME|Y|20100
+0|FAM|Y|@F909@
+1|WIFE|Y|Linda Mclemore
+1|CHIL|Y|Vernon Daniels
+2|AGE|Y|16
+1|CHIL|Y|Jennie Daniels
+2|AGE|Y|20
+1|CHIL|Y|John Daniels
+2|AGE|Y|25
+1|CHIL|Y|Dana Daniels
+2|AGE|Y|10
+1|INCOME|Y|27200
+0|FAM|Y|@F910@
+1|WIFE|Y|Pauline Condie
+1|CHIL|Y|Roberto Mitchell
+2|AGE|Y|19
+1|CHIL|Y|Nichole Mitchell
+2|AGE|Y|22
+1|INCOME|Y|61600
+0|FAM|Y|@F911@
+1|WIFE|Y|Wilma Rome
+1|CHIL|Y|Robert Lekwa
+2|AGE|Y|13
+1|CHIL|Y|Carrie Lekwa
+2|AGE|Y|16
+1|CHIL|Y|Geoffrey Lekwa
+2|AGE|Y|21
+1|CHIL|Y|Randy Lekwa
+2|AGE|Y|10
+1|INCOME|Y|61400
+0|FAM|Y|@F912@
+1|WIFE|Y|Keisha Sims
+1|CHIL|Y|Rebecca Veronesi
+2|AGE|Y|21
+1|CHIL|Y|Robin Veronesi
+2|AGE|Y|10
+1|CHIL|Y|Patricia Veronesi
+2|AGE|Y|1
+1|CHIL|Y|Christopher Veronesi
+2|AGE|Y|2
+1|INCOME|Y|49400
+0|FAM|Y|@F913@
+1|WIFE|Y|Bella Nash
+1|CHIL|Y|Donald Harvey
+2|AGE|Y|23
+1|INCOME|Y|57200
+0|FAM|Y|@F914@
+1|WIFE|Y|Rosia Compton
+1|CHIL|Y|Dorothy Perrez
+2|AGE|Y|4
+1|INCOME|Y|55200
+0|FAM|Y|@F915@
+1|WIFE|Y|Camille Rodriguez
+1|CHIL|Y|Sandra Jones
+2|AGE|Y|21
+1|INCOME|Y|25300
+0|FAM|Y|@F916@
+1|WIFE|Y|Alberta Mckeever
+1|CHIL|Y|Todd Shelstad
+2|AGE|Y|17
+1|CHIL|Y|Laura Shelstad
+2|AGE|Y|14
+1|CHIL|Y|Mary Shelstad
+2|AGE|Y|15
+1|CHIL|Y|John Shelstad
+2|AGE|Y|19
+1|INCOME|Y|67500
+0|FAM|Y|@F917@
+1|WIFE|Y|Suzanne Krick
+1|CHIL|Y|Todd Woodard
+2|AGE|Y|4
+1|CHIL|Y|Ronald Woodard
+2|AGE|Y|13
+1|CHIL|Y|Burt Woodard
+2|AGE|Y|11
+1|CHIL|Y|Kylee Woodard
+2|AGE|Y|11
+1|CHIL|Y|Ella Woodard
+2|AGE|Y|5
+1|INCOME|Y|42400
+0|FAM|Y|@F918@
+1|WIFE|Y|Judy Williams
+1|CHIL|Y|Etta Bain
+2|AGE|Y|22
+1|CHIL|Y|Brandon Bain
+2|AGE|Y|12
+1|INCOME|Y|64300
+0|FAM|Y|@F919@
+1|WIFE|Y|Mary Fraser
+1|CHIL|Y|Robert Midkiff
+2|AGE|Y|9
+1|CHIL|Y|Janis Midkiff
+2|AGE|Y|25
+1|CHIL|Y|Olivia Midkiff
+2|AGE|Y|25
+1|CHIL|Y|Bryon Midkiff
+2|AGE|Y|17
+1|CHIL|Y|Delia Midkiff
+2|AGE|Y|10
+1|INCOME|Y|32000
+0|FAM|Y|@F920@
+1|WIFE|Y|Debra Lee
+1|CHIL|Y|James Riston
+2|AGE|Y|4
+1|CHIL|Y|Monique Riston
+2|AGE|Y|13
+1|INCOME|Y|24900
+0|FAM|Y|@F921@
+1|WIFE|Y|Patrice Johnson
+1|CHIL|Y|Maria Wright
+2|AGE|Y|23
+1|CHIL|Y|Agnes Wright
+2|AGE|Y|6
+1|INCOME|Y|32100
+0|FAM|Y|@F922@
+1|WIFE|Y|Dora Jorge
+1|CHIL|Y|Charlotte Alexander
+2|AGE|Y|16
+1|INCOME|Y|39900
+0|FAM|Y|@F923@
+1|WIFE|Y|Lawanna Wilcox
+1|CHIL|Y|Russell Boone
+2|AGE|Y|25
+1|CHIL|Y|Tyler Boone
+2|AGE|Y|25
+1|CHIL|Y|Nicole Boone
+2|AGE|Y|22
+1|CHIL|Y|David Boone
+2|AGE|Y|9
+1|CHIL|Y|Armando Boone
+2|AGE|Y|14
+1|INCOME|Y|63000
+0|FAM|Y|@F924@
+1|WIFE|Y|Zita Hale
+1|CHIL|Y|Nellie Olvera
+2|AGE|Y|18
+1|INCOME|Y|60500
+0|FAM|Y|@F925@
+1|WIFE|Y|Chelsea Nelson
+1|CHIL|Y|Shane Graban
+2|AGE|Y|19
+1|CHIL|Y|Dara Graban
+2|AGE|Y|21
+1|CHIL|Y|Kelly Graban
+2|AGE|Y|14
+1|CHIL|Y|Roxie Graban
+2|AGE|Y|4
+1|CHIL|Y|Donald Graban
+2|AGE|Y|24
+1|INCOME|Y|38100
+0|FAM|Y|@F926@
+1|WIFE|Y|Jean Higley
+1|CHIL|Y|Shirley Richards
+2|AGE|Y|7
+1|CHIL|Y|Victoria Richards
+2|AGE|Y|7
+1|CHIL|Y|Jason Richards
+2|AGE|Y|23
+1|CHIL|Y|Michael Richards
+2|AGE|Y|1
+1|INCOME|Y|46300
+0|FAM|Y|@F927@
+1|WIFE|Y|Stella Shields
+1|CHIL|Y|Clifford Campbell
+2|AGE|Y|1
+1|INCOME|Y|67400
+0|FAM|Y|@F928@
+1|WIFE|Y|Doris Brockhaus
+1|CHIL|Y|Isaac William
+2|AGE|Y|23
+1|CHIL|Y|Maria William
+2|AGE|Y|24
+1|CHIL|Y|Maria William
+2|AGE|Y|4
+1|CHIL|Y|George William
+2|AGE|Y|23
+1|CHIL|Y|Johnnie William
+2|AGE|Y|24
+1|INCOME|Y|29300
+0|FAM|Y|@F929@
+1|WIFE|Y|Elizabeth Iturbe
+1|CHIL|Y|Jeffery Tsang
+2|AGE|Y|4
+1|CHIL|Y|Jean Tsang
+2|AGE|Y|1
+1|CHIL|Y|James Tsang
+2|AGE|Y|23
+1|CHIL|Y|Marion Tsang
+2|AGE|Y|21
+1|CHIL|Y|Stephen Tsang
+2|AGE|Y|19
+1|INCOME|Y|47500
+0|FAM|Y|@F930@
+1|WIFE|Y|Linda Wittenberg
+1|CHIL|Y|Stephen Hill
+2|AGE|Y|4
+1|CHIL|Y|Ruth Hill
+2|AGE|Y|2
+1|CHIL|Y|Amy Hill
+2|AGE|Y|14
+1|INCOME|Y|64000
+0|FAM|Y|@F931@
+1|WIFE|Y|Heather Sierra
+1|CHIL|Y|Matthew Ford
+2|AGE|Y|13
+1|CHIL|Y|Jonathon Ford
+2|AGE|Y|19
+1|CHIL|Y|Maureen Ford
+2|AGE|Y|1
+1|CHIL|Y|Evelyn Ford
+2|AGE|Y|5
+1|INCOME|Y|40300
+0|FAM|Y|@F932@
+1|WIFE|Y|Cornelia Sharpe
+1|CHIL|Y|Gloria Webb
+2|AGE|Y|5
+1|CHIL|Y|Candice Webb
+2|AGE|Y|13
+1|INCOME|Y|30500
+0|FAM|Y|@F933@
+1|WIFE|Y|Carolyn Alberding
+1|CHIL|Y|Daniel Oakes
+2|AGE|Y|25
+1|CHIL|Y|Nickolas Oakes
+2|AGE|Y|10
+1|CHIL|Y|Keith Oakes
+2|AGE|Y|21
+1|INCOME|Y|65100
+0|FAM|Y|@F934@
+1|WIFE|Y|Mary Gordon
+1|CHIL|Y|Jonathan Billings
+2|AGE|Y|23
+1|CHIL|Y|Jerry Billings
+2|AGE|Y|18
+1|CHIL|Y|Louise Billings
+2|AGE|Y|20
+1|CHIL|Y|Mary Billings
+2|AGE|Y|24
+1|CHIL|Y|Anna Billings
+2|AGE|Y|2
+1|INCOME|Y|20100
+0|FAM|Y|@F935@
+1|WIFE|Y|Tracey Childers
+1|CHIL|Y|Ruth Williams
+2|AGE|Y|19
+1|CHIL|Y|Gerard Williams
+2|AGE|Y|25
+1|CHIL|Y|Michael Williams
+2|AGE|Y|1
+1|INCOME|Y|56700
+0|FAM|Y|@F936@
+1|WIFE|Y|Marie Christensen
+1|CHIL|Y|James Washington
+2|AGE|Y|8
+1|INCOME|Y|56400
+0|FAM|Y|@F937@
+1|WIFE|Y|Stephany Abadi
+1|CHIL|Y|Robert Jones
+2|AGE|Y|8
+1|CHIL|Y|Albert Jones
+2|AGE|Y|24
+1|CHIL|Y|Judy Jones
+2|AGE|Y|15
+1|INCOME|Y|24000
+0|FAM|Y|@F938@
+1|WIFE|Y|Rebecca Hudson
+1|CHIL|Y|Pat Peterson
+2|AGE|Y|19
+1|CHIL|Y|Jack Peterson
+2|AGE|Y|12
+1|CHIL|Y|Darlene Peterson
+2|AGE|Y|15
+1|CHIL|Y|Debra Peterson
+2|AGE|Y|10
+1|INCOME|Y|58000
+0|FAM|Y|@F939@
+1|WIFE|Y|Guadalupe Webb
+1|CHIL|Y|Carl Cortez
+2|AGE|Y|8
+1|CHIL|Y|Marie Cortez
+2|AGE|Y|4
+1|CHIL|Y|Gerry Cortez
+2|AGE|Y|13
+1|CHIL|Y|Chester Cortez
+2|AGE|Y|10
+1|INCOME|Y|60000
+0|FAM|Y|@F940@
+1|WIFE|Y|Karen Wilson
+1|CHIL|Y|Nathan Hillsman
+2|AGE|Y|22
+1|INCOME|Y|48100
+0|FAM|Y|@F941@
+1|WIFE|Y|Lise Cook
+1|CHIL|Y|Kristen Calcote
+2|AGE|Y|4
+1|CHIL|Y|Martin Calcote
+2|AGE|Y|15
+1|INCOME|Y|33800
+0|FAM|Y|@F942@
+1|WIFE|Y|Chantell Coggan
+1|CHIL|Y|Celia Snow
+2|AGE|Y|4
+1|CHIL|Y|Barbara Snow
+2|AGE|Y|5
+1|CHIL|Y|Danielle Snow
+2|AGE|Y|2
+1|INCOME|Y|27200
+0|FAM|Y|@F943@
+1|WIFE|Y|Alba Dudziak
+1|CHIL|Y|Corey Langford
+2|AGE|Y|17
+1|CHIL|Y|Lori Langford
+2|AGE|Y|23
+1|INCOME|Y|64500
+0|FAM|Y|@F944@
+1|WIFE|Y|Doris Arnold
+1|CHIL|Y|Cristina Ward
+2|AGE|Y|13
+1|CHIL|Y|Rebecca Ward
+2|AGE|Y|18
+1|CHIL|Y|Rafael Ward
+2|AGE|Y|19
+1|CHIL|Y|James Ward
+2|AGE|Y|24
+1|INCOME|Y|37400
+0|FAM|Y|@F945@
+1|WIFE|Y|Sonia Pitts
+1|CHIL|Y|Carol Fanney
+2|AGE|Y|11
+1|CHIL|Y|Dennis Fanney
+2|AGE|Y|9
+1|INCOME|Y|21800
+0|FAM|Y|@F946@
+1|WIFE|Y|Kathleen Ryan
+1|CHIL|Y|Miguel Keller
+2|AGE|Y|13
+1|CHIL|Y|Deana Keller
+2|AGE|Y|9
+1|CHIL|Y|Nancy Keller
+2|AGE|Y|8
+1|INCOME|Y|28500
+0|FAM|Y|@F947@
+1|WIFE|Y|Josephine Zander
+1|CHIL|Y|Robert Vanaman
+2|AGE|Y|11
+1|INCOME|Y|49200
+0|FAM|Y|@F948@
+1|WIFE|Y|Vikki Wells
+1|CHIL|Y|Bernard Wygant
+2|AGE|Y|14
+1|CHIL|Y|Ruth Wygant
+2|AGE|Y|2
+1|CHIL|Y|Jeffry Wygant
+2|AGE|Y|15
+1|INCOME|Y|36100
+0|FAM|Y|@F949@
+1|WIFE|Y|Laurel Rooney
+1|CHIL|Y|Laura Fennell
+2|AGE|Y|8
+1|CHIL|Y|Jennifer Fennell
+2|AGE|Y|10
+1|CHIL|Y|Robert Fennell
+2|AGE|Y|5
+1|CHIL|Y|Robert Fennell
+2|AGE|Y|9
+1|CHIL|Y|Emmanuel Fennell
+2|AGE|Y|21
+1|INCOME|Y|20100
+0|FAM|Y|@F950@
+1|WIFE|Y|Jeannette Carver
+1|CHIL|Y|Patricia Brown
+2|AGE|Y|11
+1|INCOME|Y|20700
+0|FAM|Y|@F951@
+1|WIFE|Y|Heather Carrington
+1|CHIL|Y|Alice Miers
+2|AGE|Y|14
+1|CHIL|Y|Angela Miers
+2|AGE|Y|19
+1|CHIL|Y|James Miers
+2|AGE|Y|13
+1|INCOME|Y|33500
+0|FAM|Y|@F952@
+1|WIFE|Y|Pat Harrison
+1|CHIL|Y|Steve Garcia
+2|AGE|Y|11
+1|INCOME|Y|36300
+0|FAM|Y|@F953@
+1|WIFE|Y|Carrie Gordon
+1|CHIL|Y|Alice Chambers
+2|AGE|Y|1
+1|CHIL|Y|Andrea Chambers
+2|AGE|Y|25
+1|CHIL|Y|Evangelina Chambers
+2|AGE|Y|11
+1|CHIL|Y|Alicia Chambers
+2|AGE|Y|12
+1|INCOME|Y|32600
+0|FAM|Y|@F954@
+1|WIFE|Y|Mary Edmonds
+1|CHIL|Y|Bradley Seiber
+2|AGE|Y|3
+1|CHIL|Y|William Seiber
+2|AGE|Y|2
+1|INCOME|Y|63200
+0|FAM|Y|@F955@
+1|WIFE|Y|Sarah Johnson
+1|CHIL|Y|Laura Cresswell
+2|AGE|Y|3
+1|INCOME|Y|25700
+0|FAM|Y|@F956@
+1|WIFE|Y|Sharon Joseph
+1|CHIL|Y|Betty Guevara
+2|AGE|Y|23
+1|CHIL|Y|Darlene Guevara
+2|AGE|Y|24
+1|INCOME|Y|34400
+0|FAM|Y|@F957@
+1|WIFE|Y|Tamala Norden
+1|CHIL|Y|Stephanie Hunte
+2|AGE|Y|13
+1|CHIL|Y|Stacie Hunte
+2|AGE|Y|22
+1|CHIL|Y|June Hunte
+2|AGE|Y|7
+1|INCOME|Y|37800
+0|FAM|Y|@F958@
+1|WIFE|Y|Patricia Flaten
+1|CHIL|Y|Luke Kepler
+2|AGE|Y|24
+1|CHIL|Y|James Kepler
+2|AGE|Y|21
+1|CHIL|Y|Kimberly Kepler
+2|AGE|Y|18
+1|INCOME|Y|22200
+0|FAM|Y|@F959@
+1|WIFE|Y|Rosa Powell
+1|CHIL|Y|Mary Kidwell
+2|AGE|Y|4
+1|CHIL|Y|Jordan Kidwell
+2|AGE|Y|2
+1|CHIL|Y|Frank Kidwell
+2|AGE|Y|7
+1|INCOME|Y|30200
+0|FAM|Y|@F960@
+1|WIFE|Y|Hilda Howe
+1|CHIL|Y|Kerry Schaefer
+2|AGE|Y|2
+1|CHIL|Y|Victor Schaefer
+2|AGE|Y|9
+1|CHIL|Y|Franklin Schaefer
+2|AGE|Y|2
+1|INCOME|Y|30800
+0|FAM|Y|@F961@
+1|WIFE|Y|Eula Joe
+1|CHIL|Y|Jean Munger
+2|AGE|Y|9
+1|CHIL|Y|Sandra Munger
+2|AGE|Y|22
+1|CHIL|Y|Julie Munger
+2|AGE|Y|9
+1|CHIL|Y|Diane Munger
+2|AGE|Y|19
+1|INCOME|Y|63600
+0|FAM|Y|@F962@
+1|WIFE|Y|Pearl Taylor
+1|CHIL|Y|Thomas Severance
+2|AGE|Y|1
+1|CHIL|Y|Diana Severance
+2|AGE|Y|16
+1|INCOME|Y|60100
+0|FAM|Y|@F963@
+1|WIFE|Y|Sallie Chobot
+1|CHIL|Y|Roy Miller
+2|AGE|Y|5
+1|CHIL|Y|Doris Miller
+2|AGE|Y|11
+1|INCOME|Y|62200
+0|FAM|Y|@F964@
+1|WIFE|Y|Blanca Corea
+1|CHIL|Y|Catarina Dececco
+2|AGE|Y|1
+1|INCOME|Y|29400
+0|FAM|Y|@F965@
+1|WIFE|Y|Veronica Harper
+1|CHIL|Y|Anne Brown
+2|AGE|Y|4
+1|CHIL|Y|Steven Brown
+2|AGE|Y|8
+1|CHIL|Y|Nancy Brown
+2|AGE|Y|15
+1|CHIL|Y|Patricia Brown
+2|AGE|Y|6
+1|INCOME|Y|57800
+0|FAM|Y|@F966@
+1|WIFE|Y|Lora Gray
+1|CHIL|Y|Solomon Ortiz
+2|AGE|Y|5
+1|CHIL|Y|Florence Ortiz
+2|AGE|Y|20
+1|INCOME|Y|65900
+0|FAM|Y|@F967@
+1|WIFE|Y|Janet Smith
+1|CHIL|Y|Harold Pellegrino
+2|AGE|Y|14
+1|INCOME|Y|61700
+0|FAM|Y|@F968@
+1|WIFE|Y|Edna Rena
+1|CHIL|Y|Juanita Lambert
+2|AGE|Y|24
+1|CHIL|Y|Paul Lambert
+2|AGE|Y|3
+1|CHIL|Y|Darryl Lambert
+2|AGE|Y|1
+1|INCOME|Y|60200
+0|FAM|Y|@F969@
+1|WIFE|Y|Natasha Cooper
+1|CHIL|Y|Bob Trippel
+2|AGE|Y|13
+1|CHIL|Y|Tim Trippel
+2|AGE|Y|21
+1|CHIL|Y|Russell Trippel
+2|AGE|Y|12
+1|CHIL|Y|Ross Trippel
+2|AGE|Y|10
+1|CHIL|Y|Ronald Trippel
+2|AGE|Y|9
+1|INCOME|Y|45200
+0|FAM|Y|@F970@
+1|WIFE|Y|Marjorie Coolidge
+1|CHIL|Y|Arlene Fink
+2|AGE|Y|2
+1|CHIL|Y|Bryan Fink
+2|AGE|Y|10
+1|CHIL|Y|David Fink
+2|AGE|Y|21
+1|CHIL|Y|Kathryn Fink
+2|AGE|Y|17
+1|CHIL|Y|Pat Fink
+2|AGE|Y|5
+1|INCOME|Y|48900
+0|FAM|Y|@F971@
+1|WIFE|Y|Nancy Pollard
+1|CHIL|Y|Judith Dooling
+2|AGE|Y|14
+1|CHIL|Y|Stefania Dooling
+2|AGE|Y|8
+1|CHIL|Y|John Dooling
+2|AGE|Y|6
+1|INCOME|Y|45400
+0|FAM|Y|@F972@
+1|WIFE|Y|Barbara Russom
+1|CHIL|Y|Lynn Smith
+2|AGE|Y|23
+1|CHIL|Y|Glen Smith
+2|AGE|Y|9
+1|CHIL|Y|Jennifer Smith
+2|AGE|Y|4
+1|CHIL|Y|Ralph Smith
+2|AGE|Y|5
+1|INCOME|Y|59000
+0|FAM|Y|@F973@
+1|WIFE|Y|Joyce Wyatt
+1|CHIL|Y|Shane Robinson
+2|AGE|Y|4
+1|CHIL|Y|Amanda Robinson
+2|AGE|Y|6
+1|CHIL|Y|Regina Robinson
+2|AGE|Y|23
+1|CHIL|Y|Judy Robinson
+2|AGE|Y|6
+1|CHIL|Y|Leonard Robinson
+2|AGE|Y|16
+1|INCOME|Y|59600
+0|FAM|Y|@F974@
+1|WIFE|Y|Whitney Cope
+1|CHIL|Y|Irene Dorman
+2|AGE|Y|4
+1|INCOME|Y|22200
+0|FAM|Y|@F975@
+1|WIFE|Y|Cecila Aslam
+1|CHIL|Y|Allie Landry
+2|AGE|Y|3
+1|CHIL|Y|Norma Landry
+2|AGE|Y|25
+1|INCOME|Y|25500
+0|FAM|Y|@F976@
+1|WIFE|Y|Lula Gibson
+1|CHIL|Y|Lori Hanlon
+2|AGE|Y|14
+1|CHIL|Y|Rosa Hanlon
+2|AGE|Y|6
+1|CHIL|Y|Annie Hanlon
+2|AGE|Y|17
+1|INCOME|Y|66800
+0|FAM|Y|@F977@
+1|WIFE|Y|Sheila Durr
+1|CHIL|Y|Lynn Nichols
+2|AGE|Y|13
+1|CHIL|Y|Derick Nichols
+2|AGE|Y|12
+1|INCOME|Y|45500
+0|FAM|Y|@F978@
+1|WIFE|Y|Pauline Burwell
+1|CHIL|Y|Jeffrey Arnt
+2|AGE|Y|1
+1|INCOME|Y|36400
+0|FAM|Y|@F979@
+1|WIFE|Y|Anita Ellison
+1|CHIL|Y|Dena Clawson
+2|AGE|Y|12
+1|CHIL|Y|Manuel Clawson
+2|AGE|Y|4
+1|INCOME|Y|68600
+0|FAM|Y|@F980@
+1|WIFE|Y|Mary Brown
+1|CHIL|Y|Selma Jackson
+2|AGE|Y|17
+1|CHIL|Y|Joseph Jackson
+2|AGE|Y|1
+1|INCOME|Y|67800
+0|FAM|Y|@F981@
+1|WIFE|Y|Nancy Tate
+1|CHIL|Y|Ruth Day
+2|AGE|Y|24
+1|CHIL|Y|Edward Day
+2|AGE|Y|15
+1|INCOME|Y|32500
+0|FAM|Y|@F982@
+1|WIFE|Y|Bettye Cascio
+1|CHIL|Y|Sylvester Shackleford
+2|AGE|Y|24
+1|CHIL|Y|Jorge Shackleford
+2|AGE|Y|20
+1|CHIL|Y|Rachel Shackleford
+2|AGE|Y|20
+1|INCOME|Y|64500
+0|FAM|Y|@F983@
+1|WIFE|Y|Jeannie Dean
+1|CHIL|Y|Daniel Holland
+2|AGE|Y|16
+1|CHIL|Y|Ronald Holland
+2|AGE|Y|9
+1|INCOME|Y|37700
+0|FAM|Y|@F984@
+1|WIFE|Y|Helen Moreles
+1|CHIL|Y|James Smith
+2|AGE|Y|20
+1|CHIL|Y|Donna Smith
+2|AGE|Y|4
+1|INCOME|Y|25000
+0|FAM|Y|@F985@
+1|WIFE|Y|Tiffany Mckever
+1|CHIL|Y|Jenae Jackson
+2|AGE|Y|20
+1|CHIL|Y|Samantha Jackson
+2|AGE|Y|11
+1|CHIL|Y|Michel Jackson
+2|AGE|Y|13
+1|CHIL|Y|Howard Jackson
+2|AGE|Y|20
+1|INCOME|Y|56000
+0|FAM|Y|@F986@
+1|WIFE|Y|Tammy Schear
+1|CHIL|Y|Krystal Sampogna
+2|AGE|Y|13
+1|CHIL|Y|Robert Sampogna
+2|AGE|Y|18
+1|CHIL|Y|Agnes Sampogna
+2|AGE|Y|22
+1|CHIL|Y|Helen Sampogna
+2|AGE|Y|9
+1|INCOME|Y|34600
+0|FAM|Y|@F987@
+1|WIFE|Y|Carrie Woodbury
+1|CHIL|Y|Tracey Jordan
+2|AGE|Y|3
+1|CHIL|Y|Al Jordan
+2|AGE|Y|23
+1|INCOME|Y|45600
+0|FAM|Y|@F988@
+1|WIFE|Y|Jan Allen
+1|CHIL|Y|Christopher Allen
+2|AGE|Y|19
+1|CHIL|Y|Yvette Allen
+2|AGE|Y|13
+1|CHIL|Y|Anthony Allen
+2|AGE|Y|25
+1|CHIL|Y|Barbara Allen
+2|AGE|Y|1
+1|INCOME|Y|41400
+0|FAM|Y|@F989@
+1|WIFE|Y|Maria Dingmann
+1|CHIL|Y|William Spease
+2|AGE|Y|16
+1|CHIL|Y|James Spease
+2|AGE|Y|1
+1|CHIL|Y|Kristen Spease
+2|AGE|Y|22
+1|CHIL|Y|Frances Spease
+2|AGE|Y|19
+1|INCOME|Y|43700
+0|FAM|Y|@F990@
+1|WIFE|Y|Jenny Lossett
+1|CHIL|Y|John Lee
+2|AGE|Y|20
+1|CHIL|Y|Timothy Lee
+2|AGE|Y|2
+1|CHIL|Y|Tammy Lee
+2|AGE|Y|20
+1|CHIL|Y|Mario Lee
+2|AGE|Y|18
+1|INCOME|Y|33300
+0|FAM|Y|@F991@
+1|WIFE|Y|Catherine Gresham
+1|CHIL|Y|Russell Gillis
+2|AGE|Y|15
+1|CHIL|Y|Theodore Gillis
+2|AGE|Y|9
+1|CHIL|Y|Wilma Gillis
+2|AGE|Y|18
+1|INCOME|Y|47000
+0|FAM|Y|@F992@
+1|WIFE|Y|Victoria Finn
+1|CHIL|Y|Mary Stone
+2|AGE|Y|13
+1|CHIL|Y|Kenna Stone
+2|AGE|Y|17
+1|CHIL|Y|Twana Stone
+2|AGE|Y|4
+1|CHIL|Y|Elizabeth Stone
+2|AGE|Y|2
+1|INCOME|Y|56500
+0|FAM|Y|@F993@
+1|WIFE|Y|Regina Jones
+1|CHIL|Y|Cris Vandermeer
+2|AGE|Y|9
+1|CHIL|Y|George Vandermeer
+2|AGE|Y|12
+1|CHIL|Y|Petra Vandermeer
+2|AGE|Y|20
+1|CHIL|Y|Miriam Vandermeer
+2|AGE|Y|5
+1|CHIL|Y|Steve Vandermeer
+2|AGE|Y|12
+1|INCOME|Y|53900
+0|FAM|Y|@F994@
+1|WIFE|Y|Trinity Turbacuski
+1|CHIL|Y|Robert Graham
+2|AGE|Y|10
+1|CHIL|Y|Andrew Graham
+2|AGE|Y|25
+1|INCOME|Y|36200
+0|FAM|Y|@F995@
+1|WIFE|Y|Louise Curtis
+1|CHIL|Y|Erline Williams
+2|AGE|Y|19
+1|CHIL|Y|Micheal Williams
+2|AGE|Y|3
+1|CHIL|Y|Robert Williams
+2|AGE|Y|20
+1|CHIL|Y|Dennis Williams
+2|AGE|Y|12
+1|INCOME|Y|30300
+0|FAM|Y|@F996@
+1|WIFE|Y|Marlene Cohen
+1|CHIL|Y|Carmen Petty
+2|AGE|Y|20
+1|CHIL|Y|Jerry Petty
+2|AGE|Y|23
+1|CHIL|Y|Stephen Petty
+2|AGE|Y|14
+1|CHIL|Y|Russell Petty
+2|AGE|Y|8
+1|CHIL|Y|Elaine Petty
+2|AGE|Y|11
+1|INCOME|Y|36200
+0|FAM|Y|@F997@
+1|WIFE|Y|Helen Lucio
+1|CHIL|Y|Robby Meadows
+2|AGE|Y|2
+1|CHIL|Y|Linda Meadows
+2|AGE|Y|4
+1|CHIL|Y|Cassie Meadows
+2|AGE|Y|4
+1|CHIL|Y|Ethel Meadows
+2|AGE|Y|4
+1|CHIL|Y|Ted Meadows
+2|AGE|Y|24
+1|INCOME|Y|40000
+0|FAM|Y|@F998@
+1|WIFE|Y|Joyce Morrow
+1|CHIL|Y|Joseph Ray
+2|AGE|Y|6
+1|CHIL|Y|Stephen Ray
+2|AGE|Y|5
+1|INCOME|Y|29700
+0|FAM|Y|@F999@
+1|WIFE|Y|Helen Tyler
+1|CHIL|Y|Rebecca Burris
+2|AGE|Y|8
+1|CHIL|Y|Daniele Burris
+2|AGE|Y|8
+1|INCOME|Y|21700
+0|FAM|Y|@F1000@
+1|WIFE|Y|Lenora Jeanes
+1|CHIL|Y|Maria Winburn
+2|AGE|Y|18
+1|CHIL|Y|Allan Winburn
+2|AGE|Y|9
+1|CHIL|Y|Gerald Winburn
+2|AGE|Y|23
+1|INCOME|Y|63900

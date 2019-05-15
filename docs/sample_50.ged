@@ -1,0 +1,440 @@
+0 @F1@ FAM 
+1 HUSB Davis Olmeda 
+1 WIFE Ann Maldonado 
+1 CHIL Raul Olmeda 
+2 AGE 17 
+1 CHIL Betty Olmeda 
+2 AGE 25 
+1 CHIL Jeremy Olmeda 
+2 AGE 6 
+1 CHIL Linda Olmeda 
+2 AGE 10 
+1 INCOME 38900 
+0 @F2@ FAM 
+1 HUSB Robert Weaver 
+1 WIFE Helen Payne 
+1 CHIL Starr Weaver 
+2 AGE 10 
+1 CHIL Christian Weaver 
+2 AGE 14 
+1 CHIL Mary Weaver 
+2 AGE 7 
+1 INCOME 69200 
+0 @F3@ FAM 
+1 HUSB Joseph Poff 
+1 WIFE Monique Finley 
+1 CHIL Cassandra Poff 
+2 AGE 15 
+1 CHIL Ricky Poff 
+2 AGE 9 
+1 CHIL Karl Poff 
+2 AGE 2 
+1 INCOME 49200 
+0 @F4@ FAM 
+1 HUSB Darrin Anderson 
+1 WIFE Debra Benson 
+1 CHIL Gloria Anderson 
+2 AGE 5 
+1 CHIL Phyllis Anderson 
+2 AGE 23 
+1 CHIL Chris Anderson 
+2 AGE 15 
+1 INCOME 32500 
+0 @F5@ FAM 
+1 HUSB Aaron Humes 
+1 WIFE Katy Castoe 
+1 CHIL Paige Humes 
+2 AGE 5 
+1 CHIL Craig Humes 
+2 AGE 6 
+1 INCOME 33100 
+0 @F6@ FAM 
+1 HUSB Jimmie Smith 
+1 WIFE Charlotte Breed 
+1 CHIL David Smith 
+2 AGE 10 
+1 CHIL Audrey Smith 
+2 AGE 17 
+1 CHIL Harold Smith 
+2 AGE 20 
+1 INCOME 65500 
+0 @F7@ FAM 
+1 HUSB Mark Kirsch 
+1 WIFE Christine Caraway 
+1 CHIL Darrell Kirsch 
+2 AGE 16 
+1 CHIL Linda Kirsch 
+2 AGE 15 
+1 CHIL Kelly Kirsch 
+2 AGE 14 
+1 INCOME 67900 
+0 @F8@ FAM 
+1 HUSB Mark Phillips 
+1 WIFE Herminia Dixon 
+1 CHIL Lelia Phillips 
+2 AGE 20 
+1 INCOME 59100 
+0 @F9@ FAM 
+1 HUSB Carlos Reyes 
+1 WIFE Velma Jones 
+1 CHIL Patrick Reyes 
+2 AGE 10 
+1 CHIL Karen Reyes 
+2 AGE 17 
+1 CHIL Steven Reyes 
+2 AGE 6 
+1 CHIL Marguerite Reyes 
+2 AGE 11 
+1 CHIL Donna Reyes 
+2 AGE 24 
+1 INCOME 60700 
+0 @F10@ FAM 
+1 HUSB David Milot 
+1 WIFE Linda Walker 
+1 CHIL Jeffrey Milot 
+2 AGE 4 
+1 CHIL Pearl Milot 
+2 AGE 20 
+1 CHIL Julia Milot 
+2 AGE 5 
+1 CHIL Valerie Milot 
+2 AGE 23 
+1 CHIL David Milot 
+2 AGE 13 
+1 INCOME 28500 
+0 @F11@ FAM 
+1 HUSB James Cook 
+1 WIFE Bernice Tada 
+1 CHIL Lindsey Cook 
+2 AGE 23 
+1 CHIL Nellie Cook 
+2 AGE 19 
+1 INCOME 36600 
+0 @F12@ FAM 
+1 HUSB Bryan Sudderth 
+1 WIFE Brandee Golding 
+1 CHIL Karen Sudderth 
+2 AGE 2 
+1 INCOME 27600 
+0 @F13@ FAM 
+1 HUSB Calvin Hernandez 
+1 WIFE Hattie Roth 
+1 CHIL Simonne Hernandez 
+2 AGE 20 
+1 CHIL Jessie Hernandez 
+2 AGE 24 
+1 CHIL Christena Hernandez 
+2 AGE 24 
+1 CHIL Betty Hernandez 
+2 AGE 18 
+1 INCOME 21700 
+0 @F14@ FAM 
+1 HUSB Anthony Ormsby 
+1 WIFE Gloria Roberts 
+1 CHIL Patrick Ormsby 
+2 AGE 1 
+1 INCOME 45000 
+0 @F15@ FAM 
+1 HUSB Rex Williams 
+1 WIFE Jessica Johnson 
+1 CHIL Daniel Williams 
+2 AGE 19 
+1 CHIL Dominique Williams 
+2 AGE 5 
+1 CHIL William Williams 
+2 AGE 22 
+1 INCOME 29800 
+0 @F16@ FAM 
+1 HUSB Richard Bowman 
+1 WIFE Mary Lauritsen 
+1 CHIL Larry Bowman 
+2 AGE 22 
+1 CHIL William Bowman 
+2 AGE 8 
+1 INCOME 61500 
+0 @F17@ FAM 
+1 HUSB James Boyce 
+1 WIFE Carmen Schmidt 
+1 CHIL Virginia Boyce 
+2 AGE 3 
+1 INCOME 61600 
+0 @F18@ FAM 
+1 HUSB Melvin Wright 
+1 WIFE Martha Baptiste 
+1 CHIL Elisa Wright 
+2 AGE 17 
+1 CHIL Rupert Wright 
+2 AGE 19 
+1 CHIL Gregory Wright 
+2 AGE 11 
+1 INCOME 50100 
+0 @F19@ FAM 
+1 HUSB Charles Davis 
+1 WIFE Tamara Gonzalez 
+1 CHIL Richard Davis 
+2 AGE 6 
+1 CHIL Juan Davis 
+2 AGE 2 
+1 INCOME 66000 
+0 @F20@ FAM 
+1 HUSB John Otey 
+1 WIFE Tanya Bethea 
+1 CHIL Kelly Otey 
+2 AGE 24 
+1 CHIL Janell Otey 
+2 AGE 9 
+1 CHIL Paul Otey 
+2 AGE 17 
+1 CHIL Juan Otey 
+2 AGE 19 
+1 INCOME 44300 
+0 @F21@ FAM 
+1 HUSB Robert Schwartz 
+1 WIFE Joselyn Alvarado 
+1 CHIL Shirley Schwartz 
+2 AGE 11 
+1 CHIL Erica Schwartz 
+2 AGE 19 
+1 INCOME 27200 
+0 @F22@ FAM 
+1 HUSB Bruce Nase 
+1 WIFE Joanne Goodenow 
+1 CHIL Ronald Nase 
+2 AGE 4 
+1 CHIL Ruth Nase 
+2 AGE 23 
+1 CHIL Vicente Nase 
+2 AGE 2 
+1 INCOME 43500 
+0 @F23@ FAM 
+1 HUSB Roger Sanchez 
+1 WIFE Leila Leu 
+1 CHIL Emily Sanchez 
+2 AGE 11 
+1 CHIL Rodney Sanchez 
+2 AGE 21 
+1 CHIL Sara Sanchez 
+2 AGE 17 
+1 CHIL Dorothy Sanchez 
+2 AGE 2 
+1 CHIL Beatrice Sanchez 
+2 AGE 23 
+1 INCOME 34100 
+0 @F24@ FAM 
+1 HUSB Rudy Booth 
+1 WIFE Brandy Dewall 
+1 CHIL Michael Booth 
+2 AGE 16 
+1 CHIL Robert Booth 
+2 AGE 20 
+1 INCOME 32400 
+0 @F25@ FAM 
+1 HUSB James Smith 
+1 WIFE Joanne Moore 
+1 CHIL Evelyn Smith 
+2 AGE 2 
+1 INCOME 20400 
+0 @F26@ FAM 
+1 HUSB Lewis Abarca 
+1 WIFE Christina Campbell 
+1 CHIL Scotty Abarca 
+2 AGE 15 
+1 CHIL Delbert Abarca 
+2 AGE 14 
+1 CHIL Trina Abarca 
+2 AGE 14 
+1 CHIL Ronald Abarca 
+2 AGE 17 
+1 INCOME 47300 
+0 @F27@ FAM 
+1 HUSB Martin Rumph 
+1 WIFE Debora Wynne 
+1 CHIL Andrea Rumph 
+2 AGE 13 
+1 CHIL Tony Rumph 
+2 AGE 1 
+1 CHIL Bernard Rumph 
+2 AGE 16 
+1 INCOME 37700 
+0 @F28@ FAM 
+1 HUSB Gary Fromm 
+1 WIFE Leila Paquin 
+1 CHIL John Fromm 
+2 AGE 15 
+1 CHIL Mona Fromm 
+2 AGE 1 
+1 INCOME 43700 
+0 @F29@ FAM 
+1 HUSB Joseph Thompson 
+1 WIFE Dana Cook 
+1 CHIL Alicia Thompson 
+2 AGE 22 
+1 CHIL Rolando Thompson 
+2 AGE 6 
+1 CHIL Melanie Thompson 
+2 AGE 6 
+1 CHIL Janyce Thompson 
+2 AGE 20 
+1 CHIL Amber Thompson 
+2 AGE 15 
+1 INCOME 30100 
+0 @F30@ FAM 
+1 HUSB Dennis Rios 
+1 WIFE Patricia Fernandez 
+1 CHIL John Rios 
+2 AGE 24 
+1 INCOME 24600 
+0 @F31@ FAM 
+1 HUSB Victor Manley 
+1 CHIL Michael Manley 
+2 AGE 25 
+1 INCOME 45200 
+0 @F32@ FAM 
+1 HUSB John Deem 
+1 CHIL Joanne Deem 
+2 AGE 2 
+1 CHIL Willie Deem 
+2 AGE 17 
+1 CHIL Antoinette Deem 
+2 AGE 4 
+1 CHIL Everett Deem 
+2 AGE 3 
+1 INCOME 28400 
+0 @F33@ FAM 
+1 HUSB Thomas Contreras 
+1 CHIL Norman Contreras 
+2 AGE 24 
+1 INCOME 23200 
+0 @F34@ FAM 
+1 HUSB Ryan Rowe 
+1 CHIL Kimberly Rowe 
+2 AGE 11 
+1 INCOME 57900 
+0 @F35@ FAM 
+1 HUSB Adrian Massimino 
+1 CHIL Darla Massimino 
+2 AGE 11 
+1 CHIL Kelsey Massimino 
+2 AGE 24 
+1 CHIL John Massimino 
+2 AGE 7 
+1 CHIL Clifton Massimino 
+2 AGE 24 
+1 INCOME 56000 
+0 @F36@ FAM 
+1 HUSB Shaun Scrabeck 
+1 CHIL Daniel Scrabeck 
+2 AGE 8 
+1 CHIL Sandra Scrabeck 
+2 AGE 25 
+1 INCOME 22200 
+0 @F37@ FAM 
+1 HUSB Keith Mckenna 
+1 CHIL Sheila Mckenna 
+2 AGE 1 
+1 CHIL Esteban Mckenna 
+2 AGE 4 
+1 CHIL Jorge Mckenna 
+2 AGE 15 
+1 CHIL Mercedes Mckenna 
+2 AGE 18 
+1 INCOME 34900 
+0 @F38@ FAM 
+1 HUSB David Dunaway 
+1 CHIL Imelda Dunaway 
+2 AGE 9 
+1 CHIL Robby Dunaway 
+2 AGE 15 
+1 CHIL Emily Dunaway 
+2 AGE 17 
+1 CHIL Rebecca Dunaway 
+2 AGE 4 
+1 CHIL Mary Dunaway 
+2 AGE 11 
+1 INCOME 22800 
+0 @F39@ FAM 
+1 HUSB Alvin Goodman 
+1 CHIL Michael Goodman 
+2 AGE 18 
+1 CHIL Katherine Goodman 
+2 AGE 5 
+1 INCOME 52400 
+0 @F40@ FAM 
+1 HUSB Theodore Burgoon 
+1 CHIL Evelyn Burgoon 
+2 AGE 17 
+1 CHIL Kevin Burgoon 
+2 AGE 17 
+1 CHIL Michael Burgoon 
+2 AGE 22 
+1 CHIL Janice Burgoon 
+2 AGE 2 
+1 INCOME 58600 
+0 @F41@ FAM 
+1 WIFE Louann Izzo 
+1 CHIL Jon Loguidice 
+2 AGE 13 
+1 CHIL Lois Loguidice 
+2 AGE 2 
+1 INCOME 47200 
+0 @F42@ FAM 
+1 WIFE Renee Tanner 
+1 CHIL Danny Palmer 
+2 AGE 20 
+1 CHIL Lucia Palmer 
+2 AGE 5 
+1 INCOME 32200 
+0 @F43@ FAM 
+1 WIFE Alverta Balfour 
+1 CHIL Latrina Morgan 
+2 AGE 7 
+1 INCOME 22100 
+0 @F44@ FAM 
+1 WIFE Winnifred Ariel 
+1 CHIL Edward Reynolds 
+2 AGE 3 
+1 CHIL Benjamin Reynolds 
+2 AGE 2 
+1 INCOME 68300 
+0 @F45@ FAM 
+1 WIFE Tonia Hughes 
+1 CHIL Lora Lyle 
+2 AGE 20 
+1 CHIL Isaiah Lyle 
+2 AGE 24 
+1 INCOME 58800 
+0 @F46@ FAM 
+1 WIFE Arlene Melgar 
+1 CHIL Nettie Dean 
+2 AGE 19 
+1 INCOME 66600 
+0 @F47@ FAM 
+1 WIFE Carol Maris 
+1 CHIL Hugh Dunbar 
+2 AGE 7 
+1 CHIL George Dunbar 
+2 AGE 2 
+1 INCOME 23300 
+0 @F48@ FAM 
+1 WIFE Jane Kraus 
+1 CHIL Karen Keeney 
+2 AGE 19 
+1 CHIL Jessica Keeney 
+2 AGE 5 
+1 CHIL Daniel Keeney 
+2 AGE 21 
+1 INCOME 38700 
+0 @F49@ FAM 
+1 WIFE Gussie Mckay 
+1 CHIL Rueben Everett 
+2 AGE 20 
+1 CHIL Del Everett 
+2 AGE 9 
+1 CHIL Cynthia Everett 
+2 AGE 18 
+1 INCOME 54900 
+0 @F50@ FAM 
+1 WIFE Jeannie Morales 
+1 CHIL David Cobb 
+2 AGE 14 
+1 INCOME 27700 
